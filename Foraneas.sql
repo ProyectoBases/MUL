@@ -1,0 +1,16 @@
+ALTER TABLE multimedias ADD CONSTRAINT FK_multimedia FOREIGN KEY (idDirector) REFERENCES directores(id);
+ALTER TABLE premiosMultimedia ADD CONSTRAINT FK_premiosMUL FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE temporadas ADD CONSTRAINT FK_temporadas FOREIGN KEY (idSeries) REFERENCES series(id);
+ALTER TABLE capitulosSeries ADD CONSTRAINT FK_capitulosSE FOREIGN KEY (idSerie) REFERENCES series(id);
+ALTER TABLE capitulosDocumentales ADD CONSTRAINT FK_capitulosDoc FOREIGN KEY (idDocumental) REFERENCES documentales(id);
+ALTER TABLE actua ADD CONSTRAINT FK_actuaA FOREIGN KEY (idActor) REFERENCES actores(id);
+ALTER TABLE actua ADD CONSTRAINT FK_actuaM FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE premiosActores ADD CONSTRAINT FK_premiosActo FOREIGN KEY (idActor) REFERENCES actores(id);
+ALTER TABLE observa ADD CONSTRAINT FK_observaM FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE observa ADD CONSTRAINT FK_observaP FOREIGN KEY (idPlantilla) REFERENCES plantillas(id);
+ALTER TABLE plantillas ADD CONSTRAINT FK_plantillas FOREIGN KEY (idSuscripcion) REFERENCES suscripciones(id);
+ALTER TABLE suscripciones ADD CONSTRAINT FK_suscripcionesU FOREIGN KEY (idUsuario) REFERENCES usuarios(id);
+ALTER TABLE suscripciones ADD CONSTRAINT FK_suscripcionesP FOREIGN KEY (idPlan) REFERENCES planes(id);
+ALTER TABLE definicionVistas ADD CONSTRAINT FK_definicionV FOREIGN KEY (idSuscripcion) REFERENCES suscripciones(id);
+ALTER TABLE solicita ADD CONSTRAINT FK_solicitaU FOREIGN KEY (idUsuario) REFERENCES usuarios(id);
+ALTER TABLE solicita ADD CONSTRAINT FK_solicitaS FOREIGN KEY (idSolicitud) REFERENCES solicitudes(id);
