@@ -17,3 +17,4 @@ ALTER TABLE usuarios ADD CONSTRAINT PK_usuarios PRIMARY KEY (id);
 ALTER TABLE solicita ADD CONSTRAINT PK_solicita PRIMARY KEY (idUsuario,idSolicitud);
 ALTER TABLE solicitudes ADD CONSTRAINT PK_solicitudes PRIMARY KEY (id);
 ALTER TABLE planes ADD CONSTRAINT PK_planes PRIMARY KEY (id);
+ALTER TABLE categorias ADD CONSTRAINT PK_categorias PRIMARY KEY (id,idMultimedia);

@@ -10,11 +10,29 @@ CREATE TABLE PremiosMultimedia(id NUMBER NOT NULL,
 							nombre VARCHAR(200) NOT NULL,
 							categoriaPremio VARCHAR(50) NOT NULL,
 							idMultimedia NUMBER NOT NULL);
+CREATE TABLE categorias(
+    id NUMBER NOT NULL,
+    nombre VARCHAR(100) NOT NULL,
+    idMultimedia NUMBER NOT NULL
+);
 
 CREATE TABLE Series(id NUMBER NOT NULL,
-					temporada NUMBER(2) NOT NULL);
+                    nombre VARCHAR(300) NOT NULL,
+                    categoria VARCHAR(30) NOT NULL,
+                    calificacion NUMBER(2,1) NOT NULL,
+                    duracion VARCHAR(20) NOT NULL,
+                    idDirector NUMBER NOT NULL,
+                    sinopsis VARCHAR(2000) NOT NULL,
+					numeroTemporadas NUMBER(2) NOT NULL);
 
-CREATE TABLE Documentales(id NUMBER NOT NULL,
+CREATE TABLE Documentales(
+                    id NUMBER NOT NULL,
+                    nombre VARCHAR(300) NOT NULL,
+                    categoria VARCHAR(30) NOT NULL,
+                    calificacion NUMBER(2,1) NOT NULL,
+                    duracion VARCHAR(20) NOT NULL,
+                    idDirector NUMBER NOT NULL,
+                    sinopsis VARCHAR(2000) NOT NULL,
 					numeroCapitulos NUMBER(2) NOT NULL);
 
 CREATE TABLE Temporadas(
@@ -90,7 +108,7 @@ CREATE TABLE definicionVistas(
 CREATE TABLE usuarios(
     id NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
-    correo VARCHAR(100) NOT NULL UNIQUE,
+    correo VARCHAR(100) NOT NULL,
     fechaNacimiento DATE NOT NULL
 );
 CREATE TABLE solicita(

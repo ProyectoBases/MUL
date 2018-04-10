@@ -1,0 +1,2 @@
+/*CATEGORIAS*/
+INSERT INTO categorias VALUES(1,);
