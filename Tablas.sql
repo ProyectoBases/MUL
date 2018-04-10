@@ -1,10 +1,9 @@
 CREATE TABLE Multimedias(id NUMBER NOT NULL,
-						nombre VARCHAR(300) NOT NULL,
-						categoria VARCHAR(30) NOT NULL,
+						nombre VARCHAR(3000) NOT NULL,
 						calificacion NUMBER(2,1) NOT NULL,
-						duracion VARCHAR(20) NOT NULL,
+						duracion VARCHAR(200) NOT NULL,
 						idDirector NUMBER NOT NULL,
-						sinopsis VARCHAR(2000) NOT NULL);
+						sinopsis VARCHAR(4000) NOT NULL);
 
 CREATE TABLE PremiosMultimedia(id NUMBER NOT NULL,
 							nombre VARCHAR(200) NOT NULL,
@@ -19,7 +18,7 @@ CREATE TABLE categorias(
 CREATE TABLE Series(id NUMBER NOT NULL,
                     nombre VARCHAR(300) NOT NULL,
                     categoria VARCHAR(30) NOT NULL,
-                    calificacion NUMBER(2,1) NOT NULL,
+                    calificacion NUMBER(5,1) NOT NULL,
                     duracion VARCHAR(20) NOT NULL,
                     idDirector NUMBER NOT NULL,
                     sinopsis VARCHAR(2000) NOT NULL,
@@ -29,7 +28,7 @@ CREATE TABLE Documentales(
                     id NUMBER NOT NULL,
                     nombre VARCHAR(300) NOT NULL,
                     categoria VARCHAR(30) NOT NULL,
-                    calificacion NUMBER(2,1) NOT NULL,
+                    calificacion NUMBER(5,1) NOT NULL,
                     duracion VARCHAR(20) NOT NULL,
                     idDirector NUMBER NOT NULL,
                     sinopsis VARCHAR(2000) NOT NULL,
@@ -60,7 +59,7 @@ CREATE TABLE capitulosSeries(
     id NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
     apellido VARCHAR(300) NOT NULL,
-    calificacion NUMBER(1,1) NOT NULL
+    calificacion NUMBER(5,1) NOT NULL
  );
  CREATE TABLE actua(
     idActor NUMBER NOT NULL,
