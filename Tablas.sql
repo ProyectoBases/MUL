@@ -9,7 +9,7 @@ CREATE TABLE PremiosMultimedia(id NUMBER NOT NULL,
 							nombre VARCHAR(200) NOT NULL,
 							categoriaPremio VARCHAR(50) NOT NULL,
 							idMultimedia NUMBER NOT NULL);
-CREATE TABLE categoriasMultimedia(
+CREATE TABLE categorias(
     id NUMBER NOT NULL,
     nombre VARCHAR(100) NOT NULL,
     idMultimedia NUMBER NOT NULL
@@ -17,9 +17,8 @@ CREATE TABLE categoriasMultimedia(
 
 CREATE TABLE Series(id NUMBER NOT NULL,
                     nombre VARCHAR(300) NOT NULL,
-                    categoria VARCHAR(30) NOT NULL,
                     calificacion NUMBER(5,1) NOT NULL,
-                    duracion VARCHAR(20) NOT NULL,
+                    duracion VARCHAR(200) NOT NULL,
                     idDirector NUMBER NOT NULL,
                     sinopsis VARCHAR(2000) NOT NULL,
 					numeroTemporadas NUMBER(2) NOT NULL);
@@ -38,9 +37,8 @@ CREATE TABLE categoriasDocumentales(
 CREATE TABLE Documentales(
                     id NUMBER NOT NULL,
                     nombre VARCHAR(300) NOT NULL,
-                    categoria VARCHAR(30) NOT NULL,
                     calificacion NUMBER(5,1) NOT NULL,
-                    duracion VARCHAR(20) NOT NULL,
+                    duracion VARCHAR(200) NOT NULL,
                     idDirector NUMBER NOT NULL,
                     sinopsis VARCHAR(2000) NOT NULL,
 					numeroCapitulos NUMBER(2) NOT NULL);
@@ -48,7 +46,7 @@ CREATE TABLE Documentales(
 CREATE TABLE Temporadas(
     id NUMBER NOT NULL,
     idSeries NUMBER NOT NULL,
-    capitulos NUMBER(2) NOT NULL
+    capitulos NUMBER(20) NOT NULL
 );
 
 CREATE TABLE capitulosSeries(

@@ -1,5 +1,5 @@
 ALTER TABLE multimedias ADD CONSTRAINT FK_multimedia FOREIGN KEY (idDirector) REFERENCES directores(id);
-ALTER TABLE categoriasMultimedia ADD CONSTRAINT FK_categoriasM FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE categorias ADD CONSTRAINT FK_categoriasM FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
 ALTER TABLE premiosMultimedia ADD CONSTRAINT FK_premiosMUL FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
 ALTER TABLE temporadas ADD CONSTRAINT FK_temporadas FOREIGN KEY (idSeries) REFERENCES series(id);
 ALTER TABLE capitulosSeries ADD CONSTRAINT FK_capitulosSE FOREIGN KEY (idSerie) REFERENCES series(id);
