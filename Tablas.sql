@@ -131,29 +131,7 @@ CREATE TABLE planes(
     id NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL
 );
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+CREATE TABLE peliculas(
+    id NUMBER NOT NULL,
+    idMultimedia NUMBER NOT NULL
+);
