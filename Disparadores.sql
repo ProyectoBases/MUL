@@ -154,6 +154,16 @@ SELECT MAX(id)+1 INTO numero FROM peliculas;
 END;
 /
 
+/*AUTOMATIZAR FECHAS*/
+CREATE OR REPLACE TRIGGER fechaObserva
+BEFORE INSERT ON observa
+FOR EACH ROW
+DECLARE fech DATE;
+BEGIN
+SELECT SYSDATE INTO fech FROM DUAL;
+:NEW.fecha := fech;
+END;
+/
 /**/
 
 
