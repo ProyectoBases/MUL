@@ -1,9 +1,9 @@
 ALTER TABLE multimedias ADD CONSTRAINT PK_multimedia PRIMARY KEY (id);
 ALTER TABLE premiosMultimedia ADD CONSTRAINT PK_premiosM PRIMARY KEY (id,idMultimedia);
-ALTER TABLE series ADD CONSTRAINT PK_series PRIMARY KEY (id);
+ALTER TABLE series ADD CONSTRAINT PK_series PRIMARY KEY (id,idMultimedia);
 ALTER TABLE temporadas ADD CONSTRAINT PK_temporadas PRIMARY KEY (id,idSeries);
 ALTER TABLE capitulosSeries ADD CONSTRAINT PK_capitulosS PRIMARY KEY (id,idSerie);
-ALTER TABLE documentales ADD CONSTRAINT PK_documentales PRIMARY KEY (id);
+ALTER TABLE documentales ADD CONSTRAINT PK_documentales PRIMARY KEY (id,idMultimedia);
 ALTER TABLE capitulosDocumentales ADD CONSTRAINT PK_capitulosDo PRIMARY KEY (id,idDocumental);
 ALTER TABLE directores ADD CONSTRAINT PK_directores PRIMARY KEY (id);
 ALTER TABLE actua ADD CONSTRAINT PK_actua PRIMARY KEY (idActor,idMultimedia);
@@ -20,3 +20,4 @@ ALTER TABLE planes ADD CONSTRAINT PK_planes PRIMARY KEY (id);
 ALTER TABLE categorias ADD CONSTRAINT PK_categoriasM PRIMARY KEY (id,idMultimedia);
 ALTER TABLE categoriasSeries ADD CONSTRAINT PK_categoriasS PRIMARY KEY (id,idSerie);
 ALTER TABLE categoriasDocumentales ADD CONSTRAINT PK_categoriasD PRIMARY KEY (id,idDocumental);
+ALTER TABLE peliculas ADD CONSTRAINT PK_peliculas PRIMARY KEY (id,idMultimedia);
