@@ -8,13 +8,13 @@ ALTER TABLE premiosMultimedia DROP CONSTRAINT FK_premiosMUL;
 ALTER TABLE premiosMultimedia ADD CONSTRAINT FK_premiosMUL FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
 
 ALTER TABLE temporadas DROP CONSTRAINT FK_temporadas;
-ALTER TABLE temporadas ADD CONSTRAINT FK_temporadas FOREIGN KEY (idSeries) REFERENCES series(id) ON DELETE CASCADE;
+ALTER TABLE temporadas ADD CONSTRAINT FK_temporadas FOREIGN KEY (id,idSerie) REFERENCES series(id,idMultimedia) ON DELETE CASCADE;
 
 ALTER TABLE capitulosSeries DROP CONSTRAINT FK_capitulosSE;
-ALTER TABLE capitulosSeries ADD CONSTRAINT FK_capitulosSE FOREIGN KEY (idSerie) REFERENCES series(id) ON DELETE CASCADE;
+ALTER TABLE capitulosSeries ADD CONSTRAINT FK_capitulosSE FOREIGN KEY (id,idSerie) REFERENCES temporadas(id,idSerie) ON DELETE CASCADE;
 
 ALTER TABLE capitulosDocumentales DROP CONSTRAINT FK_capitulosDoc;
-ALTER TABLE capitulosDocumentales ADD CONSTRAINT FK_capitulosDoc FOREIGN KEY (idDocumental) REFERENCES documentales(id) ON DELETE CASCADE;
+ALTER TABLE capitulosDocumentales ADD CONSTRAINT FK_capitulosDoc FOREIGN KEY (id,idDocumental) REFERENCES documentales(id,idMultimedia) ON DELETE CASCADE;
 
 ALTER TABLE actua DROP CONSTRAINT FK_actuaA;
 ALTER TABLE actua ADD CONSTRAINT FK_actuaA FOREIGN KEY (idActor) REFERENCES actores(id) ON DELETE SET NULL;
@@ -49,17 +49,11 @@ ALTER TABLE solicita ADD CONSTRAINT FK_solicitaU FOREIGN KEY (idUsuario) REFEREN
 ALTER TABLE solicita DROP CONSTRAINT FK_solicitaS;
 ALTER TABLE solicita ADD CONSTRAINT FK_solicitaS FOREIGN KEY (idSolicitud) REFERENCES solicitudes(id) ON DELETE CASCADE;
 
-ALTER TABLE categoriasSeries DROP CONSTRAINT FK_categoriasS;
-ALTER TABLE categoriasSeries ADD CONSTRAINT FK_categoriasS FOREIGN KEY (idSerie) REFERENCES series(id) ON DELETE CASCADE;
+ALTER TABLE series DROP CONSTRAINT FK_series;
+ALTER TABLE series ADD CONSTRAINT FK_series FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
 
-ALTER TABLE categoriasDocumentales DROP CONSTRAINT FK_categoriasD;
-ALTER TABLE categoriasDocumentales ADD CONSTRAINT FK_categoriasD FOREIGN KEY (idDocumental) REFERENCES documentales(id) ON DELETE CASCADE;
+ALTER TABLE documentales DROP CONSTRAINT FK_documentales;
+ALTER TABLE documentales ADD CONSTRAINT FK_documentales FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
 
-ALTER TABLE series DROP CONSTRAINT FK_seriesi;
-ALTER TABLE series ADD CONSTRAINT FK_seriesi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
-
-ALTER TABLE documentales DROP CONSTRAINT FK_documentalesi;
-ALTER TABLE documentales ADD CONSTRAINT FK_documentalesi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
-
-ALTER TABLE peliculas DROP CONSTRAINT FK_peliculasi;
-ALTER TABLE peliculas ADD CONSTRAINT FK_peliculasi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
+ALTER TABLE peliculas DROP CONSTRAINT FK_peliculas;
+ALTER TABLE peliculas ADD CONSTRAINT FK_peliculas FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;

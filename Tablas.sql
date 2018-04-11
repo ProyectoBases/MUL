@@ -62,7 +62,7 @@ CREATE TABLE capitulosSeries(
     nombre VARCHAR(300) NOT NULL,
     apellido VARCHAR(300) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    sexo VARCHAR(9) NOT NULL
+    sexo VARCHAR(20) NOT NULL
  );
  CREATE TABLE premiosActores(
     id NUMBER NOT NULL,

@@ -38,11 +38,60 @@ categoriasPremioActor = ["mejor actor",
                          "mejor acriz",
                          "mejor actriz de reparto"
                          ]
+nombres = ["andres",
+           "felipe",
+           "yeisson",
+           "daniela",
+           "daniel",
+           "carlos",
+           "ernesto",
+           "fabiola",
+           "sebastian",
+           "robert",
+           "richard",
+           "michael",
+           "cesar",
+           "diana",
+           "pablo",
+           "gualdron",
+           "jairo",
+           "josefina",
+           "angelica"
+    ]
+apellidos=["gualdron",
+           "lindo",
+           "rodriguez",
+           "vivas",
+           "palacios",
+           "rozo",
+           "flores",
+           "diaz",
+           "maldonado",
+           "molano",
+           "lewandowsky",
+           "cuadrado",
+           "pereira"
+    ]
+letras = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
+
+
+
+
+
+personajes = ["principal","secundario","reparto"]
+
+
+generos = ["masculino","femenino"]
+
 idMultimedia = 178
 idDirector = 99
 idSeries = 999
 idDocumentales = 999
-
+idActor = 999
+idSolicitud = 170
+idUsuario = 990
+idSuscripcion = 495
+idPlantilla=990
 
 def directores():
     x = stdin.readline().strip().split()
@@ -141,9 +190,103 @@ def capitulosSeries():
         print("INSERT INTO capitulosSeries VALUES("+str(ID)+","+str(idMultimedia)+","+"\'"+nombre+"\'"+","+"\'"+duracion+"\'"+","+"\'"+descripcion+"\'"+");")
         x = stdin.readline().strip()
 
-capitulosSeries()
+
+def capitulosDocumentales():
+    x = stdin.readline().strip()
+    while len(x)!=0:
+        x = x.split("!")
+        uno = x[0].split("(")
+        IDS = uno[1].split(",")
+        ID = IDS[0]
+        idMultimedia = IDS[1]
+        nombre = x[1].replace("'","").replace('"',"").replace("&","y").replace("`","")
+        duracion = x[2]
+        descripcion = sinopsis[random.randrange(len(sinopsis))]
+        print("INSERT INTO capitulosDocumentales VALUES("+str(ID)+","+str(idMultimedia)+","+"\'"+nombre+"\'"+","+"\'"+duracion+"\'"+","+"\'"+descripcion+"\'"+");")
+        x = stdin.readline().strip()
+
+def actores():
+    for i in range(1000):
+        print("INSERT INTO actores VALUES("+str(i+1)+","+"\'"+nombres[random.randrange(len(nombres))]+"\'"+","+"\'"+apellidos[random.randrange(len(apellidos))]+"\'"+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+","+"\'"+generos[random.randrange(len(generos))]+"\');")
+def actua():
+    for i in range(1000):
+        print("INSERT INTO actua VALUES("+str(random.randrange(1,idActor))+","+str(random.randrange(1,idMultimedia))+","+"\'"+personajes[random.randrange(len(personajes))]+"\');")
+def premiosActores():
+    cont = 0
+    x = stdin.readline().strip()
+    while len(x)!=0:
+        x = x.split(",")
+        nombre = x[0]
+        nombre = nombre.replace("&","y")
+        print("INSERT INTO premiosActores VALUES("+str(cont)+","+str(random.randrange(idActor))+","+"\'"+nombre+"\'"+","+"\'"+categoriasPremioActor[random.randrange(len(categoriasPremioActor))]+"\'"+");")
+        cont+=1
+        x = stdin.readline().strip()
+
+def usuarios():
+    ya = set()
+    for i in range(1000):
+        conca=""
+        for j in range(20):
+            conca+=letras[random.randrange(len(letras))]
+        correo = conca+"@hotmail.com"
+        while correo in ya:
+            for j in range(20):
+                conca+=letras[random.randrange(len(letras))]
+            correo = conca+"@hotmail.com"
+            conca = ""
+        ya.add(correo)
+        print("INSERT INTO usuarios VALUES("+str(i)+","+"\'"+nombres[random.randrange(len(nombres))]+"\'"+","+"\'"+correo+"\'"+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+");")
+def planes():
+    plane = ["premium","basico","estandar"]
+    for i in range(len(plane)):
+        print("INSERT INTO planes VALUES("+str(i)+","+"\'"+plane[i]+"\'"+");")
+def peliculas():
+    for i in range(1000):
+        print("INSERT INTO peliculas VALUES("+str(i)+","+str(random.randrange(idMultimedia))+");")
+def solicitudes():
+    x = stdin.readline().strip()
+    cont = 0
+    while len(x)!=0:
+        x = x.split("!")
+        titulo = x[0].replace("'","").replace('"',"").replace("&","y")
+        titulo.strip()
+        print("INSERT INTO solicitudes VALUES("+str(cont)+","+"\'"+titulo+"\');")
+        cont +=1
+        x = stdin.readline().strip()
+def solicita():
+    for i in range(1000):
+        print("INSERT INTO solicita VALUES("+str(random.randrange(idUsuario))+","+str(random.randrange(idSolicitud))+");")
+def suscripciones():
+    plane = ["premium","basico","estandar"]
+    p = set()
+    for i in range(500):
+        usuario = str(random.randrange(idUsuario))
+        while usuario in p:
+            usuario = str(random.randrange(idUsuario))
+        p.add(usuario)
+        print("INSERT INTO suscripciones VALUES("+str(i)+","+usuario+","+str(random.randrange(3))+","+"\'"+plane[random.randrange(3)]+"\'"+","+str(random.randrange(1,6))+");")
 
 
+def definicionVistas():
+    p = set()
+    vistas = ["normal","HD","ultra HD"]
+    for i in range(1000):
+        nombre = vistas[random.randrange(len(vistas))]
+        suscripcion = str(random.randrange(idSuscripcion))
+        while (nombre,suscripcion) in p:
+            nombre = vistas[random.randrange(len(vistas))]
+            suscripcion = str(random.randrange(idSuscripcion))
+        p.add((nombre,suscripcion))
+        print("INSERT INTO definicionVistas VALUES("+"\'"+nombre+"\'"+","+suscripcion+");")
+
+def plantillas():
+    for i in range(1000):
+        print("INSERT INTO plantillas VALUES("+str(i)+","+str(random.randrange(idSuscripcion))+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+","+"\'"+nombres[random.randrange(len(nombres))]+"\');")
+    
+def observa():
+    for i in range(1000):
+        print("INSERT INTO observa VALUES("+str(random.randrange(idMultimedia))+","+str(random.randrange(idPlantilla))+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+","+str(random.randrange(0,1))+");")
+observa()
 
 
 

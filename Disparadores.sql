@@ -1,0 +1,177 @@
+/*AUTOMATIZAR IDS*/
+
+CREATE OR REPLACE TRIGGER idMultimedias
+BEFORE INSERT ON multimedias
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM multimedias;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idCategorias
+BEFORE INSERT ON categorias
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM categorias;
+END;
+/
+
+
+CREATE OR REPLACE TRIGGER idPremiosM
+BEFORE INSERT ON premiosMultimedia
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM premiosMultimedia;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idSeries
+BEFORE INSERT ON series
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM series;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idTemporadas
+BEFORE INSERT ON temporadas
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM temporadas;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idCapituSer
+BEFORE INSERT ON capitulosSeries
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM capitulosSeries;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idDocumentales
+BEFORE INSERT ON documentales
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM documentales;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idCapitulosDoc
+BEFORE INSERT ON capitulosDocumentales
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM capitulosDocumentales;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idDirectores
+BEFORE INSERT ON directores
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM directores;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idActores
+BEFORE INSERT ON actores
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM actores;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idPremiosAc
+BEFORE INSERT ON premiosActores
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM premiosActores;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idPlantillas
+BEFORE INSERT ON plantillas
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM plantillas;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idSuscripciones
+BEFORE INSERT ON suscripciones
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM suscripciones;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idUsuarios
+BEFORE INSERT ON usuarios
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM usuarios;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idSolicitudes
+BEFORE INSERT ON solicitudes
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM solicitudes;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idPlanes
+BEFORE INSERT ON planes
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM planes;
+END;
+/
+
+CREATE OR REPLACE TRIGGER idPeliculas
+BEFORE INSERT ON peliculas
+FOR EACH ROW
+DECLARE numero NUMBER;
+BEGIN
+SELECT MAX(id)+1 INTO numero FROM peliculas;
+END;
+/
+
+/**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
