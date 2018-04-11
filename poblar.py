@@ -40,8 +40,8 @@ categoriasPremioActor = ["mejor actor",
                          ]
 idMultimedia = 178
 idDirector = 99
-idSeries = 178
-idDocumentales = 178
+idSeries = 999
+idDocumentales = 999
 
 
 def directores():
@@ -98,80 +98,50 @@ def premiosMultimedia():
         cont+=1
         x = stdin.readline().strip()
 def series():
-    x = stdin.readline().strip()
     cont = 0
-    while len(x)!=0:
-        x = x.split("!")
-        nombre = x[0]
-        nombre.strip()
-        nombre = nombre.replace("’","")
-        nombre = nombre.replace("'","")
-        nombre = nombre.replace('"',"")
-        nombre = nombre.replace("&","y")
-        duracion = x[1]
+    while cont<1000:
         f = random.randrange(len(sinopsis))
         sin = sinopsis[f].replace("'","").replace('"',"").replace(",","").replace("&","").replace("’","")
-        print("INSERT INTO series VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(5))+","+"\'"+duracion+"\'"+","+str(random.randrange(idDirector))+","+"\'"+sin+"\'"+","+str(random.randrange(20))+");")
+        print("INSERT INTO series VALUES("+str(cont)+","+str(random.randrange(idMultimedia))+","+str(random.randrange(20))+");")
         cont+=1
-        x = stdin.readline().strip()
 
 
 def documentales():
-    x = stdin.readline().strip()
     cont = 0
-    while len(x)!=0:
-        x = x.split("!")
-        nombre = x[0]
-        nombre.strip()
-        nombre = nombre.replace("’","")
-        nombre = nombre.replace("'","")
-        nombre = nombre.replace('"',"")
-        nombre = nombre.replace("&","y")
-        duracion = x[1]
-        f = random.randrange(len(sinopsis))
-        sin = sinopsis[f].replace("'","").replace('"',"").replace(",","").replace("&","").replace("’","")
-        print("INSERT INTO documentales VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(5))+","+"\'"+duracion+"\'"+","+str(random.randrange(idDirector))+","+"\'"+sin+"\'"+","+str(random.randrange(20))+");")
+    while cont<1000:
+        print("INSERT INTO documentales VALUES("+str(cont)+","+str(random.randrange(idMultimedia))+","+str(random.randrange(20))+");")
         cont+=1
-        x = stdin.readline().strip()
-def categoriasSeries():
-    x = stdin.readline().strip()
-    cont = 0
-    while len(x)!=0:
-        x = x.split(":")
-        nombre = x[0].split(".")
-        nombre = nombre[1]
-        nombre = nombre.replace("&","y")
-        nombre = nombre.replace("'","")
-        nombre = nombre.replace('"',"")
-        nombre = nombre.replace("’","")
-        print("INSERT INTO categoriasSeries VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(idMultimedia))+");")
-        cont+=1
-        x = stdin.readline().strip()
 
-
-def categoriasDocumentales():
-    x = stdin.readline().strip()
-    cont = 0
-    while len(x)!=0:
-        x = x.split(":")
-        nombre = x[0].split(".")
-        nombre = nombre[1]
-        nombre = nombre.replace("&","y")
-        nombre = nombre.replace("'","")
-        nombre = nombre.replace('"',"")
-        nombre = nombre.replace("’","")
-        print("INSERT INTO categoriasDocumentales VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(idMultimedia))+");")
-        cont+=1
-        x = stdin.readline().strip()
 
 def temporadas():
     cont = 0
-    for i in range(179):
-        print("SELECT INTO temporadas VALUES("+str(i+1)+","+str(random.randrange(idSeries))+","+str(random.randrange(20))+");")
-temporadas()
-    
+    x = stdin.readline().strip()
+    while len(x)!=0:
+        x = x.split("VALUES")
+        valores = x[1]
+        valores = valores.split(",")
+        for j in valores:
+            j = j.replace(";","").replace("(","").replace(")","")
+        cont+=1
+        print("INSERT INTO temporadas VALUES"+valores[0]+","+valores[1]+","+str(random.randrange(20))+");")
+        x = stdin.readline().strip()
     
 
+def capitulosSeries():
+    x = stdin.readline().strip()
+    while len(x)!=0:
+        x = x.split("!")
+        uno = x[0].split("(")
+        IDS = uno[1].split(",")
+        ID = IDS[0]
+        idMultimedia = IDS[1]
+        nombre = x[1].replace("'","").replace('"',"").replace("&","y").replace("`","")
+        duracion = x[2]
+        descripcion = sinopsis[random.randrange(len(sinopsis))]
+        print("INSERT INTO capitulosSeries VALUES("+str(ID)+","+str(idMultimedia)+","+"\'"+nombre+"\'"+","+"\'"+duracion+"\'"+","+"\'"+descripcion+"\'"+");")
+        x = stdin.readline().strip()
+
+capitulosSeries()
 
 
 

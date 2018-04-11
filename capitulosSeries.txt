@@ -1,0 +1,1000 @@
+INSERT INTO series VALUES(0,18,9);	!	Beasts of No Nation	!	2 horas, 16 min.
+INSERT INTO series VALUES(1,133,16);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	1 hora, 43 min.
+INSERT INTO series VALUES(2,90,2);	!	The Fundamentals of Caring	!	1 hora, 37 min.
+INSERT INTO series VALUES(3,44,14);	!	Rebirth	!	1 hora, 40 min.
+INSERT INTO series VALUES(4,10,11);	!	Tallulah	!	1 hora, 51 min.
+INSERT INTO series VALUES(5,124,16);	!	XOXO	!	1 hora, 32 min.
+INSERT INTO series VALUES(6,81,1);	!	ARQ	!	1 hora, 28 min.
+INSERT INTO series VALUES(7,110,8);	!	The Siege of Jadotville	!	1 hora, 48 min.
+INSERT INTO series VALUES(8,62,19);	!	I Am the Pretty Thing That Lives in the House!	!	1 hora, 29 min.
+INSERT INTO series VALUES(9,147,18);	!	7 años	!	1 hora, 16 min.
+INSERT INTO series VALUES(10,156,17);	!	Mercy	!	1 hora, 30 min.
+INSERT INTO series VALUES(11,129,6);	!	Spectral	!	1 hora, 48 min.
+INSERT INTO series VALUES(12,146,4);	!	Barry	!	1 hora, 44 min.
+INSERT INTO series VALUES(13,167,17);	!	Coin Heist	!	1 hora, 37 min.
+INSERT INTO series VALUES(14,87,5);	!	Clinical	!	1 hora, 44 min.
+INSERT INTO series VALUES(15,175,0);	!	iBoy	!	1 hora, 30 min.
+INSERT INTO series VALUES(16,169,11);	!	Imperial Dreams	!	1 hora, 27 min.
+INSERT INTO series VALUES(17,61,12);	!	I Don't Feel at Home in This World Anymore	!	1 hora, 36 min.
+INSERT INTO series VALUES(18,5,9);	!	Burning Sands163?	!	1 hora, 36 min.
+INSERT INTO series VALUES(19,136,12);	!	Deidra & Laney Rob a Train164?	!	1 hora, 34 min.
+INSERT INTO series VALUES(20,100,12);	!	The Most Hated Woman in America165?	!	1 hora, 31 min.
+INSERT INTO series VALUES(21,154,16);	!	The Discovery167?	!	1 hora, 50 min.
+INSERT INTO series VALUES(22,97,16);	!	Sand Castle169?	!	1 hora, 53 min.
+INSERT INTO series VALUES(23,135,18);	!	Tramps171?	!	1 hora, 22 min.
+INSERT INTO series VALUES(24,122,18);	!	Blame!173?	!	1 hora, 46 min.
+INSERT INTO series VALUES(25,151,8);	!	Sueño lúcido	!	1 hora, 41 min.
+INSERT INTO series VALUES(26,40,15);	!	Shimmer Lake	!	1 hora, 26 min.
+INSERT INTO series VALUES(27,26,5);	!	You Get Me	!	1 hora, 29 min.
+INSERT INTO series VALUES(28,68,19);	!	Okja	!	2 horas
+INSERT INTO series VALUES(29,59,17);	!	To the Bone	!	1 hora, 47 min.
+INSERT INTO series VALUES(30,10,17);	!	Death Note	!	1 hora, 40 min.
+INSERT INTO series VALUES(31,156,19);	!	The Ridiculous 6	!	1 hora, 59 min.
+INSERT INTO series VALUES(32,53,5);	!	Pee-wee's Big Holiday	!	1 hora, 29 min.
+INSERT INTO series VALUES(33,155,14);	!	Special Correspondents	!	1 hora, 41 min.
+INSERT INTO series VALUES(34,125,13);	!	The Do-Over	!	1 hora, 48 min.
+INSERT INTO series VALUES(35,44,14);	!	Brahman Naman	!	1 hora, 35 min.
+INSERT INTO series VALUES(36,107,13);	!	Mascots	!	1 hora, 35 min.
+INSERT INTO series VALUES(37,122,5);	!	True Memoirs Of An International Assassin	!	1 hora, 38 min.
+INSERT INTO series VALUES(38,55,9);	!	Take The 10	!	1 hora, 20 min.
+INSERT INTO series VALUES(39,30,7);	!	Girlfriend's Day182?	!	1 hora, 5 min.
+INSERT INTO series VALUES(40,127,13);	!	Win It All184?	!	1 hora, 28 min.
+INSERT INTO series VALUES(41,158,17);	!	Sandy Wexler186?	!	2 horas, 11 min.
+INSERT INTO series VALUES(42,91,2);	!	Small Crimes188?	!	1 hora, 35 min.
+INSERT INTO series VALUES(43,43,15);	!	Handsome: A Netflix Mystery Movie	!	1 hora, 21 min.
+INSERT INTO series VALUES(44,176,0);	!	War Machine191?	!	2 horas, 20 min.
+INSERT INTO series VALUES(45,123,3);	!	The Incredible Jessica James	!	1 hora, 23 min.
+INSERT INTO series VALUES(46,169,18);	!	Naked	!	1 hora, 36 min.
+INSERT INTO series VALUES(47,44,3);	!	Art of Conflict: The Murals of Northern Ireland	!	1 hora, 13 min.
+INSERT INTO series VALUES(48,128,0);	!	The Zen of Bennett	!	1 hora, 24 min.
+INSERT INTO series VALUES(49,33,11);	!	The Short Game	!	1 hora, 39 min.
+INSERT INTO series VALUES(50,119,7);	!	The Square	!	1 hora, 44 min.
+INSERT INTO series VALUES(51,35,0);	!	Mitt	!	1 hora, 32 min.
+INSERT INTO series VALUES(52,96,16);	!	The Battered Bastards of Baseball	!	1 hora, 13 min.
+INSERT INTO series VALUES(53,100,0);	!	Mission Blue	!	1 hora, 35 min.
+INSERT INTO series VALUES(54,35,14);	!	Print the Legend	!	1 hora, 40 min.
+INSERT INTO series VALUES(55,68,15);	!	E-Team	!	1 hora, 30 min.
+INSERT INTO series VALUES(56,96,4);	!	Virunga	!	1 hora, 30 min.
+INSERT INTO series VALUES(57,142,19);	!	My Own Man	!	1 hora, 21 min.
+INSERT INTO series VALUES(58,81,19);	!	The Other One: The Long Strange Trip of Bob Weir	!	1 hora, 23 min.
+INSERT INTO series VALUES(59,52,19);	!	Hot Girls Wanted	!	1 hora, 24 min.
+INSERT INTO series VALUES(60,69,16);	!	What Happened, Miss Simone?	!	1 hora, 24 min.
+INSERT INTO series VALUES(61,21,13);	!	Tig	!	1 hora, 20 min.
+INSERT INTO series VALUES(62,176,13);	!	Keith Richards: Under the Influence	!	1 hora, 21 min.
+INSERT INTO series VALUES(63,41,17);	!	Winter on Fire: Ukraine's Fight for Freedom	!	1 hora, 31 min.
+INSERT INTO series VALUES(64,132,6);	!	My Beautiful Broken Brain	!	1 hora, 31 min.
+INSERT INTO series VALUES(65,95,16);	!	Team Foxcatcher	!	1 hora, 30 min.
+INSERT INTO series VALUES(66,63,6);	!	Tony Robbins: I Am Not Your Guru	!	1 hora, 56 min.
+INSERT INTO series VALUES(67,119,6);	!	I'll Sleep When I'm Dead	!	1 hora, 19 min.
+INSERT INTO series VALUES(68,7,6);	!	Extremis	!	24 min.
+INSERT INTO series VALUES(69,114,7);	!	The White Helmets	!	40 min.
+INSERT INTO series VALUES(70,50,2);	!	Audrie & Daisy	!	1 hora, 38 min.
+INSERT INTO series VALUES(71,53,6);	!	Amanda Knox	!	1 hora, 32 min.
+INSERT INTO series VALUES(72,64,1);	!	13th	!	1 hora, 40 min.
+INSERT INTO series VALUES(73,165,6);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	1 hora, 19 min.
+INSERT INTO series VALUES(74,4,17);	!	Into the Inferno	!	1 hora, 47 min.
+INSERT INTO series VALUES(75,14,14);	!	The Ivory Game	!	1 hora, 52 min.
+INSERT INTO series VALUES(76,92,6);	!	Casting JonBenet	!	1 hora, 20 min.
+INSERT INTO series VALUES(77,43,15);	!	The Mars Generation200?	!	1 hora, 37 min.
+INSERT INTO series VALUES(78,145,2);	!	Get Me Roger Stone202?	!	1 hora, 41 min.
+INSERT INTO series VALUES(79,97,10);	!	Laerte-se	!	1 hora, 40 min.
+INSERT INTO series VALUES(80,103,3);	!	Joshua: Teenager vs. Superpower205?	!	1 hora, 18 min.
+INSERT INTO series VALUES(81,128,2);	!	Counterpunch	!	1 hora, 29 min.
+INSERT INTO series VALUES(82,45,18);	!	Nobody Speak: Trials of the Free Press208?	!	1 hora, 35 min.
+INSERT INTO series VALUES(83,104,1);	!	Chasing Coral210?	!	1 hora, 29 min.
+INSERT INTO series VALUES(84,43,12);	!	Icarus212?	!	2 horas.
+INSERT INTO series VALUES(85,66,3);	!	Trailer Park Boys: Swearnet Live	!	1 hora 15 min.
+INSERT INTO series VALUES(86,92,19);	!	Trailer Park Boys: Live at the North Pole	!	1 hora 28 min.
+INSERT INTO series VALUES(87,102,10);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	25 min.
+INSERT INTO series VALUES(88,103,4);	!	Ever After High: Spring Unsprung	!	47 min.
+INSERT INTO series VALUES(89,116,3);	!	Sense8: Creating the World	!	25 min.
+INSERT INTO series VALUES(90,151,15);	!	A Very Murray Christmas	!	56 min.
+INSERT INTO series VALUES(91,133,19);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	1 hora, 15 min.
+INSERT INTO series VALUES(92,119,15);	!	Marco Polo: One Hundred Eyes	!	28 min.
+INSERT INTO series VALUES(93,66,2);	!	Justin Timberlake + The Tennessee Kids	!	1 hora, 30 min.
+INSERT INTO series VALUES(94,34,8);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	36 min.
+INSERT INTO series VALUES(95,51,12);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	54 min.
+INSERT INTO series VALUES(96,95,17);	!	Project Mc2: A Royal Pain	!	34 min.
+INSERT INTO series VALUES(97,159,5);	!	13 Reasons Why: Beyond the Reasons	!	29 min.
+INSERT INTO series VALUES(98,16,2);	!	Rodney King	!	52 min.
+INSERT INTO series VALUES(99,131,6);	!	Puss in Book: Trapped in an Epic Tale	!	23 min.
+INSERT INTO series VALUES(100,70,18);	!	Buddy Thunderstruck: The Maybe Pile	!	50 min.
+INSERT INTO series VALUES(101,141,3);	!	Bill Burr: You People Are All the Same	!	1 hora, 9 min.
+INSERT INTO series VALUES(102,151,9);	!	Craig Ferguson: I'm Here to Help	!	1 hora, 23 min.
+INSERT INTO series VALUES(103,0,18);	!	John Hodgman: Ragnarok	!	1 hora, 7 min.
+INSERT INTO series VALUES(104,132,2);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	1 hora, 15 min.
+INSERT INTO series VALUES(105,69,8);	!	Russell Peters: Notorious	!	1 hora, 11 min.
+INSERT INTO series VALUES(106,11,16);	!	Aziz Ansari: Buried Alive	!	1 hora, 19 min.
+INSERT INTO series VALUES(107,16,12);	!	Jim Jefferies: Bare	!	1 hora, 16 min.
+INSERT INTO series VALUES(108,54,19);	!	Chelsea Handler: Uganda Be Kidding Me	!	1 hora, 11 min.
+INSERT INTO series VALUES(109,87,8);	!	Doug Benson: Doug Dynasty	!	1 hora
+INSERT INTO series VALUES(110,104,10);	!	Chelsea Peretti: One of the Greats	!	1 hora, 14 min.
+INSERT INTO series VALUES(111,167,8);	!	Bill Burr: I'm Sorry You Feel That Way	!	1 hora, 20 min.
+INSERT INTO series VALUES(112,38,12);	!	Nick Offerman: American Ham	!	1 hora, 20 min.
+INSERT INTO series VALUES(113,41,12);	!	Iliza Shlesinger: Freezing Hot	!	1 hora, 11 min.
+INSERT INTO series VALUES(114,139,9);	!	Ralphie May: Unruly	!	1 hora, 23 min.
+INSERT INTO series VALUES(115,175,6);	!	Aziz Ansari: Live at Madison Square Garden	!	58 min.
+INSERT INTO series VALUES(116,69,14);	!	Chris D'Elia: Incorrigible	!	1 hora, 23 min.
+INSERT INTO series VALUES(117,77,5);	!	Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)	!	1 hora, 18 min.
+INSERT INTO series VALUES(118,134,10);	!	Chris Tucker: Chris Tucker Live	!	1 hora, 18 min.
+INSERT INTO series VALUES(119,104,19);	!	Demetri Martin: Live (At the Time)	!	1 hora, 1 min.
+INSERT INTO series VALUES(120,13,16);	!	Anjelah Johnson: Not Fancy	!	1 hora, 3 min.
+INSERT INTO series VALUES(121,124,8);	!	Anthony Jeselnik: Thoughts and Prayers	!	59 min.
+INSERT INTO series VALUES(122,53,15);	!	John Mulaney: The Comeback Kid	!	1 hora, 1 min.
+INSERT INTO series VALUES(123,20,18);	!	Brent Morin: I'm Brent Morin	!	1 hora, 1 min.
+INSERT INTO series VALUES(124,110,16);	!	Mike Epps: Don't Take it Personal	!	1 hora, 1 min.
+INSERT INTO series VALUES(125,17,14);	!	Tom Segura: Mostly Stories	!	1 hora, 1 min.
+INSERT INTO series VALUES(126,77,4);	!	Ricardo O'Farrill: Abrazo Genial	!	1 hora, 1 min.
+INSERT INTO series VALUES(127,96,8);	!	Hannibal Buress: Comedy Camisado	!	1 hora, 1 min.
+INSERT INTO series VALUES(128,146,1);	!	Theo Von: No Offense	!	1 hora, 6 min.
+INSERT INTO series VALUES(129,65,16);	!	Jimmy Carr: Funny Business	!	1 hora, 6 min.
+INSERT INTO series VALUES(130,33,2);	!	Frankie Boyle: Hurt Liked You've Never Been Loved	!	1 hora, 4 min.
+INSERT INTO series VALUES(131,0,11);	!	Patton Oswalt: Talking for Clapping	!	1 hora, 4 min.
+INSERT INTO series VALUES(132,32,8);	!	Ali Wong: Baby Cobra	!	1 hora
+INSERT INTO series VALUES(133,13,3);	!	Bo Burnham: Make Happy	!	1 hora
+INSERT INTO series VALUES(134,76,1);	!	Sofía Niño de Rivera: Expuesta	!	1 hora, 20 min.
+INSERT INTO series VALUES(135,84,10);	!	Jim Jefferies: Freedumb	!	1 hora, 30 min.
+INSERT INTO series VALUES(136,175,16);	!	David Cross: Making America Great Again	!	1 hora, 30 min.
+INSERT INTO series VALUES(137,167,2);	!	Jeff Foxworthy and Larry the Cable Guy: We've Been Thinking	!	1 hora, 30 min.
+INSERT INTO series VALUES(138,13,4);	!	Jandino: Whatever It Takes	!	1 hora, 34 min.
+INSERT INTO series VALUES(139,116,19);	!	Cedric the Entertainer: Live from the Ville	!	1 hora
+INSERT INTO series VALUES(140,35,14);	!	Iliza Shlesinger: Confirmed Kills	!	1 hora, 17 min.
+INSERT INTO series VALUES(141,114,12);	!	Russell Peters: Almost Famous	!	1 hora, 13 min.
+INSERT INTO series VALUES(142,137,17);	!	Salvador Martinha: Tip of the Tongue	!	1 hora, 5 min.
+INSERT INTO series VALUES(143,81,13);	!	Joe Rogan: Triggered	!	1 hora, 3 min.
+INSERT INTO series VALUES(144,125,19);	!	Dana Carvey: Straight White Male, 60	!	1 hora, 4 min.
+INSERT INTO series VALUES(145,115,8);	!	Dieter Nuhr: Nuhr in Berlin	!	1 hora, 8 min.
+INSERT INTO series VALUES(146,8,5);	!	Colin Quinn: The New York Story	!	1 hora, 2 min.
+INSERT INTO series VALUES(147,59,15);	!	Michael Che: Matters	!	1 hora
+INSERT INTO series VALUES(148,88,14);	!	Reggie Watts: Spatial	!	1 hora, 1 min.
+INSERT INTO series VALUES(149,86,16);	!	Gabriel Iglesias: I’m Sorry For What I Said When I Was Hungry	!	1 hora, 1 min.
+INSERT INTO series VALUES(150,109,8);	!	Jen Kirkman: Just Keep Livin'?	!	1 hora, 9 min.
+INSERT INTO series VALUES(151,145,1);	!	Jim Gaffigan: Cinco	!	1 hora, 13 min.
+INSERT INTO series VALUES(152,52,3);	!	Neal Brennan: 3 Mics	!	1 hora, 5 min.
+INSERT INTO series VALUES(153,31,1);	!	Cristela Alonzo: Lower Classy	!	1 hora, 6 min.
+INSERT INTO series VALUES(154,102,5);	!	Gad Elmaleh: Gad Gone Wild	!	57 min.
+INSERT INTO series VALUES(155,64,1);	!	Bill Burr: Walk Your Way Out	!	1 hora, 17 min.
+INSERT INTO series VALUES(156,11,17);	!	Daniel Sosa: Sosafado	!	1 hora, 17 min.
+INSERT INTO series VALUES(157,10,5);	!	Beppe Grillo: Grillo vs. Grillo	!	1 hora, 35 min.
+INSERT INTO series VALUES(158,38,2);	!	Katherine Ryan: In Trouble	!	1 hora, 3 min.
+INSERT INTO series VALUES(159,45,18);	!	Trevor Noah: Afraid of the Dark	!	1 hora, 7 min.
+INSERT INTO series VALUES(160,33,0);	!	Mike Birbiglia: Thank God for Jokes	!	1 hora, 10 min.
+INSERT INTO series VALUES(161,20,17);	!	Amy Schumer: The Leather Special	!	57 min.
+INSERT INTO series VALUES(162,145,11);	!	Jim Norton: Mouthful of Shame	!	1 hora, 1 min.
+INSERT INTO series VALUES(163,52,14);	!	Dave Chappelle: The Age of Spin	!	1 hora, 7 min.
+INSERT INTO series VALUES(164,140,14);	!	Dave Chappelle: Deep in the Heart of Texas	!	1 hora, 6 min.
+INSERT INTO series VALUES(165,31,11);	!	Felipe Neto: My Life Makes No Sense	!	1 hora, 30 min.
+INSERT INTO series VALUES(166,5,14);	!	Jo Koy: Live from Seattle	!	1 hora, 2 min.
+INSERT INTO series VALUES(167,119,6);	!	Louis C.K.: 2017	!	1 hora, 14 min.
+INSERT INTO series VALUES(168,118,9);	!	Lucas Brothers: On Drugs	!	49 min.
+INSERT INTO series VALUES(169,163,10);	!	Vir Das: Abroad Understanding	!	1 hora, 5 min.
+INSERT INTO series VALUES(170,89,13);	!	Maria Bamford: Old Baby	!	1 hora, 4 min.
+INSERT INTO series VALUES(171,94,19);	!	Norm Macdonald: Hitler's Dog, Gossip & Trickery226?	!	1 hora, 1 min.
+INSERT INTO series VALUES(172,112,8);	!	Tracy Morgan: Staying Alive	!	58 min.
+INSERT INTO series VALUES(173,97,6);	!	Hasan Minhaj: Homecoming King229?	!	1 hora, 12 min.
+INSERT INTO series VALUES(174,4,1);	!	Sarah Silverman: A Speck of Dust	!	1 hora, 11 min.
+INSERT INTO series VALUES(175,0,1);	!	Nick Kroll & John Mulaney: Oh, Hello on Broadway	!	1 hora, 42 min.
+INSERT INTO series VALUES(176,146,9);	!	Marco Luque: Tamo Junto	!	1 hora, 13 min.
+INSERT INTO series VALUES(177,24,16);	!	Rory Scovel Tries Stand-Up for the First Time	!	1 hora, 6 min.
+INSERT INTO series VALUES(178,101,12);	!	Chris D'Elia: Man On Fire	!	1 hora, 5 min.
+INSERT INTO series VALUES(179,166,13);	!	Beasts of No Nation	!	2 hora, 5 min.
+INSERT INTO series VALUES(180,147,1);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	3 hora, 5 min.
+INSERT INTO series VALUES(181,119,19);	!	The Fundamentals of Caring	!	4 hora, 5 min.
+INSERT INTO series VALUES(182,164,14);	!	Rebirth	!	5 hora, 5 min.
+INSERT INTO series VALUES(183,107,8);	!	Tallulah	!	6 hora, 5 min.
+INSERT INTO series VALUES(184,144,3);	!	XOXO	!	7 hora, 5 min.
+INSERT INTO series VALUES(185,139,8);	!	ARQ	!	8 hora, 5 min.
+INSERT INTO series VALUES(186,28,5);	!	The Siege of Jadotville	!	9 hora, 5 min.
+INSERT INTO series VALUES(187,16,8);	!	I Am the Pretty Thing That Lives in the House!	!	10 hora, 5 min.
+INSERT INTO series VALUES(188,42,3);	!	8 años	!	11 hora, 5 min.
+INSERT INTO series VALUES(189,78,4);	!	Mercy	!	12 hora, 5 min.
+INSERT INTO series VALUES(190,114,3);	!	Spectral	!	13 hora, 5 min.
+INSERT INTO series VALUES(191,67,1);	!	Barry	!	14 hora, 5 min.
+INSERT INTO series VALUES(192,65,18);	!	Coin Heist	!	15 hora, 5 min.
+INSERT INTO series VALUES(193,86,0);	!	Clinical	!	16 hora, 5 min.
+INSERT INTO series VALUES(194,177,0);	!	iBoy	!	17 hora, 5 min.
+INSERT INTO series VALUES(195,173,5);	!	Imperial Dreams	!	18 hora, 5 min.
+INSERT INTO series VALUES(196,150,19);	!	I Don't Feel at Home in This World Anymore	!	19 hora, 5 min.
+INSERT INTO series VALUES(197,49,15);	!	Burning Sands163?	!	20 hora, 5 min.
+INSERT INTO series VALUES(198,55,12);	!	Deidra & Laney Rob a Train164?	!	21 hora, 5 min.
+INSERT INTO series VALUES(199,73,4);	!	The Most Hated Woman in America165?	!	22 hora, 5 min.
+INSERT INTO series VALUES(200,26,3);	!	The Discovery167?	!	23 hora, 5 min.
+INSERT INTO series VALUES(201,103,19);	!	Sand Castle169?	!	24 hora, 5 min.
+INSERT INTO series VALUES(202,9,17);	!	Tramps171?	!	25 hora, 5 min.
+INSERT INTO series VALUES(203,161,16);	!	Blame!173?	!	26 hora, 5 min.
+INSERT INTO series VALUES(204,68,1);	!	Sueño lúcido	!	27 hora, 5 min.
+INSERT INTO series VALUES(205,140,3);	!	Shimmer Lake	!	28 hora, 5 min.
+INSERT INTO series VALUES(206,131,11);	!	You Get Me	!	29 hora, 5 min.
+INSERT INTO series VALUES(207,74,14);	!	Okja	!	30 hora, 5 min.
+INSERT INTO series VALUES(208,51,11);	!	To the Bone	!	31 hora, 5 min.
+INSERT INTO series VALUES(209,159,0);	!	Death Note	!	32 hora, 5 min.
+INSERT INTO series VALUES(210,106,14);	!	The Ridiculous 7	!	33 hora, 5 min.
+INSERT INTO series VALUES(211,13,18);	!	Pee-wee's Big Holiday	!	34 hora, 5 min.
+INSERT INTO series VALUES(212,35,12);	!	Special Correspondents	!	35 hora, 5 min.
+INSERT INTO series VALUES(213,63,16);	!	The Do-Over	!	36 hora, 5 min.
+INSERT INTO series VALUES(214,115,17);	!	Brahman Naman	!	37 hora, 5 min.
+INSERT INTO series VALUES(215,115,5);	!	Mascots	!	38 hora, 5 min.
+INSERT INTO series VALUES(216,111,4);	!	True Memoirs Of An International Assassin	!	39 hora, 5 min.
+INSERT INTO series VALUES(217,149,12);	!	Take The 11	!	40 hora, 5 min.
+INSERT INTO series VALUES(218,32,6);	!	Girlfriend's Day182?	!	41 hora, 5 min.
+INSERT INTO series VALUES(219,145,12);	!	Win It All184?	!	42 hora, 5 min.
+INSERT INTO series VALUES(220,142,8);	!	Sandy Wexler186?	!	43 hora, 5 min.
+INSERT INTO series VALUES(221,103,18);	!	Small Crimes188?	!	44 hora, 5 min.
+INSERT INTO series VALUES(222,92,13);	!	Handsome: A Netflix Mystery Movie	!	45 hora, 5 min.
+INSERT INTO series VALUES(223,39,8);	!	War Machine191?	!	46 hora, 5 min.
+INSERT INTO series VALUES(224,38,3);	!	The Incredible Jessica James	!	47 hora, 5 min.
+INSERT INTO series VALUES(225,156,13);	!	Naked	!	48 hora, 5 min.
+INSERT INTO series VALUES(226,36,7);	!	Art of Conflict: The Murals of Northern Ireland	!	49 hora, 5 min.
+INSERT INTO series VALUES(227,50,6);	!	The Zen of Bennett	!	50 hora, 5 min.
+INSERT INTO series VALUES(228,160,5);	!	The Short Game	!	51 hora, 5 min.
+INSERT INTO series VALUES(229,162,7);	!	The Square	!	52 hora, 5 min.
+INSERT INTO series VALUES(230,105,4);	!	Mitt	!	53 hora, 5 min.
+INSERT INTO series VALUES(231,51,12);	!	The Battered Bastards of Baseball	!	54 hora, 5 min.
+INSERT INTO series VALUES(232,63,16);	!	Mission Blue	!	55 hora, 5 min.
+INSERT INTO series VALUES(233,47,15);	!	Print the Legend	!	56 hora, 5 min.
+INSERT INTO series VALUES(234,114,5);	!	E-Team	!	57 hora, 5 min.
+INSERT INTO series VALUES(235,156,14);	!	Virunga	!	58 hora, 5 min.
+INSERT INTO series VALUES(236,160,11);	!	My Own Man	!	59 hora, 5 min.
+INSERT INTO series VALUES(237,86,1);	!	The Other One: The Long Strange Trip of Bob Weir	!	60 hora, 5 min.
+INSERT INTO series VALUES(238,50,5);	!	Hot Girls Wanted	!	61 hora, 5 min.
+INSERT INTO series VALUES(239,30,8);	!	What Happened, Miss Simone?	!	62 hora, 5 min.
+INSERT INTO series VALUES(240,112,7);	!	Tig	!	63 hora, 5 min.
+INSERT INTO series VALUES(241,70,11);	!	Keith Richards: Under the Influence	!	64 hora, 5 min.
+INSERT INTO series VALUES(242,137,5);	!	Winter on Fire: Ukraine's Fight for Freedom	!	65 hora, 5 min.
+INSERT INTO series VALUES(243,161,9);	!	My Beautiful Broken Brain	!	66 hora, 5 min.
+INSERT INTO series VALUES(244,72,17);	!	Team Foxcatcher	!	67 hora, 5 min.
+INSERT INTO series VALUES(245,3,11);	!	Tony Robbins: I Am Not Your Guru	!	68 hora, 5 min.
+INSERT INTO series VALUES(246,38,19);	!	I'll Sleep When I'm Dead	!	69 hora, 5 min.
+INSERT INTO series VALUES(247,122,3);	!	Extremis	!	70 hora, 5 min.
+INSERT INTO series VALUES(248,171,9);	!	The White Helmets	!	71 hora, 5 min.
+INSERT INTO series VALUES(249,169,12);	!	Audrie & Daisy	!	72 hora, 5 min.
+INSERT INTO series VALUES(250,84,9);	!	Amanda Knox	!	73 hora, 5 min.
+INSERT INTO series VALUES(251,2,18);	!	14th	!	74 hora, 5 min.
+INSERT INTO series VALUES(252,89,1);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	75 hora, 5 min.
+INSERT INTO series VALUES(253,23,15);	!	Into the Inferno	!	76 hora, 5 min.
+INSERT INTO series VALUES(254,18,15);	!	The Ivory Game	!	77 hora, 5 min.
+INSERT INTO series VALUES(255,2,0);	!	Casting JonBenet	!	78 hora, 5 min.
+INSERT INTO series VALUES(256,144,17);	!	The Mars Generation200?	!	79 hora, 5 min.
+INSERT INTO series VALUES(257,126,1);	!	Get Me Roger Stone202?	!	80 hora, 5 min.
+INSERT INTO series VALUES(258,64,13);	!	Laerte-se	!	81 hora, 5 min.
+INSERT INTO series VALUES(259,44,14);	!	Joshua: Teenager vs. Superpower205?	!	82 hora, 5 min.
+INSERT INTO series VALUES(260,85,1);	!	Counterpunch	!	83 hora, 5 min.
+INSERT INTO series VALUES(261,90,18);	!	Nobody Speak: Trials of the Free Press208?	!	84 hora, 5 min.
+INSERT INTO series VALUES(262,148,4);	!	Chasing Coral210?	!	85 hora, 5 min.
+INSERT INTO series VALUES(263,88,10);	!	Icarus212?	!	86 hora, 5 min.
+INSERT INTO series VALUES(264,135,7);	!	Trailer Park Boys: Swearnet Live	!	87 hora, 5 min.
+INSERT INTO series VALUES(265,109,0);	!	Trailer Park Boys: Live at the North Pole	!	88 hora, 5 min.
+INSERT INTO series VALUES(266,102,2);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	89 hora, 5 min.
+INSERT INTO series VALUES(267,104,6);	!	Ever After High: Spring Unsprung	!	90 hora, 5 min.
+INSERT INTO series VALUES(268,68,6);	!	Sense8: Creating the World	!	91 hora, 5 min.
+INSERT INTO series VALUES(269,82,11);	!	A Very Murray Christmas	!	92 hora, 5 min.
+INSERT INTO series VALUES(270,62,17);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	93 hora, 5 min.
+INSERT INTO series VALUES(271,55,19);	!	Marco Polo: One Hundred Eyes	!	94 hora, 5 min.
+INSERT INTO series VALUES(272,42,7);	!	Justin Timberlake + The Tennessee Kids	!	95 hora, 5 min.
+INSERT INTO series VALUES(273,97,0);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	96 hora, 5 min.
+INSERT INTO series VALUES(274,172,8);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	97 hora, 5 min.
+INSERT INTO series VALUES(275,28,5);	!	Project Mc2: A Royal Pain	!	98 hora, 5 min.
+INSERT INTO series VALUES(276,130,5);	!	14 Reasons Why: Beyond the Reasons	!	99 hora, 5 min.
+INSERT INTO series VALUES(277,3,19);	!	Rodney King	!	100 hora, 5 min.
+INSERT INTO series VALUES(278,11,10);	!	Puss in Book: Trapped in an Epic Tale	!	101 hora, 5 min.
+INSERT INTO series VALUES(279,41,11);	!	Buddy Thunderstruck: The Maybe Pile	!	102 hora, 5 min.
+INSERT INTO series VALUES(280,51,10);	!	Bill Burr: You People Are All the Same	!	103 hora, 5 min.
+INSERT INTO series VALUES(281,61,12);	!	Craig Ferguson: I'm Here to Help	!	104 hora, 5 min.
+INSERT INTO series VALUES(282,71,7);	!	John Hodgman: Ragnarok	!	105 hora, 5 min.
+INSERT INTO series VALUES(283,174,9);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	106 hora, 5 min.
+INSERT INTO series VALUES(284,48,5);	!	Russell Peters: Notorious	!	107 hora, 5 min.
+INSERT INTO series VALUES(285,160,9);	!	Aziz Ansari: Buried Alive	!	108 hora, 5 min.
+INSERT INTO series VALUES(286,101,2);	!	Jim Jefferies: Bare	!	109 hora, 5 min.
+INSERT INTO series VALUES(287,77,11);	!	Chelsea Handler: Uganda Be Kidding Me	!	110 hora, 5 min.
+INSERT INTO series VALUES(288,120,9);	!	Doug Benson: Doug Dynasty	!	111 hora, 5 min.
+INSERT INTO series VALUES(289,15,6);	!	Chelsea Peretti: One of the Greats	!	112 hora, 5 min.
+INSERT INTO series VALUES(290,160,17);	!	Bill Burr: I'm Sorry You Feel That Way	!	113 hora, 5 min.
+INSERT INTO series VALUES(291,37,5);	!	Nick Offerman: American Ham	!	114 hora, 5 min.
+INSERT INTO series VALUES(292,92,15);	!	Iliza Shlesinger: Freezing Hot	!	115 hora, 5 min.
+INSERT INTO series VALUES(293,159,15);	!	Ralphie May: Unruly	!	116 hora, 5 min.
+INSERT INTO series VALUES(294,161,5);	!	Aziz Ansari: Live at Madison Square Garden	!	117 hora, 5 min.
+INSERT INTO series VALUES(295,91,13);	!	Chris D'Elia: Incorrigible	!	118 hora, 5 min.
+INSERT INTO series VALUES(296,145,11);	!	Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)	!	119 hora, 5 min.
+INSERT INTO series VALUES(297,2,5);	!	Chris Tucker: Chris Tucker Live	!	120 hora, 5 min.
+INSERT INTO series VALUES(298,73,3);	!	Demetri Martin: Live (At the Time)	!	121 hora, 5 min.
+INSERT INTO series VALUES(299,23,19);	!	Anjelah Johnson: Not Fancy	!	122 hora, 5 min.
+INSERT INTO series VALUES(300,16,11);	!	Anthony Jeselnik: Thoughts and Prayers	!	123 hora, 5 min.
+INSERT INTO series VALUES(301,110,16);	!	John Mulaney: The Comeback Kid	!	124 hora, 5 min.
+INSERT INTO series VALUES(302,39,18);	!	Brent Morin: I'm Brent Morin	!	125 hora, 5 min.
+INSERT INTO series VALUES(303,115,8);	!	Mike Epps: Don't Take it Personal	!	126 hora, 5 min.
+INSERT INTO series VALUES(304,118,10);	!	Tom Segura: Mostly Stories	!	127 hora, 5 min.
+INSERT INTO series VALUES(305,76,1);	!	Ricardo O'Farrill: Abrazo Genial	!	128 hora, 5 min.
+INSERT INTO series VALUES(306,12,17);	!	Hannibal Buress: Comedy Camisado	!	129 hora, 5 min.
+INSERT INTO series VALUES(307,92,8);	!	Theo Von: No Offense	!	130 hora, 5 min.
+INSERT INTO series VALUES(308,79,12);	!	Jimmy Carr: Funny Business	!	131 hora, 5 min.
+INSERT INTO series VALUES(309,22,2);	!	Frankie Boyle: Hurt Liked You've Never Been Loved	!	132 hora, 5 min.
+INSERT INTO series VALUES(310,127,9);	!	Patton Oswalt: Talking for Clapping	!	133 hora, 5 min.
+INSERT INTO series VALUES(311,66,10);	!	Ali Wong: Baby Cobra	!	134 hora, 5 min.
+INSERT INTO series VALUES(312,165,11);	!	Bo Burnham: Make Happy	!	135 hora, 5 min.
+INSERT INTO series VALUES(313,142,11);	!	Sofía Niño de Rivera: Expuesta	!	136 hora, 5 min.
+INSERT INTO series VALUES(314,175,2);	!	Jim Jefferies: Freedumb	!	137 hora, 5 min.
+INSERT INTO series VALUES(315,107,10);	!	David Cross: Making America Great Again	!	138 hora, 5 min.
+INSERT INTO series VALUES(316,28,19);	!	Jeff Foxworthy and Larry the Cable Guy: We've Been Thinking	!	139 hora, 5 min.
+INSERT INTO series VALUES(317,151,18);	!	Jandino: Whatever It Takes	!	140 hora, 5 min.
+INSERT INTO series VALUES(318,19,9);	!	Cedric the Entertainer: Live from the Ville	!	141 hora, 5 min.
+INSERT INTO series VALUES(319,145,9);	!	Iliza Shlesinger: Confirmed Kills	!	142 hora, 5 min.
+INSERT INTO series VALUES(320,6,12);	!	Russell Peters: Almost Famous	!	143 hora, 5 min.
+INSERT INTO series VALUES(321,31,5);	!	Salvador Martinha: Tip of the Tongue	!	144 hora, 5 min.
+INSERT INTO series VALUES(322,133,1);	!	Joe Rogan: Triggered	!	145 hora, 5 min.
+INSERT INTO series VALUES(323,92,13);	!	Dana Carvey: Straight White Male, 61	!	146 hora, 5 min.
+INSERT INTO series VALUES(324,128,17);	!	Dieter Nuhr: Nuhr in Berlin	!	147 hora, 5 min.
+INSERT INTO series VALUES(325,163,0);	!	Colin Quinn: The New York Story	!	148 hora, 5 min.
+INSERT INTO series VALUES(326,40,4);	!	Michael Che: Matters	!	149 hora, 5 min.
+INSERT INTO series VALUES(327,42,14);	!	Reggie Watts: Spatial	!	150 hora, 5 min.
+INSERT INTO series VALUES(328,160,14);	!	Gabriel Iglesias: I’m Sorry For What I Said When I Was Hungry	!	151 hora, 5 min.
+INSERT INTO series VALUES(329,29,13);	!	Jen Kirkman: Just Keep Livin'?	!	152 hora, 5 min.
+INSERT INTO series VALUES(330,93,11);	!	Jim Gaffigan: Cinco	!	153 hora, 5 min.
+INSERT INTO series VALUES(331,145,15);	!	Neal Brennan: 3 Mics	!	154 hora, 5 min.
+INSERT INTO series VALUES(332,135,19);	!	Cristela Alonzo: Lower Classy	!	155 hora, 5 min.
+INSERT INTO series VALUES(333,112,10);	!	Gad Elmaleh: Gad Gone Wild	!	156 hora, 5 min.
+INSERT INTO series VALUES(334,22,8);	!	Bill Burr: Walk Your Way Out	!	157 hora, 5 min.
+INSERT INTO series VALUES(335,69,19);	!	Daniel Sosa: Sosafado	!	158 hora, 5 min.
+INSERT INTO series VALUES(336,130,6);	!	Beppe Grillo: Grillo vs. Grillo	!	159 hora, 5 min.
+INSERT INTO series VALUES(337,34,0);	!	Katherine Ryan: In Trouble	!	160 hora, 5 min.
+INSERT INTO series VALUES(338,13,1);	!	Trevor Noah: Afraid of the Dark	!	161 hora, 5 min.
+INSERT INTO series VALUES(339,114,10);	!	Mike Birbiglia: Thank God for Jokes	!	162 hora, 5 min.
+INSERT INTO series VALUES(340,35,10);	!	Amy Schumer: The Leather Special	!	163 hora, 5 min.
+INSERT INTO series VALUES(341,141,12);	!	Jim Norton: Mouthful of Shame	!	164 hora, 5 min.
+INSERT INTO series VALUES(342,3,2);	!	Dave Chappelle: The Age of Spin	!	165 hora, 5 min.
+INSERT INTO series VALUES(343,6,9);	!	Dave Chappelle: Deep in the Heart of Texas	!	166 hora, 5 min.
+INSERT INTO series VALUES(344,98,15);	!	Felipe Neto: My Life Makes No Sense	!	167 hora, 5 min.
+INSERT INTO series VALUES(345,28,19);	!	Jo Koy: Live from Seattle	!	168 hora, 5 min.
+INSERT INTO series VALUES(346,140,13);	!	Louis C.K.: 2018	!	169 hora, 5 min.
+INSERT INTO series VALUES(347,33,0);	!	Lucas Brothers: On Drugs	!	170 hora, 5 min.
+INSERT INTO series VALUES(348,141,15);	!	Vir Das: Abroad Understanding	!	171 hora, 5 min.
+INSERT INTO series VALUES(349,1,19);	!	Maria Bamford: Old Baby	!	172 hora, 5 min.
+INSERT INTO series VALUES(350,136,3);	!	Norm Macdonald: Hitler's Dog, Gossip & Trickery226?	!	173 hora, 5 min.
+INSERT INTO series VALUES(351,146,2);	!	Tracy Morgan: Staying Alive	!	174 hora, 5 min.
+INSERT INTO series VALUES(352,153,18);	!	Hasan Minhaj: Homecoming King229?	!	175 hora, 5 min.
+INSERT INTO series VALUES(353,138,9);	!	Sarah Silverman: A Speck of Dust	!	176 hora, 5 min.
+INSERT INTO series VALUES(354,72,9);	!	Nick Kroll & John Mulaney: Oh, Hello on Broadway	!	177 hora, 5 min.
+INSERT INTO series VALUES(355,164,16);	!	Marco Luque: Tamo Junto	!	178 hora, 5 min.
+INSERT INTO series VALUES(356,107,2);	!	Rory Scovel Tries Stand-Up for the First Time	!	179 hora, 5 min.
+INSERT INTO series VALUES(357,89,8);	!	Chris D'Elia: Man On Fire	!	180 hora, 5 min.
+INSERT INTO series VALUES(358,130,7);	!	Beasts of No Nation	!	181 hora, 5 min.
+INSERT INTO series VALUES(359,34,5);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	182 hora, 5 min.
+INSERT INTO series VALUES(360,34,15);	!	The Fundamentals of Caring	!	183 hora, 5 min.
+INSERT INTO series VALUES(361,47,7);	!	Rebirth	!	184 hora, 5 min.
+INSERT INTO series VALUES(362,6,10);	!	Tallulah	!	185 hora, 5 min.
+INSERT INTO series VALUES(363,109,7);	!	XOXO	!	186 hora, 5 min.
+INSERT INTO series VALUES(364,73,3);	!	ARQ	!	187 hora, 5 min.
+INSERT INTO series VALUES(365,82,7);	!	The Siege of Jadotville	!	188 hora, 5 min.
+INSERT INTO series VALUES(366,170,5);	!	I Am the Pretty Thing That Lives in the House!	!	189 hora, 5 min.
+INSERT INTO series VALUES(367,45,0);	!	9 años	!	190 hora, 5 min.
+INSERT INTO series VALUES(368,35,4);	!	Mercy	!	191 hora, 5 min.
+INSERT INTO series VALUES(369,162,15);	!	Spectral	!	192 hora, 5 min.
+INSERT INTO series VALUES(370,90,11);	!	Barry	!	193 hora, 5 min.
+INSERT INTO series VALUES(371,166,15);	!	Coin Heist	!	194 hora, 5 min.
+INSERT INTO series VALUES(372,108,9);	!	Clinical	!	195 hora, 5 min.
+INSERT INTO series VALUES(373,60,11);	!	iBoy	!	196 hora, 5 min.
+INSERT INTO series VALUES(374,35,17);	!	Imperial Dreams	!	197 hora, 5 min.
+INSERT INTO series VALUES(375,17,12);	!	I Don't Feel at Home in This World Anymore	!	198 hora, 5 min.
+INSERT INTO series VALUES(376,43,19);	!	Burning Sands163?	!	199 hora, 5 min.
+INSERT INTO series VALUES(377,38,4);	!	Deidra & Laney Rob a Train164?	!	200 hora, 5 min.
+INSERT INTO series VALUES(378,136,3);	!	The Most Hated Woman in America165?	!	201 hora, 5 min.
+INSERT INTO series VALUES(379,76,5);	!	The Discovery167?	!	202 hora, 5 min.
+INSERT INTO series VALUES(380,122,8);	!	Sand Castle169?	!	203 hora, 5 min.
+INSERT INTO series VALUES(381,36,4);	!	Tramps171?	!	204 hora, 5 min.
+INSERT INTO series VALUES(382,153,0);	!	Blame!173?	!	205 hora, 5 min.
+INSERT INTO series VALUES(383,101,10);	!	Sueño lúcido	!	206 hora, 5 min.
+INSERT INTO series VALUES(384,161,17);	!	Shimmer Lake	!	207 hora, 5 min.
+INSERT INTO series VALUES(385,109,1);	!	You Get Me	!	208 hora, 5 min.
+INSERT INTO series VALUES(386,47,17);	!	Okja	!	209 hora, 5 min.
+INSERT INTO series VALUES(387,124,2);	!	To the Bone	!	210 hora, 5 min.
+INSERT INTO series VALUES(388,62,6);	!	Death Note	!	211 hora, 5 min.
+INSERT INTO series VALUES(389,2,15);	!	The Ridiculous 8	!	212 hora, 5 min.
+INSERT INTO series VALUES(390,12,11);	!	Pee-wee's Big Holiday	!	213 hora, 5 min.
+INSERT INTO series VALUES(391,73,8);	!	Special Correspondents	!	214 hora, 5 min.
+INSERT INTO series VALUES(392,42,5);	!	The Do-Over	!	215 hora, 5 min.
+INSERT INTO series VALUES(393,7,4);	!	Brahman Naman	!	216 hora, 5 min.
+INSERT INTO series VALUES(394,6,18);	!	Mascots	!	217 hora, 5 min.
+INSERT INTO series VALUES(395,63,17);	!	True Memoirs Of An International Assassin	!	218 hora, 5 min.
+INSERT INTO series VALUES(396,167,13);	!	Take The 12	!	219 hora, 5 min.
+INSERT INTO series VALUES(397,128,0);	!	Girlfriend's Day182?	!	220 hora, 5 min.
+INSERT INTO series VALUES(398,168,14);	!	Win It All184?	!	221 hora, 5 min.
+INSERT INTO series VALUES(399,66,12);	!	Sandy Wexler186?	!	222 hora, 5 min.
+INSERT INTO series VALUES(400,121,1);	!	Small Crimes188?	!	223 hora, 5 min.
+INSERT INTO series VALUES(401,106,18);	!	Handsome: A Netflix Mystery Movie	!	224 hora, 5 min.
+INSERT INTO series VALUES(402,3,3);	!	War Machine191?	!	225 hora, 5 min.
+INSERT INTO series VALUES(403,44,13);	!	The Incredible Jessica James	!	226 hora, 5 min.
+INSERT INTO series VALUES(404,113,4);	!	Naked	!	227 hora, 5 min.
+INSERT INTO series VALUES(405,89,16);	!	Art of Conflict: The Murals of Northern Ireland	!	228 hora, 5 min.
+INSERT INTO series VALUES(406,156,9);	!	The Zen of Bennett	!	229 hora, 5 min.
+INSERT INTO series VALUES(407,31,8);	!	The Short Game	!	230 hora, 5 min.
+INSERT INTO series VALUES(408,166,15);	!	The Square	!	231 hora, 5 min.
+INSERT INTO series VALUES(409,80,19);	!	Mitt	!	232 hora, 5 min.
+INSERT INTO series VALUES(410,77,0);	!	The Battered Bastards of Baseball	!	233 hora, 5 min.
+INSERT INTO series VALUES(411,14,9);	!	Mission Blue	!	234 hora, 5 min.
+INSERT INTO series VALUES(412,8,6);	!	Print the Legend	!	235 hora, 5 min.
+INSERT INTO series VALUES(413,115,0);	!	E-Team	!	236 hora, 5 min.
+INSERT INTO series VALUES(414,135,4);	!	Virunga	!	237 hora, 5 min.
+INSERT INTO series VALUES(415,127,1);	!	My Own Man	!	238 hora, 5 min.
+INSERT INTO series VALUES(416,157,1);	!	The Other One: The Long Strange Trip of Bob Weir	!	239 hora, 5 min.
+INSERT INTO series VALUES(417,78,11);	!	Hot Girls Wanted	!	240 hora, 5 min.
+INSERT INTO series VALUES(418,93,2);	!	What Happened, Miss Simone?	!	241 hora, 5 min.
+INSERT INTO series VALUES(419,31,18);	!	Tig	!	242 hora, 5 min.
+INSERT INTO series VALUES(420,25,6);	!	Keith Richards: Under the Influence	!	243 hora, 5 min.
+INSERT INTO series VALUES(421,53,0);	!	Winter on Fire: Ukraine's Fight for Freedom	!	244 hora, 5 min.
+INSERT INTO series VALUES(422,20,9);	!	My Beautiful Broken Brain	!	245 hora, 5 min.
+INSERT INTO series VALUES(423,95,19);	!	Team Foxcatcher	!	246 hora, 5 min.
+INSERT INTO series VALUES(424,19,4);	!	Tony Robbins: I Am Not Your Guru	!	247 hora, 5 min.
+INSERT INTO series VALUES(425,96,18);	!	I'll Sleep When I'm Dead	!	248 hora, 5 min.
+INSERT INTO series VALUES(426,117,14);	!	Extremis	!	249 hora, 5 min.
+INSERT INTO series VALUES(427,3,6);	!	The White Helmets	!	250 hora, 5 min.
+INSERT INTO series VALUES(428,15,2);	!	Audrie & Daisy	!	251 hora, 5 min.
+INSERT INTO series VALUES(429,124,9);	!	Amanda Knox	!	252 hora, 5 min.
+INSERT INTO series VALUES(430,105,2);	!	15th	!	253 hora, 5 min.
+INSERT INTO series VALUES(431,24,2);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	254 hora, 5 min.
+INSERT INTO series VALUES(432,138,8);	!	Into the Inferno	!	255 hora, 5 min.
+INSERT INTO series VALUES(433,144,18);	!	The Ivory Game	!	256 hora, 5 min.
+INSERT INTO series VALUES(434,119,11);	!	Casting JonBenet	!	257 hora, 5 min.
+INSERT INTO series VALUES(435,58,15);	!	The Mars Generation200?	!	258 hora, 5 min.
+INSERT INTO series VALUES(436,105,13);	!	Get Me Roger Stone202?	!	259 hora, 5 min.
+INSERT INTO series VALUES(437,35,3);	!	Laerte-se	!	260 hora, 5 min.
+INSERT INTO series VALUES(438,132,4);	!	Joshua: Teenager vs. Superpower205?	!	261 hora, 5 min.
+INSERT INTO series VALUES(439,145,17);	!	Counterpunch	!	262 hora, 5 min.
+INSERT INTO series VALUES(440,3,8);	!	Nobody Speak: Trials of the Free Press208?	!	263 hora, 5 min.
+INSERT INTO series VALUES(441,150,3);	!	Chasing Coral210?	!	264 hora, 5 min.
+INSERT INTO series VALUES(442,123,7);	!	Icarus212?	!	265 hora, 5 min.
+INSERT INTO series VALUES(443,47,17);	!	Trailer Park Boys: Swearnet Live	!	266 hora, 5 min.
+INSERT INTO series VALUES(444,113,11);	!	Trailer Park Boys: Live at the North Pole	!	267 hora, 5 min.
+INSERT INTO series VALUES(445,101,19);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	268 hora, 5 min.
+INSERT INTO series VALUES(446,30,1);	!	Ever After High: Spring Unsprung	!	269 hora, 5 min.
+INSERT INTO series VALUES(447,116,12);	!	Sense8: Creating the World	!	270 hora, 5 min.
+INSERT INTO series VALUES(448,130,12);	!	A Very Murray Christmas	!	271 hora, 5 min.
+INSERT INTO series VALUES(449,77,17);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	272 hora, 5 min.
+INSERT INTO series VALUES(450,41,14);	!	Marco Polo: One Hundred Eyes	!	273 hora, 5 min.
+INSERT INTO series VALUES(451,82,16);	!	Justin Timberlake + The Tennessee Kids	!	274 hora, 5 min.
+INSERT INTO series VALUES(452,111,9);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	275 hora, 5 min.
+INSERT INTO series VALUES(453,96,9);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	276 hora, 5 min.
+INSERT INTO series VALUES(454,123,7);	!	Project Mc2: A Royal Pain	!	277 hora, 5 min.
+INSERT INTO series VALUES(455,104,6);	!	15 Reasons Why: Beyond the Reasons	!	278 hora, 5 min.
+INSERT INTO series VALUES(456,37,3);	!	Rodney King	!	279 hora, 5 min.
+INSERT INTO series VALUES(457,65,8);	!	Puss in Book: Trapped in an Epic Tale	!	280 hora, 5 min.
+INSERT INTO series VALUES(458,100,18);	!	Buddy Thunderstruck: The Maybe Pile	!	281 hora, 5 min.
+INSERT INTO series VALUES(459,140,13);	!	Bill Burr: You People Are All the Same	!	282 hora, 5 min.
+INSERT INTO series VALUES(460,137,15);	!	Craig Ferguson: I'm Here to Help	!	283 hora, 5 min.
+INSERT INTO series VALUES(461,69,1);	!	John Hodgman: Ragnarok	!	284 hora, 5 min.
+INSERT INTO series VALUES(462,56,16);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	285 hora, 5 min.
+INSERT INTO series VALUES(463,45,18);	!	Russell Peters: Notorious	!	286 hora, 5 min.
+INSERT INTO series VALUES(464,123,14);	!	Aziz Ansari: Buried Alive	!	287 hora, 5 min.
+INSERT INTO series VALUES(465,157,19);	!	Jim Jefferies: Bare	!	288 hora, 5 min.
+INSERT INTO series VALUES(466,124,3);	!	Chelsea Handler: Uganda Be Kidding Me	!	289 hora, 5 min.
+INSERT INTO series VALUES(467,21,16);	!	Doug Benson: Doug Dynasty	!	290 hora, 5 min.
+INSERT INTO series VALUES(468,12,1);	!	Chelsea Peretti: One of the Greats	!	291 hora, 5 min.
+INSERT INTO series VALUES(469,9,4);	!	Bill Burr: I'm Sorry You Feel That Way	!	292 hora, 5 min.
+INSERT INTO series VALUES(470,87,4);	!	Nick Offerman: American Ham	!	293 hora, 5 min.
+INSERT INTO series VALUES(471,31,15);	!	Iliza Shlesinger: Freezing Hot	!	294 hora, 5 min.
+INSERT INTO series VALUES(472,105,5);	!	Ralphie May: Unruly	!	295 hora, 5 min.
+INSERT INTO series VALUES(473,73,8);	!	Aziz Ansari: Live at Madison Square Garden	!	296 hora, 5 min.
+INSERT INTO series VALUES(474,174,12);	!	Chris D'Elia: Incorrigible	!	297 hora, 5 min.
+INSERT INTO series VALUES(475,29,10);	!	Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)	!	298 hora, 5 min.
+INSERT INTO series VALUES(476,154,11);	!	Chris Tucker: Chris Tucker Live	!	299 hora, 5 min.
+INSERT INTO series VALUES(477,34,8);	!	Demetri Martin: Live (At the Time)	!	300 hora, 5 min.
+INSERT INTO series VALUES(478,121,1);	!	Anjelah Johnson: Not Fancy	!	301 hora, 5 min.
+INSERT INTO series VALUES(479,156,1);	!	Anthony Jeselnik: Thoughts and Prayers	!	302 hora, 5 min.
+INSERT INTO series VALUES(480,4,1);	!	John Mulaney: The Comeback Kid	!	303 hora, 5 min.
+INSERT INTO series VALUES(481,40,15);	!	Brent Morin: I'm Brent Morin	!	304 hora, 5 min.
+INSERT INTO series VALUES(482,115,17);	!	Mike Epps: Don't Take it Personal	!	305 hora, 5 min.
+INSERT INTO series VALUES(483,128,11);	!	Tom Segura: Mostly Stories	!	306 hora, 5 min.
+INSERT INTO series VALUES(484,34,19);	!	Ricardo O'Farrill: Abrazo Genial	!	307 hora, 5 min.
+INSERT INTO series VALUES(485,43,15);	!	Hannibal Buress: Comedy Camisado	!	308 hora, 5 min.
+INSERT INTO series VALUES(486,31,17);	!	Theo Von: No Offense	!	309 hora, 5 min.
+INSERT INTO series VALUES(487,11,14);	!	Jimmy Carr: Funny Business	!	310 hora, 5 min.
+INSERT INTO series VALUES(488,176,19);	!	Frankie Boyle: Hurt Liked You've Never Been Loved	!	311 hora, 5 min.
+INSERT INTO series VALUES(489,123,4);	!	Patton Oswalt: Talking for Clapping	!	312 hora, 5 min.
+INSERT INTO series VALUES(490,120,12);	!	Ali Wong: Baby Cobra	!	313 hora, 5 min.
+INSERT INTO series VALUES(491,83,10);	!	Bo Burnham: Make Happy	!	314 hora, 5 min.
+INSERT INTO series VALUES(492,39,3);	!	Sofía Niño de Rivera: Expuesta	!	315 hora, 5 min.
+INSERT INTO series VALUES(493,41,11);	!	Jim Jefferies: Freedumb	!	316 hora, 5 min.
+INSERT INTO series VALUES(494,126,8);	!	David Cross: Making America Great Again	!	317 hora, 5 min.
+INSERT INTO series VALUES(495,97,16);	!	Jeff Foxworthy and Larry the Cable Guy: We've Been Thinking	!	318 hora, 5 min.
+INSERT INTO series VALUES(496,23,12);	!	Jandino: Whatever It Takes	!	319 hora, 5 min.
+INSERT INTO series VALUES(497,11,10);	!	Cedric the Entertainer: Live from the Ville	!	320 hora, 5 min.
+INSERT INTO series VALUES(498,27,2);	!	Iliza Shlesinger: Confirmed Kills	!	321 hora, 5 min.
+INSERT INTO series VALUES(499,153,15);	!	Russell Peters: Almost Famous	!	322 hora, 5 min.
+INSERT INTO series VALUES(500,104,6);	!	Salvador Martinha: Tip of the Tongue	!	323 hora, 5 min.
+INSERT INTO series VALUES(501,26,3);	!	Joe Rogan: Triggered	!	324 hora, 5 min.
+INSERT INTO series VALUES(502,147,3);	!	Dana Carvey: Straight White Male, 62	!	325 hora, 5 min.
+INSERT INTO series VALUES(503,86,6);	!	Dieter Nuhr: Nuhr in Berlin	!	326 hora, 5 min.
+INSERT INTO series VALUES(504,97,12);	!	Colin Quinn: The New York Story	!	327 hora, 5 min.
+INSERT INTO series VALUES(505,46,2);	!	Michael Che: Matters	!	328 hora, 5 min.
+INSERT INTO series VALUES(506,56,10);	!	Reggie Watts: Spatial	!	329 hora, 5 min.
+INSERT INTO series VALUES(507,45,18);	!	Gabriel Iglesias: I’m Sorry For What I Said When I Was Hungry	!	330 hora, 5 min.
+INSERT INTO series VALUES(508,103,19);	!	Jen Kirkman: Just Keep Livin'?	!	331 hora, 5 min.
+INSERT INTO series VALUES(509,46,15);	!	Jim Gaffigan: Cinco	!	332 hora, 5 min.
+INSERT INTO series VALUES(510,2,11);	!	Neal Brennan: 3 Mics	!	333 hora, 5 min.
+INSERT INTO series VALUES(511,27,8);	!	Cristela Alonzo: Lower Classy	!	334 hora, 5 min.
+INSERT INTO series VALUES(512,58,10);	!	Gad Elmaleh: Gad Gone Wild	!	335 hora, 5 min.
+INSERT INTO series VALUES(513,63,3);	!	Bill Burr: Walk Your Way Out	!	336 hora, 5 min.
+INSERT INTO series VALUES(514,173,3);	!	Daniel Sosa: Sosafado	!	337 hora, 5 min.
+INSERT INTO series VALUES(515,145,2);	!	Beppe Grillo: Grillo vs. Grillo	!	338 hora, 5 min.
+INSERT INTO series VALUES(516,31,10);	!	Katherine Ryan: In Trouble	!	339 hora, 5 min.
+INSERT INTO series VALUES(517,141,11);	!	Trevor Noah: Afraid of the Dark	!	340 hora, 5 min.
+INSERT INTO series VALUES(518,29,9);	!	Mike Birbiglia: Thank God for Jokes	!	341 hora, 5 min.
+INSERT INTO series VALUES(519,62,10);	!	Amy Schumer: The Leather Special	!	342 hora, 5 min.
+INSERT INTO series VALUES(520,92,18);	!	Jim Norton: Mouthful of Shame	!	343 hora, 5 min.
+INSERT INTO series VALUES(521,32,1);	!	Dave Chappelle: The Age of Spin	!	344 hora, 5 min.
+INSERT INTO series VALUES(522,121,9);	!	Dave Chappelle: Deep in the Heart of Texas	!	345 hora, 5 min.
+INSERT INTO series VALUES(523,123,6);	!	Felipe Neto: My Life Makes No Sense	!	346 hora, 5 min.
+INSERT INTO series VALUES(524,175,5);	!	Jo Koy: Live from Seattle	!	347 hora, 5 min.
+INSERT INTO series VALUES(525,81,2);	!	Louis C.K.: 2019	!	348 hora, 5 min.
+INSERT INTO series VALUES(526,70,13);	!	Lucas Brothers: On Drugs	!	349 hora, 5 min.
+INSERT INTO series VALUES(527,14,9);	!	Vir Das: Abroad Understanding	!	350 hora, 5 min.
+INSERT INTO series VALUES(528,103,18);	!	Maria Bamford: Old Baby	!	351 hora, 5 min.
+INSERT INTO series VALUES(529,16,2);	!	Norm Macdonald: Hitler's Dog, Gossip & Trickery226?	!	352 hora, 5 min.
+INSERT INTO series VALUES(530,75,0);	!	Tracy Morgan: Staying Alive	!	353 hora, 5 min.
+INSERT INTO series VALUES(531,176,4);	!	Hasan Minhaj: Homecoming King229?	!	354 hora, 5 min.
+INSERT INTO series VALUES(532,3,2);	!	Sarah Silverman: A Speck of Dust	!	355 hora, 5 min.
+INSERT INTO series VALUES(533,29,18);	!	Nick Kroll & John Mulaney: Oh, Hello on Broadway	!	356 hora, 5 min.
+INSERT INTO series VALUES(534,52,17);	!	Marco Luque: Tamo Junto	!	357 hora, 5 min.
+INSERT INTO series VALUES(535,41,7);	!	Rory Scovel Tries Stand-Up for the First Time	!	358 hora, 5 min.
+INSERT INTO series VALUES(536,7,0);	!	Chris D'Elia: Man On Fire	!	359 hora, 5 min.
+INSERT INTO series VALUES(537,85,12);	!	Beasts of No Nation	!	360 hora, 5 min.
+INSERT INTO series VALUES(538,20,2);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	361 hora, 5 min.
+INSERT INTO series VALUES(539,100,12);	!	The Fundamentals of Caring	!	362 hora, 5 min.
+INSERT INTO series VALUES(540,72,9);	!	Rebirth	!	363 hora, 5 min.
+INSERT INTO series VALUES(541,96,14);	!	Tallulah	!	364 hora, 5 min.
+INSERT INTO series VALUES(542,55,18);	!	XOXO	!	365 hora, 5 min.
+INSERT INTO series VALUES(543,15,3);	!	ARQ	!	366 hora, 5 min.
+INSERT INTO series VALUES(544,140,2);	!	The Siege of Jadotville	!	367 hora, 5 min.
+INSERT INTO series VALUES(545,24,17);	!	I Am the Pretty Thing That Lives in the House!	!	368 hora, 5 min.
+INSERT INTO series VALUES(546,19,1);	!	10 años	!	369 hora, 5 min.
+INSERT INTO series VALUES(547,161,15);	!	Mercy	!	370 hora, 5 min.
+INSERT INTO series VALUES(548,52,12);	!	Spectral	!	371 hora, 5 min.
+INSERT INTO series VALUES(549,11,10);	!	Barry	!	372 hora, 5 min.
+INSERT INTO series VALUES(550,27,0);	!	Coin Heist	!	373 hora, 5 min.
+INSERT INTO series VALUES(551,167,10);	!	Clinical	!	374 hora, 5 min.
+INSERT INTO series VALUES(552,94,13);	!	iBoy	!	375 hora, 5 min.
+INSERT INTO series VALUES(553,110,16);	!	Imperial Dreams	!	376 hora, 5 min.
+INSERT INTO series VALUES(554,33,9);	!	I Don't Feel at Home in This World Anymore	!	377 hora, 5 min.
+INSERT INTO series VALUES(555,168,2);	!	Burning Sands163?	!	378 hora, 5 min.
+INSERT INTO series VALUES(556,64,4);	!	Deidra & Laney Rob a Train164?	!	379 hora, 5 min.
+INSERT INTO series VALUES(557,174,14);	!	The Most Hated Woman in America165?	!	380 hora, 5 min.
+INSERT INTO series VALUES(558,82,11);	!	The Discovery167?	!	381 hora, 5 min.
+INSERT INTO series VALUES(559,35,0);	!	Sand Castle169?	!	382 hora, 5 min.
+INSERT INTO series VALUES(560,87,13);	!	Tramps171?	!	383 hora, 5 min.
+INSERT INTO series VALUES(561,105,3);	!	Blame!173?	!	384 hora, 5 min.
+INSERT INTO series VALUES(562,166,7);	!	Sueño lúcido	!	385 hora, 5 min.
+INSERT INTO series VALUES(563,88,14);	!	Shimmer Lake	!	386 hora, 5 min.
+INSERT INTO series VALUES(564,18,3);	!	You Get Me	!	387 hora, 5 min.
+INSERT INTO series VALUES(565,24,14);	!	Okja	!	388 hora, 5 min.
+INSERT INTO series VALUES(566,154,18);	!	To the Bone	!	389 hora, 5 min.
+INSERT INTO series VALUES(567,104,16);	!	Death Note	!	390 hora, 5 min.
+INSERT INTO series VALUES(568,26,7);	!	The Ridiculous 9	!	391 hora, 5 min.
+INSERT INTO series VALUES(569,2,14);	!	Pee-wee's Big Holiday	!	392 hora, 5 min.
+INSERT INTO series VALUES(570,55,19);	!	Special Correspondents	!	393 hora, 5 min.
+INSERT INTO series VALUES(571,40,6);	!	The Do-Over	!	394 hora, 5 min.
+INSERT INTO series VALUES(572,173,12);	!	Brahman Naman	!	395 hora, 5 min.
+INSERT INTO series VALUES(573,157,12);	!	Mascots	!	396 hora, 5 min.
+INSERT INTO series VALUES(574,51,11);	!	True Memoirs Of An International Assassin	!	397 hora, 5 min.
+INSERT INTO series VALUES(575,32,6);	!	Take The 13	!	398 hora, 5 min.
+INSERT INTO series VALUES(576,147,1);	!	Girlfriend's Day182?	!	399 hora, 5 min.
+INSERT INTO series VALUES(577,164,13);	!	Win It All184?	!	400 hora, 5 min.
+INSERT INTO series VALUES(578,134,5);	!	Sandy Wexler186?	!	401 hora, 5 min.
+INSERT INTO series VALUES(579,135,13);	!	Small Crimes188?	!	402 hora, 5 min.
+INSERT INTO series VALUES(580,71,14);	!	Handsome: A Netflix Mystery Movie	!	403 hora, 5 min.
+INSERT INTO series VALUES(581,64,5);	!	War Machine191?	!	404 hora, 5 min.
+INSERT INTO series VALUES(582,20,13);	!	The Incredible Jessica James	!	405 hora, 5 min.
+INSERT INTO series VALUES(583,29,4);	!	Naked	!	406 hora, 5 min.
+INSERT INTO series VALUES(584,128,0);	!	Art of Conflict: The Murals of Northern Ireland	!	407 hora, 5 min.
+INSERT INTO series VALUES(585,162,9);	!	The Zen of Bennett	!	408 hora, 5 min.
+INSERT INTO series VALUES(586,26,3);	!	The Short Game	!	409 hora, 5 min.
+INSERT INTO series VALUES(587,54,5);	!	The Square	!	410 hora, 5 min.
+INSERT INTO series VALUES(588,33,15);	!	Mitt	!	411 hora, 5 min.
+INSERT INTO series VALUES(589,34,9);	!	The Battered Bastards of Baseball	!	412 hora, 5 min.
+INSERT INTO series VALUES(590,17,12);	!	Mission Blue	!	413 hora, 5 min.
+INSERT INTO series VALUES(591,118,4);	!	Print the Legend	!	414 hora, 5 min.
+INSERT INTO series VALUES(592,54,8);	!	E-Team	!	415 hora, 5 min.
+INSERT INTO series VALUES(593,92,14);	!	Virunga	!	416 hora, 5 min.
+INSERT INTO series VALUES(594,106,6);	!	My Own Man	!	417 hora, 5 min.
+INSERT INTO series VALUES(595,85,10);	!	The Other One: The Long Strange Trip of Bob Weir	!	418 hora, 5 min.
+INSERT INTO series VALUES(596,73,18);	!	Hot Girls Wanted	!	419 hora, 5 min.
+INSERT INTO series VALUES(597,57,13);	!	What Happened, Miss Simone?	!	420 hora, 5 min.
+INSERT INTO series VALUES(598,143,4);	!	Tig	!	421 hora, 5 min.
+INSERT INTO series VALUES(599,158,3);	!	Keith Richards: Under the Influence	!	422 hora, 5 min.
+INSERT INTO series VALUES(600,151,4);	!	Winter on Fire: Ukraine's Fight for Freedom	!	423 hora, 5 min.
+INSERT INTO series VALUES(601,7,14);	!	My Beautiful Broken Brain	!	424 hora, 5 min.
+INSERT INTO series VALUES(602,143,10);	!	Team Foxcatcher	!	425 hora, 5 min.
+INSERT INTO series VALUES(603,1,9);	!	Tony Robbins: I Am Not Your Guru	!	426 hora, 5 min.
+INSERT INTO series VALUES(604,138,3);	!	I'll Sleep When I'm Dead	!	427 hora, 5 min.
+INSERT INTO series VALUES(605,72,17);	!	Extremis	!	428 hora, 5 min.
+INSERT INTO series VALUES(606,144,3);	!	The White Helmets	!	429 hora, 5 min.
+INSERT INTO series VALUES(607,21,10);	!	Audrie & Daisy	!	430 hora, 5 min.
+INSERT INTO series VALUES(608,140,19);	!	Amanda Knox	!	431 hora, 5 min.
+INSERT INTO series VALUES(609,167,8);	!	16th	!	432 hora, 5 min.
+INSERT INTO series VALUES(610,150,5);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	433 hora, 5 min.
+INSERT INTO series VALUES(611,68,16);	!	Into the Inferno	!	434 hora, 5 min.
+INSERT INTO series VALUES(612,90,9);	!	The Ivory Game	!	435 hora, 5 min.
+INSERT INTO series VALUES(613,58,3);	!	Casting JonBenet	!	436 hora, 5 min.
+INSERT INTO series VALUES(614,144,8);	!	The Mars Generation200?	!	437 hora, 5 min.
+INSERT INTO series VALUES(615,60,13);	!	Get Me Roger Stone202?	!	438 hora, 5 min.
+INSERT INTO series VALUES(616,68,4);	!	Laerte-se	!	439 hora, 5 min.
+INSERT INTO series VALUES(617,54,12);	!	Joshua: Teenager vs. Superpower205?	!	440 hora, 5 min.
+INSERT INTO series VALUES(618,154,2);	!	Counterpunch	!	441 hora, 5 min.
+INSERT INTO series VALUES(619,52,13);	!	Nobody Speak: Trials of the Free Press208?	!	442 hora, 5 min.
+INSERT INTO series VALUES(620,10,10);	!	Chasing Coral210?	!	443 hora, 5 min.
+INSERT INTO series VALUES(621,153,15);	!	Icarus212?	!	444 hora, 5 min.
+INSERT INTO series VALUES(622,148,14);	!	Trailer Park Boys: Swearnet Live	!	445 hora, 5 min.
+INSERT INTO series VALUES(623,101,0);	!	Trailer Park Boys: Live at the North Pole	!	446 hora, 5 min.
+INSERT INTO series VALUES(624,104,15);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	447 hora, 5 min.
+INSERT INTO series VALUES(625,42,15);	!	Ever After High: Spring Unsprung	!	448 hora, 5 min.
+INSERT INTO series VALUES(626,166,9);	!	Sense8: Creating the World	!	449 hora, 5 min.
+INSERT INTO series VALUES(627,45,3);	!	A Very Murray Christmas	!	450 hora, 5 min.
+INSERT INTO series VALUES(628,44,16);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	451 hora, 5 min.
+INSERT INTO series VALUES(629,91,3);	!	Marco Polo: One Hundred Eyes	!	452 hora, 5 min.
+INSERT INTO series VALUES(630,120,16);	!	Justin Timberlake + The Tennessee Kids	!	453 hora, 5 min.
+INSERT INTO series VALUES(631,128,0);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	454 hora, 5 min.
+INSERT INTO series VALUES(632,160,9);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	455 hora, 5 min.
+INSERT INTO series VALUES(633,113,4);	!	Project Mc2: A Royal Pain	!	456 hora, 5 min.
+INSERT INTO series VALUES(634,159,1);	!	16 Reasons Why: Beyond the Reasons	!	457 hora, 5 min.
+INSERT INTO series VALUES(635,115,4);	!	Rodney King	!	458 hora, 5 min.
+INSERT INTO series VALUES(636,42,17);	!	Puss in Book: Trapped in an Epic Tale	!	459 hora, 5 min.
+INSERT INTO series VALUES(637,52,14);	!	Buddy Thunderstruck: The Maybe Pile	!	460 hora, 5 min.
+INSERT INTO series VALUES(638,83,9);	!	Bill Burr: You People Are All the Same	!	461 hora, 5 min.
+INSERT INTO series VALUES(639,131,13);	!	Craig Ferguson: I'm Here to Help	!	462 hora, 5 min.
+INSERT INTO series VALUES(640,13,9);	!	John Hodgman: Ragnarok	!	463 hora, 5 min.
+INSERT INTO series VALUES(641,68,9);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	464 hora, 5 min.
+INSERT INTO series VALUES(642,90,12);	!	Russell Peters: Notorious	!	465 hora, 5 min.
+INSERT INTO series VALUES(643,10,0);	!	Aziz Ansari: Buried Alive	!	466 hora, 5 min.
+INSERT INTO series VALUES(644,175,15);	!	Jim Jefferies: Bare	!	467 hora, 5 min.
+INSERT INTO series VALUES(645,69,18);	!	Chelsea Handler: Uganda Be Kidding Me	!	468 hora, 5 min.
+INSERT INTO series VALUES(646,17,11);	!	Doug Benson: Doug Dynasty	!	469 hora, 5 min.
+INSERT INTO series VALUES(647,145,9);	!	Chelsea Peretti: One of the Greats	!	470 hora, 5 min.
+INSERT INTO series VALUES(648,145,3);	!	Bill Burr: I'm Sorry You Feel That Way	!	471 hora, 5 min.
+INSERT INTO series VALUES(649,80,8);	!	Nick Offerman: American Ham	!	472 hora, 5 min.
+INSERT INTO series VALUES(650,162,0);	!	Iliza Shlesinger: Freezing Hot	!	473 hora, 5 min.
+INSERT INTO series VALUES(651,101,6);	!	Ralphie May: Unruly	!	474 hora, 5 min.
+INSERT INTO series VALUES(652,29,17);	!	Aziz Ansari: Live at Madison Square Garden	!	475 hora, 5 min.
+INSERT INTO series VALUES(653,62,2);	!	Chris D'Elia: Incorrigible	!	476 hora, 5 min.
+INSERT INTO series VALUES(654,154,6);	!	Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)	!	477 hora, 5 min.
+INSERT INTO series VALUES(655,132,7);	!	Chris Tucker: Chris Tucker Live	!	478 hora, 5 min.
+INSERT INTO series VALUES(656,52,18);	!	Demetri Martin: Live (At the Time)	!	479 hora, 5 min.
+INSERT INTO series VALUES(657,83,5);	!	Anjelah Johnson: Not Fancy	!	480 hora, 5 min.
+INSERT INTO series VALUES(658,99,6);	!	Anthony Jeselnik: Thoughts and Prayers	!	481 hora, 5 min.
+INSERT INTO series VALUES(659,10,7);	!	John Mulaney: The Comeback Kid	!	482 hora, 5 min.
+INSERT INTO series VALUES(660,110,4);	!	Brent Morin: I'm Brent Morin	!	483 hora, 5 min.
+INSERT INTO series VALUES(661,131,5);	!	Mike Epps: Don't Take it Personal	!	484 hora, 5 min.
+INSERT INTO series VALUES(662,173,0);	!	Tom Segura: Mostly Stories	!	485 hora, 5 min.
+INSERT INTO series VALUES(663,152,12);	!	Ricardo O'Farrill: Abrazo Genial	!	486 hora, 5 min.
+INSERT INTO series VALUES(664,42,8);	!	Hannibal Buress: Comedy Camisado	!	487 hora, 5 min.
+INSERT INTO series VALUES(665,84,4);	!	Theo Von: No Offense	!	488 hora, 5 min.
+INSERT INTO series VALUES(666,44,4);	!	Jimmy Carr: Funny Business	!	489 hora, 5 min.
+INSERT INTO series VALUES(667,166,12);	!	Frankie Boyle: Hurt Liked You've Never Been Loved	!	490 hora, 5 min.
+INSERT INTO series VALUES(668,120,19);	!	Patton Oswalt: Talking for Clapping	!	491 hora, 5 min.
+INSERT INTO series VALUES(669,9,12);	!	Ali Wong: Baby Cobra	!	492 hora, 5 min.
+INSERT INTO series VALUES(670,88,19);	!	Bo Burnham: Make Happy	!	493 hora, 5 min.
+INSERT INTO series VALUES(671,139,3);	!	Sofía Niño de Rivera: Expuesta	!	494 hora, 5 min.
+INSERT INTO series VALUES(672,128,14);	!	Jim Jefferies: Freedumb	!	495 hora, 5 min.
+INSERT INTO series VALUES(673,157,6);	!	David Cross: Making America Great Again	!	496 hora, 5 min.
+INSERT INTO series VALUES(674,18,3);	!	Jeff Foxworthy and Larry the Cable Guy: We've Been Thinking	!	497 hora, 5 min.
+INSERT INTO series VALUES(675,110,8);	!	Jandino: Whatever It Takes	!	498 hora, 5 min.
+INSERT INTO series VALUES(676,175,14);	!	Cedric the Entertainer: Live from the Ville	!	499 hora, 5 min.
+INSERT INTO series VALUES(677,2,5);	!	Iliza Shlesinger: Confirmed Kills	!	500 hora, 5 min.
+INSERT INTO series VALUES(678,2,8);	!	Russell Peters: Almost Famous	!	501 hora, 5 min.
+INSERT INTO series VALUES(679,72,5);	!	Salvador Martinha: Tip of the Tongue	!	502 hora, 5 min.
+INSERT INTO series VALUES(680,142,17);	!	Joe Rogan: Triggered	!	503 hora, 5 min.
+INSERT INTO series VALUES(681,30,19);	!	Dana Carvey: Straight White Male, 63	!	504 hora, 5 min.
+INSERT INTO series VALUES(682,1,1);	!	Dieter Nuhr: Nuhr in Berlin	!	505 hora, 5 min.
+INSERT INTO series VALUES(683,19,19);	!	Colin Quinn: The New York Story	!	506 hora, 5 min.
+INSERT INTO series VALUES(684,41,3);	!	Michael Che: Matters	!	507 hora, 5 min.
+INSERT INTO series VALUES(685,109,1);	!	Reggie Watts: Spatial	!	508 hora, 5 min.
+INSERT INTO series VALUES(686,2,19);	!	Gabriel Iglesias: I’m Sorry For What I Said When I Was Hungry	!	509 hora, 5 min.
+INSERT INTO series VALUES(687,140,5);	!	Jen Kirkman: Just Keep Livin'?	!	510 hora, 5 min.
+INSERT INTO series VALUES(688,11,7);	!	Jim Gaffigan: Cinco	!	511 hora, 5 min.
+INSERT INTO series VALUES(689,95,12);	!	Neal Brennan: 3 Mics	!	512 hora, 5 min.
+INSERT INTO series VALUES(690,82,10);	!	Cristela Alonzo: Lower Classy	!	513 hora, 5 min.
+INSERT INTO series VALUES(691,65,5);	!	Gad Elmaleh: Gad Gone Wild	!	514 hora, 5 min.
+INSERT INTO series VALUES(692,127,11);	!	Bill Burr: Walk Your Way Out	!	515 hora, 5 min.
+INSERT INTO series VALUES(693,59,13);	!	Daniel Sosa: Sosafado	!	516 hora, 5 min.
+INSERT INTO series VALUES(694,171,18);	!	Beppe Grillo: Grillo vs. Grillo	!	517 hora, 5 min.
+INSERT INTO series VALUES(695,112,8);	!	Katherine Ryan: In Trouble	!	518 hora, 5 min.
+INSERT INTO series VALUES(696,139,11);	!	Trevor Noah: Afraid of the Dark	!	519 hora, 5 min.
+INSERT INTO series VALUES(697,136,10);	!	Mike Birbiglia: Thank God for Jokes	!	520 hora, 5 min.
+INSERT INTO series VALUES(698,50,13);	!	Amy Schumer: The Leather Special	!	521 hora, 5 min.
+INSERT INTO series VALUES(699,23,0);	!	Jim Norton: Mouthful of Shame	!	522 hora, 5 min.
+INSERT INTO series VALUES(700,0,4);	!	Dave Chappelle: The Age of Spin	!	523 hora, 5 min.
+INSERT INTO series VALUES(701,61,7);	!	Dave Chappelle: Deep in the Heart of Texas	!	524 hora, 5 min.
+INSERT INTO series VALUES(702,69,12);	!	Felipe Neto: My Life Makes No Sense	!	525 hora, 5 min.
+INSERT INTO series VALUES(703,1,13);	!	Jo Koy: Live from Seattle	!	526 hora, 5 min.
+INSERT INTO series VALUES(704,49,18);	!	Louis C.K.: 2020	!	527 hora, 5 min.
+INSERT INTO series VALUES(705,59,4);	!	Lucas Brothers: On Drugs	!	528 hora, 5 min.
+INSERT INTO series VALUES(706,101,10);	!	Vir Das: Abroad Understanding	!	529 hora, 5 min.
+INSERT INTO series VALUES(707,114,3);	!	Maria Bamford: Old Baby	!	530 hora, 5 min.
+INSERT INTO series VALUES(708,40,16);	!	Norm Macdonald: Hitler's Dog, Gossip & Trickery226?	!	531 hora, 5 min.
+INSERT INTO series VALUES(709,131,13);	!	Tracy Morgan: Staying Alive	!	532 hora, 5 min.
+INSERT INTO series VALUES(710,172,1);	!	Hasan Minhaj: Homecoming King229?	!	533 hora, 5 min.
+INSERT INTO series VALUES(711,13,4);	!	Sarah Silverman: A Speck of Dust	!	534 hora, 5 min.
+INSERT INTO series VALUES(712,77,3);	!	Nick Kroll & John Mulaney: Oh, Hello on Broadway	!	535 hora, 5 min.
+INSERT INTO series VALUES(713,147,2);	!	Marco Luque: Tamo Junto	!	536 hora, 5 min.
+INSERT INTO series VALUES(714,85,1);	!	Rory Scovel Tries Stand-Up for the First Time	!	537 hora, 5 min.
+INSERT INTO series VALUES(715,45,3);	!	Chris D'Elia: Man On Fire	!	538 hora, 5 min.
+INSERT INTO series VALUES(716,81,10);	!	Beasts of No Nation	!	539 hora, 5 min.
+INSERT INTO series VALUES(717,88,16);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	540 hora, 5 min.
+INSERT INTO series VALUES(718,134,13);	!	The Fundamentals of Caring	!	541 hora, 5 min.
+INSERT INTO series VALUES(719,99,9);	!	Rebirth	!	542 hora, 5 min.
+INSERT INTO series VALUES(720,117,3);	!	Tallulah	!	543 hora, 5 min.
+INSERT INTO series VALUES(721,154,19);	!	XOXO	!	544 hora, 5 min.
+INSERT INTO series VALUES(722,137,12);	!	ARQ	!	545 hora, 5 min.
+INSERT INTO series VALUES(723,83,1);	!	The Siege of Jadotville	!	546 hora, 5 min.
+INSERT INTO series VALUES(724,44,13);	!	I Am the Pretty Thing That Lives in the House!	!	547 hora, 5 min.
+INSERT INTO series VALUES(725,70,8);	!	11 años	!	548 hora, 5 min.
+INSERT INTO series VALUES(726,79,4);	!	Mercy	!	549 hora, 5 min.
+INSERT INTO series VALUES(727,12,12);	!	Spectral	!	550 hora, 5 min.
+INSERT INTO series VALUES(728,163,13);	!	Barry	!	551 hora, 5 min.
+INSERT INTO series VALUES(729,153,10);	!	Coin Heist	!	552 hora, 5 min.
+INSERT INTO series VALUES(730,129,19);	!	Clinical	!	553 hora, 5 min.
+INSERT INTO series VALUES(731,27,5);	!	iBoy	!	554 hora, 5 min.
+INSERT INTO series VALUES(732,137,3);	!	Imperial Dreams	!	555 hora, 5 min.
+INSERT INTO series VALUES(733,17,15);	!	I Don't Feel at Home in This World Anymore	!	556 hora, 5 min.
+INSERT INTO series VALUES(734,9,12);	!	Burning Sands163?	!	557 hora, 5 min.
+INSERT INTO series VALUES(735,73,6);	!	Deidra & Laney Rob a Train164?	!	558 hora, 5 min.
+INSERT INTO series VALUES(736,136,15);	!	The Most Hated Woman in America165?	!	559 hora, 5 min.
+INSERT INTO series VALUES(737,160,19);	!	The Discovery167?	!	560 hora, 5 min.
+INSERT INTO series VALUES(738,145,16);	!	Sand Castle169?	!	561 hora, 5 min.
+INSERT INTO series VALUES(739,144,13);	!	Tramps171?	!	562 hora, 5 min.
+INSERT INTO series VALUES(740,51,0);	!	Blame!173?	!	563 hora, 5 min.
+INSERT INTO series VALUES(741,28,19);	!	Sueño lúcido	!	564 hora, 5 min.
+INSERT INTO series VALUES(742,148,6);	!	Shimmer Lake	!	565 hora, 5 min.
+INSERT INTO series VALUES(743,81,5);	!	You Get Me	!	566 hora, 5 min.
+INSERT INTO series VALUES(744,124,11);	!	Okja	!	567 hora, 5 min.
+INSERT INTO series VALUES(745,150,3);	!	To the Bone	!	568 hora, 5 min.
+INSERT INTO series VALUES(746,18,10);	!	Death Note	!	569 hora, 5 min.
+INSERT INTO series VALUES(747,5,1);	!	The Ridiculous 10	!	570 hora, 5 min.
+INSERT INTO series VALUES(748,27,16);	!	Pee-wee's Big Holiday	!	571 hora, 5 min.
+INSERT INTO series VALUES(749,33,3);	!	Special Correspondents	!	572 hora, 5 min.
+INSERT INTO series VALUES(750,54,15);	!	The Do-Over	!	573 hora, 5 min.
+INSERT INTO series VALUES(751,129,19);	!	Brahman Naman	!	574 hora, 5 min.
+INSERT INTO series VALUES(752,144,10);	!	Mascots	!	575 hora, 5 min.
+INSERT INTO series VALUES(753,83,4);	!	True Memoirs Of An International Assassin	!	576 hora, 5 min.
+INSERT INTO series VALUES(754,65,12);	!	Take The 14	!	577 hora, 5 min.
+INSERT INTO series VALUES(755,63,5);	!	Girlfriend's Day182?	!	578 hora, 5 min.
+INSERT INTO series VALUES(756,37,1);	!	Win It All184?	!	579 hora, 5 min.
+INSERT INTO series VALUES(757,66,16);	!	Sandy Wexler186?	!	580 hora, 5 min.
+INSERT INTO series VALUES(758,161,1);	!	Small Crimes188?	!	581 hora, 5 min.
+INSERT INTO series VALUES(759,122,14);	!	Handsome: A Netflix Mystery Movie	!	582 hora, 5 min.
+INSERT INTO series VALUES(760,122,0);	!	War Machine191?	!	583 hora, 5 min.
+INSERT INTO series VALUES(761,177,8);	!	The Incredible Jessica James	!	584 hora, 5 min.
+INSERT INTO series VALUES(762,65,12);	!	Naked	!	585 hora, 5 min.
+INSERT INTO series VALUES(763,49,1);	!	Art of Conflict: The Murals of Northern Ireland	!	586 hora, 5 min.
+INSERT INTO series VALUES(764,10,8);	!	The Zen of Bennett	!	587 hora, 5 min.
+INSERT INTO series VALUES(765,26,11);	!	The Short Game	!	588 hora, 5 min.
+INSERT INTO series VALUES(766,52,5);	!	The Square	!	589 hora, 5 min.
+INSERT INTO series VALUES(767,123,15);	!	Mitt	!	590 hora, 5 min.
+INSERT INTO series VALUES(768,6,2);	!	The Battered Bastards of Baseball	!	591 hora, 5 min.
+INSERT INTO series VALUES(769,3,7);	!	Mission Blue	!	592 hora, 5 min.
+INSERT INTO series VALUES(770,151,1);	!	Print the Legend	!	593 hora, 5 min.
+INSERT INTO series VALUES(771,61,18);	!	E-Team	!	594 hora, 5 min.
+INSERT INTO series VALUES(772,95,1);	!	Virunga	!	595 hora, 5 min.
+INSERT INTO series VALUES(773,69,15);	!	My Own Man	!	596 hora, 5 min.
+INSERT INTO series VALUES(774,141,18);	!	The Other One: The Long Strange Trip of Bob Weir	!	597 hora, 5 min.
+INSERT INTO series VALUES(775,31,16);	!	Hot Girls Wanted	!	598 hora, 5 min.
+INSERT INTO series VALUES(776,139,18);	!	What Happened, Miss Simone?	!	599 hora, 5 min.
+INSERT INTO series VALUES(777,155,17);	!	Tig	!	600 hora, 5 min.
+INSERT INTO series VALUES(778,53,11);	!	Keith Richards: Under the Influence	!	601 hora, 5 min.
+INSERT INTO series VALUES(779,79,16);	!	Winter on Fire: Ukraine's Fight for Freedom	!	602 hora, 5 min.
+INSERT INTO series VALUES(780,108,19);	!	My Beautiful Broken Brain	!	603 hora, 5 min.
+INSERT INTO series VALUES(781,40,19);	!	Team Foxcatcher	!	604 hora, 5 min.
+INSERT INTO series VALUES(782,71,12);	!	Tony Robbins: I Am Not Your Guru	!	605 hora, 5 min.
+INSERT INTO series VALUES(783,98,11);	!	I'll Sleep When I'm Dead	!	606 hora, 5 min.
+INSERT INTO series VALUES(784,61,17);	!	Extremis	!	607 hora, 5 min.
+INSERT INTO series VALUES(785,156,19);	!	The White Helmets	!	608 hora, 5 min.
+INSERT INTO series VALUES(786,117,12);	!	Audrie & Daisy	!	609 hora, 5 min.
+INSERT INTO series VALUES(787,118,3);	!	Amanda Knox	!	610 hora, 5 min.
+INSERT INTO series VALUES(788,26,6);	!	17th	!	611 hora, 5 min.
+INSERT INTO series VALUES(789,141,17);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	612 hora, 5 min.
+INSERT INTO series VALUES(790,16,0);	!	Into the Inferno	!	613 hora, 5 min.
+INSERT INTO series VALUES(791,83,15);	!	The Ivory Game	!	614 hora, 5 min.
+INSERT INTO series VALUES(792,21,8);	!	Casting JonBenet	!	615 hora, 5 min.
+INSERT INTO series VALUES(793,82,0);	!	The Mars Generation200?	!	616 hora, 5 min.
+INSERT INTO series VALUES(794,128,3);	!	Get Me Roger Stone202?	!	617 hora, 5 min.
+INSERT INTO series VALUES(795,116,12);	!	Laerte-se	!	618 hora, 5 min.
+INSERT INTO series VALUES(796,13,7);	!	Joshua: Teenager vs. Superpower205?	!	619 hora, 5 min.
+INSERT INTO series VALUES(797,33,19);	!	Counterpunch	!	620 hora, 5 min.
+INSERT INTO series VALUES(798,43,0);	!	Nobody Speak: Trials of the Free Press208?	!	621 hora, 5 min.
+INSERT INTO series VALUES(799,25,4);	!	Chasing Coral210?	!	622 hora, 5 min.
+INSERT INTO series VALUES(800,24,18);	!	Icarus212?	!	623 hora, 5 min.
+INSERT INTO series VALUES(801,72,6);	!	Trailer Park Boys: Swearnet Live	!	624 hora, 5 min.
+INSERT INTO series VALUES(802,169,0);	!	Trailer Park Boys: Live at the North Pole	!	625 hora, 5 min.
+INSERT INTO series VALUES(803,25,11);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	626 hora, 5 min.
+INSERT INTO series VALUES(804,77,8);	!	Ever After High: Spring Unsprung	!	627 hora, 5 min.
+INSERT INTO series VALUES(805,111,2);	!	Sense8: Creating the World	!	628 hora, 5 min.
+INSERT INTO series VALUES(806,22,2);	!	A Very Murray Christmas	!	629 hora, 5 min.
+INSERT INTO series VALUES(807,125,1);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	630 hora, 5 min.
+INSERT INTO series VALUES(808,17,16);	!	Marco Polo: One Hundred Eyes	!	631 hora, 5 min.
+INSERT INTO series VALUES(809,89,7);	!	Justin Timberlake + The Tennessee Kids	!	632 hora, 5 min.
+INSERT INTO series VALUES(810,128,6);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	633 hora, 5 min.
+INSERT INTO series VALUES(811,172,15);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	634 hora, 5 min.
+INSERT INTO series VALUES(812,116,3);	!	Project Mc2: A Royal Pain	!	635 hora, 5 min.
+INSERT INTO series VALUES(813,117,2);	!	17 Reasons Why: Beyond the Reasons	!	636 hora, 5 min.
+INSERT INTO series VALUES(814,145,8);	!	Rodney King	!	637 hora, 5 min.
+INSERT INTO series VALUES(815,57,15);	!	Puss in Book: Trapped in an Epic Tale	!	638 hora, 5 min.
+INSERT INTO series VALUES(816,6,12);	!	Buddy Thunderstruck: The Maybe Pile	!	639 hora, 5 min.
+INSERT INTO series VALUES(817,138,19);	!	Bill Burr: You People Are All the Same	!	640 hora, 5 min.
+INSERT INTO series VALUES(818,168,2);	!	Craig Ferguson: I'm Here to Help	!	641 hora, 5 min.
+INSERT INTO series VALUES(819,84,14);	!	John Hodgman: Ragnarok	!	642 hora, 5 min.
+INSERT INTO series VALUES(820,124,17);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	643 hora, 5 min.
+INSERT INTO series VALUES(821,55,4);	!	Russell Peters: Notorious	!	644 hora, 5 min.
+INSERT INTO series VALUES(822,130,17);	!	Aziz Ansari: Buried Alive	!	645 hora, 5 min.
+INSERT INTO series VALUES(823,50,17);	!	Jim Jefferies: Bare	!	646 hora, 5 min.
+INSERT INTO series VALUES(824,41,17);	!	Chelsea Handler: Uganda Be Kidding Me	!	647 hora, 5 min.
+INSERT INTO series VALUES(825,6,14);	!	Doug Benson: Doug Dynasty	!	648 hora, 5 min.
+INSERT INTO series VALUES(826,119,3);	!	Chelsea Peretti: One of the Greats	!	649 hora, 5 min.
+INSERT INTO series VALUES(827,43,19);	!	Bill Burr: I'm Sorry You Feel That Way	!	650 hora, 5 min.
+INSERT INTO series VALUES(828,103,3);	!	Nick Offerman: American Ham	!	651 hora, 5 min.
+INSERT INTO series VALUES(829,75,13);	!	Iliza Shlesinger: Freezing Hot	!	652 hora, 5 min.
+INSERT INTO series VALUES(830,139,2);	!	Ralphie May: Unruly	!	653 hora, 5 min.
+INSERT INTO series VALUES(831,56,7);	!	Aziz Ansari: Live at Madison Square Garden	!	654 hora, 5 min.
+INSERT INTO series VALUES(832,46,16);	!	Chris D'Elia: Incorrigible	!	655 hora, 5 min.
+INSERT INTO series VALUES(833,63,16);	!	Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)	!	656 hora, 5 min.
+INSERT INTO series VALUES(834,94,4);	!	Chris Tucker: Chris Tucker Live	!	657 hora, 5 min.
+INSERT INTO series VALUES(835,173,10);	!	Demetri Martin: Live (At the Time)	!	658 hora, 5 min.
+INSERT INTO series VALUES(836,117,18);	!	Anjelah Johnson: Not Fancy	!	659 hora, 5 min.
+INSERT INTO series VALUES(837,48,17);	!	Anthony Jeselnik: Thoughts and Prayers	!	660 hora, 5 min.
+INSERT INTO series VALUES(838,13,15);	!	John Mulaney: The Comeback Kid	!	661 hora, 5 min.
+INSERT INTO series VALUES(839,114,17);	!	Brent Morin: I'm Brent Morin	!	662 hora, 5 min.
+INSERT INTO series VALUES(840,125,4);	!	Mike Epps: Don't Take it Personal	!	663 hora, 5 min.
+INSERT INTO series VALUES(841,108,11);	!	Tom Segura: Mostly Stories	!	664 hora, 5 min.
+INSERT INTO series VALUES(842,19,1);	!	Ricardo O'Farrill: Abrazo Genial	!	665 hora, 5 min.
+INSERT INTO series VALUES(843,163,15);	!	Hannibal Buress: Comedy Camisado	!	666 hora, 5 min.
+INSERT INTO series VALUES(844,146,9);	!	Theo Von: No Offense	!	667 hora, 5 min.
+INSERT INTO series VALUES(845,162,19);	!	Jimmy Carr: Funny Business	!	668 hora, 5 min.
+INSERT INTO series VALUES(846,162,16);	!	Frankie Boyle: Hurt Liked You've Never Been Loved	!	669 hora, 5 min.
+INSERT INTO series VALUES(847,18,2);	!	Patton Oswalt: Talking for Clapping	!	670 hora, 5 min.
+INSERT INTO series VALUES(848,78,7);	!	Ali Wong: Baby Cobra	!	671 hora, 5 min.
+INSERT INTO series VALUES(849,111,13);	!	Bo Burnham: Make Happy	!	672 hora, 5 min.
+INSERT INTO series VALUES(850,148,17);	!	Sofía Niño de Rivera: Expuesta	!	673 hora, 5 min.
+INSERT INTO series VALUES(851,31,13);	!	Jim Jefferies: Freedumb	!	674 hora, 5 min.
+INSERT INTO series VALUES(852,149,0);	!	David Cross: Making America Great Again	!	675 hora, 5 min.
+INSERT INTO series VALUES(853,55,6);	!	Jeff Foxworthy and Larry the Cable Guy: We've Been Thinking	!	676 hora, 5 min.
+INSERT INTO series VALUES(854,41,7);	!	Jandino: Whatever It Takes	!	677 hora, 5 min.
+INSERT INTO series VALUES(855,130,1);	!	Cedric the Entertainer: Live from the Ville	!	678 hora, 5 min.
+INSERT INTO series VALUES(856,170,17);	!	Iliza Shlesinger: Confirmed Kills	!	679 hora, 5 min.
+INSERT INTO series VALUES(857,15,9);	!	Russell Peters: Almost Famous	!	680 hora, 5 min.
+INSERT INTO series VALUES(858,91,2);	!	Salvador Martinha: Tip of the Tongue	!	681 hora, 5 min.
+INSERT INTO series VALUES(859,123,5);	!	Joe Rogan: Triggered	!	682 hora, 5 min.
+INSERT INTO series VALUES(860,39,11);	!	Dana Carvey: Straight White Male, 64	!	683 hora, 5 min.
+INSERT INTO series VALUES(861,40,13);	!	Dieter Nuhr: Nuhr in Berlin	!	684 hora, 5 min.
+INSERT INTO series VALUES(862,144,5);	!	Colin Quinn: The New York Story	!	685 hora, 5 min.
+INSERT INTO series VALUES(863,128,11);	!	Michael Che: Matters	!	686 hora, 5 min.
+INSERT INTO series VALUES(864,62,2);	!	Reggie Watts: Spatial	!	687 hora, 5 min.
+INSERT INTO series VALUES(865,87,11);	!	Gabriel Iglesias: I’m Sorry For What I Said When I Was Hungry	!	688 hora, 5 min.
+INSERT INTO series VALUES(866,128,10);	!	Jen Kirkman: Just Keep Livin'?	!	689 hora, 5 min.
+INSERT INTO series VALUES(867,38,8);	!	Jim Gaffigan: Cinco	!	690 hora, 5 min.
+INSERT INTO series VALUES(868,54,14);	!	Neal Brennan: 3 Mics	!	691 hora, 5 min.
+INSERT INTO series VALUES(869,175,6);	!	Cristela Alonzo: Lower Classy	!	692 hora, 5 min.
+INSERT INTO series VALUES(870,176,1);	!	Gad Elmaleh: Gad Gone Wild	!	693 hora, 5 min.
+INSERT INTO series VALUES(871,15,5);	!	Bill Burr: Walk Your Way Out	!	694 hora, 5 min.
+INSERT INTO series VALUES(872,120,17);	!	Daniel Sosa: Sosafado	!	695 hora, 5 min.
+INSERT INTO series VALUES(873,99,3);	!	Beppe Grillo: Grillo vs. Grillo	!	696 hora, 5 min.
+INSERT INTO series VALUES(874,8,9);	!	Katherine Ryan: In Trouble	!	697 hora, 5 min.
+INSERT INTO series VALUES(875,29,4);	!	Trevor Noah: Afraid of the Dark	!	698 hora, 5 min.
+INSERT INTO series VALUES(876,3,18);	!	Mike Birbiglia: Thank God for Jokes	!	699 hora, 5 min.
+INSERT INTO series VALUES(877,3,8);	!	Amy Schumer: The Leather Special	!	700 hora, 5 min.
+INSERT INTO series VALUES(878,153,18);	!	Jim Norton: Mouthful of Shame	!	701 hora, 5 min.
+INSERT INTO series VALUES(879,106,4);	!	Dave Chappelle: The Age of Spin	!	702 hora, 5 min.
+INSERT INTO series VALUES(880,165,18);	!	Dave Chappelle: Deep in the Heart of Texas	!	703 hora, 5 min.
+INSERT INTO series VALUES(881,9,13);	!	Felipe Neto: My Life Makes No Sense	!	704 hora, 5 min.
+INSERT INTO series VALUES(882,44,4);	!	Jo Koy: Live from Seattle	!	705 hora, 5 min.
+INSERT INTO series VALUES(883,136,2);	!	Louis C.K.: 2021	!	706 hora, 5 min.
+INSERT INTO series VALUES(884,82,4);	!	Lucas Brothers: On Drugs	!	707 hora, 5 min.
+INSERT INTO series VALUES(885,43,19);	!	Vir Das: Abroad Understanding	!	708 hora, 5 min.
+INSERT INTO series VALUES(886,126,12);	!	Maria Bamford: Old Baby	!	709 hora, 5 min.
+INSERT INTO series VALUES(887,50,13);	!	Norm Macdonald: Hitler's Dog, Gossip & Trickery226?	!	710 hora, 5 min.
+INSERT INTO series VALUES(888,148,2);	!	Tracy Morgan: Staying Alive	!	711 hora, 5 min.
+INSERT INTO series VALUES(889,122,15);	!	Hasan Minhaj: Homecoming King229?	!	712 hora, 5 min.
+INSERT INTO series VALUES(890,88,3);	!	Sarah Silverman: A Speck of Dust	!	713 hora, 5 min.
+INSERT INTO series VALUES(891,94,3);	!	Nick Kroll & John Mulaney: Oh, Hello on Broadway	!	714 hora, 5 min.
+INSERT INTO series VALUES(892,5,8);	!	Marco Luque: Tamo Junto	!	715 hora, 5 min.
+INSERT INTO series VALUES(893,73,11);	!	Rory Scovel Tries Stand-Up for the First Time	!	716 hora, 5 min.
+INSERT INTO series VALUES(894,38,11);	!	Chris D'Elia: Man On Fire	!	717 hora, 5 min.
+INSERT INTO series VALUES(895,141,17);	!	Beasts of No Nation	!	718 hora, 5 min.
+INSERT INTO series VALUES(896,33,1);	!	Crouching Tiger, Hidden Dragon: Sword of Destiny	!	719 hora, 5 min.
+INSERT INTO series VALUES(897,134,14);	!	The Fundamentals of Caring	!	720 hora, 5 min.
+INSERT INTO series VALUES(898,74,4);	!	Rebirth	!	721 hora, 5 min.
+INSERT INTO series VALUES(899,77,17);	!	Tallulah	!	722 hora, 5 min.
+INSERT INTO series VALUES(900,113,16);	!	XOXO	!	723 hora, 5 min.
+INSERT INTO series VALUES(901,119,13);	!	ARQ	!	724 hora, 5 min.
+INSERT INTO series VALUES(902,63,0);	!	The Siege of Jadotville	!	725 hora, 5 min.
+INSERT INTO series VALUES(903,177,5);	!	I Am the Pretty Thing That Lives in the House!	!	726 hora, 5 min.
+INSERT INTO series VALUES(904,91,17);	!	12 años	!	727 hora, 5 min.
+INSERT INTO series VALUES(905,114,2);	!	Mercy	!	728 hora, 5 min.
+INSERT INTO series VALUES(906,92,3);	!	Spectral	!	729 hora, 5 min.
+INSERT INTO series VALUES(907,69,2);	!	Barry	!	730 hora, 5 min.
+INSERT INTO series VALUES(908,79,18);	!	Coin Heist	!	731 hora, 5 min.
+INSERT INTO series VALUES(909,33,12);	!	Clinical	!	732 hora, 5 min.
+INSERT INTO series VALUES(910,71,13);	!	iBoy	!	733 hora, 5 min.
+INSERT INTO series VALUES(911,169,6);	!	Imperial Dreams	!	734 hora, 5 min.
+INSERT INTO series VALUES(912,121,9);	!	I Don't Feel at Home in This World Anymore	!	735 hora, 5 min.
+INSERT INTO series VALUES(913,120,16);	!	Burning Sands163?	!	736 hora, 5 min.
+INSERT INTO series VALUES(914,136,11);	!	Deidra & Laney Rob a Train164?	!	737 hora, 5 min.
+INSERT INTO series VALUES(915,68,13);	!	The Most Hated Woman in America165?	!	738 hora, 5 min.
+INSERT INTO series VALUES(916,52,13);	!	The Discovery167?	!	739 hora, 5 min.
+INSERT INTO series VALUES(917,152,2);	!	Sand Castle169?	!	740 hora, 5 min.
+INSERT INTO series VALUES(918,135,9);	!	Tramps171?	!	741 hora, 5 min.
+INSERT INTO series VALUES(919,42,12);	!	Blame!173?	!	742 hora, 5 min.
+INSERT INTO series VALUES(920,27,5);	!	Sueño lúcido	!	743 hora, 5 min.
+INSERT INTO series VALUES(921,143,18);	!	Shimmer Lake	!	744 hora, 5 min.
+INSERT INTO series VALUES(922,77,6);	!	You Get Me	!	745 hora, 5 min.
+INSERT INTO series VALUES(923,148,13);	!	Okja	!	746 hora, 5 min.
+INSERT INTO series VALUES(924,77,3);	!	To the Bone	!	747 hora, 5 min.
+INSERT INTO series VALUES(925,146,5);	!	Death Note	!	748 hora, 5 min.
+INSERT INTO series VALUES(926,46,12);	!	The Ridiculous 11	!	749 hora, 5 min.
+INSERT INTO series VALUES(927,26,0);	!	Pee-wee's Big Holiday	!	750 hora, 5 min.
+INSERT INTO series VALUES(928,41,0);	!	Special Correspondents	!	751 hora, 5 min.
+INSERT INTO series VALUES(929,74,9);	!	The Do-Over	!	752 hora, 5 min.
+INSERT INTO series VALUES(930,4,15);	!	Brahman Naman	!	753 hora, 5 min.
+INSERT INTO series VALUES(931,4,14);	!	Mascots	!	754 hora, 5 min.
+INSERT INTO series VALUES(932,40,17);	!	True Memoirs Of An International Assassin	!	755 hora, 5 min.
+INSERT INTO series VALUES(933,45,17);	!	Take The 15	!	756 hora, 5 min.
+INSERT INTO series VALUES(934,56,1);	!	Girlfriend's Day182?	!	757 hora, 5 min.
+INSERT INTO series VALUES(935,72,7);	!	Win It All184?	!	758 hora, 5 min.
+INSERT INTO series VALUES(936,45,17);	!	Sandy Wexler186?	!	759 hora, 5 min.
+INSERT INTO series VALUES(937,7,8);	!	Small Crimes188?	!	760 hora, 5 min.
+INSERT INTO series VALUES(938,117,13);	!	Handsome: A Netflix Mystery Movie	!	761 hora, 5 min.
+INSERT INTO series VALUES(939,72,11);	!	War Machine191?	!	762 hora, 5 min.
+INSERT INTO series VALUES(940,164,13);	!	The Incredible Jessica James	!	763 hora, 5 min.
+INSERT INTO series VALUES(941,4,9);	!	Naked	!	764 hora, 5 min.
+INSERT INTO series VALUES(942,13,9);	!	Art of Conflict: The Murals of Northern Ireland	!	765 hora, 5 min.
+INSERT INTO series VALUES(943,138,4);	!	The Zen of Bennett	!	766 hora, 5 min.
+INSERT INTO series VALUES(944,0,2);	!	The Short Game	!	767 hora, 5 min.
+INSERT INTO series VALUES(945,40,19);	!	The Square	!	768 hora, 5 min.
+INSERT INTO series VALUES(946,90,18);	!	Mitt	!	769 hora, 5 min.
+INSERT INTO series VALUES(947,34,3);	!	The Battered Bastards of Baseball	!	770 hora, 5 min.
+INSERT INTO series VALUES(948,138,8);	!	Mission Blue	!	771 hora, 5 min.
+INSERT INTO series VALUES(949,27,9);	!	Print the Legend	!	772 hora, 5 min.
+INSERT INTO series VALUES(950,84,3);	!	E-Team	!	773 hora, 5 min.
+INSERT INTO series VALUES(951,155,17);	!	Virunga	!	774 hora, 5 min.
+INSERT INTO series VALUES(952,93,19);	!	My Own Man	!	775 hora, 5 min.
+INSERT INTO series VALUES(953,124,12);	!	The Other One: The Long Strange Trip of Bob Weir	!	776 hora, 5 min.
+INSERT INTO series VALUES(954,31,16);	!	Hot Girls Wanted	!	777 hora, 5 min.
+INSERT INTO series VALUES(955,104,16);	!	What Happened, Miss Simone?	!	778 hora, 5 min.
+INSERT INTO series VALUES(956,106,14);	!	Tig	!	779 hora, 5 min.
+INSERT INTO series VALUES(957,98,14);	!	Keith Richards: Under the Influence	!	780 hora, 5 min.
+INSERT INTO series VALUES(958,6,11);	!	Winter on Fire: Ukraine's Fight for Freedom	!	781 hora, 5 min.
+INSERT INTO series VALUES(959,60,4);	!	My Beautiful Broken Brain	!	782 hora, 5 min.
+INSERT INTO series VALUES(960,146,15);	!	Team Foxcatcher	!	783 hora, 5 min.
+INSERT INTO series VALUES(961,22,9);	!	Tony Robbins: I Am Not Your Guru	!	784 hora, 5 min.
+INSERT INTO series VALUES(962,104,5);	!	I'll Sleep When I'm Dead	!	785 hora, 5 min.
+INSERT INTO series VALUES(963,97,12);	!	Extremis	!	786 hora, 5 min.
+INSERT INTO series VALUES(964,174,0);	!	The White Helmets	!	787 hora, 5 min.
+INSERT INTO series VALUES(965,76,1);	!	Audrie & Daisy	!	788 hora, 5 min.
+INSERT INTO series VALUES(966,135,9);	!	Amanda Knox	!	789 hora, 5 min.
+INSERT INTO series VALUES(967,127,19);	!	18th	!	790 hora, 5 min.
+INSERT INTO series VALUES(968,68,18);	!	Sky Ladder: The Art of Cai Guo-Qiang	!	791 hora, 5 min.
+INSERT INTO series VALUES(969,139,14);	!	Into the Inferno	!	792 hora, 5 min.
+INSERT INTO series VALUES(970,1,17);	!	The Ivory Game	!	793 hora, 5 min.
+INSERT INTO series VALUES(971,96,18);	!	Casting JonBenet	!	794 hora, 5 min.
+INSERT INTO series VALUES(972,80,7);	!	The Mars Generation200?	!	795 hora, 5 min.
+INSERT INTO series VALUES(973,108,7);	!	Get Me Roger Stone202?	!	796 hora, 5 min.
+INSERT INTO series VALUES(974,99,12);	!	Laerte-se	!	797 hora, 5 min.
+INSERT INTO series VALUES(975,17,17);	!	Joshua: Teenager vs. Superpower205?	!	798 hora, 5 min.
+INSERT INTO series VALUES(976,29,12);	!	Counterpunch	!	799 hora, 5 min.
+INSERT INTO series VALUES(977,8,17);	!	Nobody Speak: Trials of the Free Press208?	!	800 hora, 5 min.
+INSERT INTO series VALUES(978,108,13);	!	Chasing Coral210?	!	801 hora, 5 min.
+INSERT INTO series VALUES(979,46,2);	!	Icarus212?	!	802 hora, 5 min.
+INSERT INTO series VALUES(980,113,10);	!	Trailer Park Boys: Swearnet Live	!	803 hora, 5 min.
+INSERT INTO series VALUES(981,113,19);	!	Trailer Park Boys: Live at the North Pole	!	804 hora, 5 min.
+INSERT INTO series VALUES(982,167,16);	!	BoJack Horseman Christmas Special: Sabrina's Christmas Wish	!	805 hora, 5 min.
+INSERT INTO series VALUES(983,18,5);	!	Ever After High: Spring Unsprung	!	806 hora, 5 min.
+INSERT INTO series VALUES(984,19,8);	!	Sense8: Creating the World	!	807 hora, 5 min.
+INSERT INTO series VALUES(985,152,19);	!	A Very Murray Christmas	!	808 hora, 5 min.
+INSERT INTO series VALUES(986,19,14);	!	Trailer Park Boys: Drunk, High And Unemployed Live In Austin	!	809 hora, 5 min.
+INSERT INTO series VALUES(987,5,18);	!	Marco Polo: One Hundred Eyes	!	810 hora, 5 min.
+INSERT INTO series VALUES(988,173,5);	!	Justin Timberlake + The Tennessee Kids	!	811 hora, 5 min.
+INSERT INTO series VALUES(989,76,7);	!	13th: A Conversation with Oprah Winfrey & Ava DuVernay	!	812 hora, 5 min.
+INSERT INTO series VALUES(990,90,2);	!	Michael Bolton's Big Sexy Valentine's Day Special	!	813 hora, 5 min.
+INSERT INTO series VALUES(991,115,11);	!	Project Mc2: A Royal Pain	!	814 hora, 5 min.
+INSERT INTO series VALUES(992,158,19);	!	18 Reasons Why: Beyond the Reasons	!	815 hora, 5 min.
+INSERT INTO series VALUES(993,118,6);	!	Rodney King	!	816 hora, 5 min.
+INSERT INTO series VALUES(994,53,10);	!	Puss in Book: Trapped in an Epic Tale	!	817 hora, 5 min.
+INSERT INTO series VALUES(995,21,18);	!	Buddy Thunderstruck: The Maybe Pile	!	818 hora, 5 min.
+INSERT INTO series VALUES(996,75,9);	!	Bill Burr: You People Are All the Same	!	819 hora, 5 min.
+INSERT INTO series VALUES(997,139,3);	!	Craig Ferguson: I'm Here to Help	!	820 hora, 5 min.
+INSERT INTO series VALUES(998,97,2);	!	John Hodgman: Ragnarok	!	821 hora, 5 min.
+INSERT INTO series VALUES(999,141,17);	!	Mike Birbiglia: My Girlfriend's Boyfriend	!	822 hora, 5 min.

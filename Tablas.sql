@@ -16,36 +16,18 @@ CREATE TABLE categorias(
 );
 
 CREATE TABLE Series(id NUMBER NOT NULL,
-                    nombre VARCHAR(300) NOT NULL,
-                    calificacion NUMBER(5,1) NOT NULL,
-                    duracion VARCHAR(200) NOT NULL,
-                    idDirector NUMBER NOT NULL,
-                    sinopsis VARCHAR(2000) NOT NULL,
-					numeroTemporadas NUMBER(2) NOT NULL);
-CREATE TABLE categoriasSeries(
-    id NUMBER NOT NULL,
-    nombre VARCHAR(100) NOT NULL,
-    idSerie NUMBER NOT NULL
-);
-
-CREATE TABLE categoriasDocumentales(
-    id NUMBER NOT NULL,
-    nombre VARCHAR(100) NOT NULL,
-    idDocumental NUMBER NOT NULL
-);
+    idMultimedia NUMBER NOT NULL,
+    numeroTemporadas NUMBER(20)
+                    );
 
 CREATE TABLE Documentales(
                     id NUMBER NOT NULL,
-                    nombre VARCHAR(300) NOT NULL,
-                    calificacion NUMBER(5,1) NOT NULL,
-                    duracion VARCHAR(200) NOT NULL,
-                    idDirector NUMBER NOT NULL,
-                    sinopsis VARCHAR(2000) NOT NULL,
+                    idMultimedia NUMBER NOT NULL,
 					numeroCapitulos NUMBER(2) NOT NULL);
 
 CREATE TABLE Temporadas(
     id NUMBER NOT NULL,
-    idSeries NUMBER NOT NULL,
+    idSerie NUMBER NOT NULL,
     capitulos NUMBER(20) NOT NULL
 );
 
@@ -53,14 +35,14 @@ CREATE TABLE capitulosSeries(
     id NUMBER NOT NULL,
     idSerie NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
-    duracion VARCHAR(20) NOT NULL,
+    duracion VARCHAR(200) NOT NULL,
     descripcion VARCHAR(2000) NOT NULL
 );
  CREATE TABLE capitulosDocumentales(
     id NUMBER NOT NULL,
     idDocumental NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
-    duracion VARCHAR(20) NOT NULL,
+    duracion VARCHAR(200) NOT NULL,
     descripcion VARCHAR(2000) NOT NULL
  );
  
@@ -71,8 +53,8 @@ CREATE TABLE capitulosSeries(
     calificacion NUMBER(5,1) NOT NULL
  );
  CREATE TABLE actua(
-    idActor NUMBER NOT NULL,
-    idMultimedia NUMBER NOT NULL,
+    idActor NUMBER,
+    idMultimedia NUMBER,
     personaje VARCHAR(20)
  );
  CREATE TABLE actores(
@@ -89,8 +71,8 @@ CREATE TABLE capitulosSeries(
     categoriaPremio VARCHAR(100) NOT NULL
 );
 CREATE TABLE observa(
-    idMultimedia NUMBER NOT NULL,
-    idPlantilla NUMBER NOT NULL,
+    idMultimedia NUMBER,
+    idPlantilla NUMBER,
     fecha DATE NOT NULL,
     vistaCompleta NUMBER(1) NOT NULL
 );
@@ -120,8 +102,8 @@ CREATE TABLE usuarios(
     fechaNacimiento DATE NOT NULL
 );
 CREATE TABLE solicita(
-    idUsuario NUMBER NOT NULL,
-    idSolicitud NUMBER NOT NULL
+    idUsuario NUMBER,
+    idSolicitud NUMBER
 );
 CREATE TABLE solicitudes(
     id NUMBER NOT NULL,
