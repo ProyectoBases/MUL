@@ -17,3 +17,7 @@ ALTER TABLE solicita ADD CONSTRAINT FK_solicitaU FOREIGN KEY (idUsuario) REFEREN
 ALTER TABLE solicita ADD CONSTRAINT FK_solicitaS FOREIGN KEY (idSolicitud) REFERENCES solicitudes(id);
 ALTER TABLE categoriasSeries ADD CONSTRAINT FK_categoriasS FOREIGN KEY (idSerie) REFERENCES series(id);
 ALTER TABLE categoriasDocumentales ADD CONSTRAINT FK_categoriasD FOREIGN KEY (idDocumental) REFERENCES documentales(id);
+
+ALTER TABLE series ADD CONSTRAINT FK_seriesi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE documentales ADD CONSTRAINT FK_documentalesi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
+ALTER TABLE peliculas ADD CONSTRAINT FK_peliculasi FOREIGN KEY (idMultimedia) REFERENCES multimedias(id);
