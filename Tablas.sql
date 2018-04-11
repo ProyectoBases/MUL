@@ -9,7 +9,7 @@ CREATE TABLE PremiosMultimedia(id NUMBER NOT NULL,
 							nombre VARCHAR(200) NOT NULL,
 							categoriaPremio VARCHAR(50) NOT NULL,
 							idMultimedia NUMBER NOT NULL);
-CREATE TABLE categorias(
+CREATE TABLE categoriasMultimedia(
     id NUMBER NOT NULL,
     nombre VARCHAR(100) NOT NULL,
     idMultimedia NUMBER NOT NULL
@@ -23,6 +23,17 @@ CREATE TABLE Series(id NUMBER NOT NULL,
                     idDirector NUMBER NOT NULL,
                     sinopsis VARCHAR(2000) NOT NULL,
 					numeroTemporadas NUMBER(2) NOT NULL);
+CREATE TABLE categoriasSeries(
+    id NUMBER NOT NULL,
+    nombre VARCHAR(100) NOT NULL,
+    idSerie NUMBER NOT NULL
+);
+
+CREATE TABLE categoriasDocumentales(
+    id NUMBER NOT NULL,
+    nombre VARCHAR(100) NOT NULL,
+    idDocumental NUMBER NOT NULL
+);
 
 CREATE TABLE Documentales(
                     id NUMBER NOT NULL,

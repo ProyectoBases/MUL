@@ -21,8 +21,32 @@ sinopsis = ['El Sunnyv rivalidades y la delincuencia están al orden del día pe
             'Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',
             'Giuseppe Piero Grillo (Génova, Italia, 21 de julio de 1948), más conocido como Beppe Grillo, es un cómico, actor y político italiano que trabaja en el cine, la televisión y el teatro. También es blogger y su blog1​ cuenta con el mayor número de visitas entre los blog de lengua italiana, siendo una de las páginas web italianas más visitadas con más de 160.000 visitas diarias.2​ En 2009 fue cofundador del Movimiento 5 Estrellas',
             'Norman Gene "Norm" Macdonald2​ (nacido el 17 de octubre de 1959) es un comediante, escritor, y actor canadiense. Es mejor conocido por sus cinco temporadas en Saturday Night Live, que incluyeron sirviendo como presentador de Weekend Update por tres años. Temprano en su carrera, escribió para la comedia de situación Roseanne y hizo apariciones en tales programas como The Drew Carey Show y NewsRadio. También protagonizó en The Norm Show desde 1999 hasta 2001. Comedy Central le dio el 83o puesto en su miniserie de cinco partes, The 100 Greatest Stand-ups of All Time. Es observado como uno de los invitados favoritos y más frecuentes de Conan OBrien en sus programas de entrevistas',
-            'Marcos Luque Martins (São Paulo, SP, 8 de abril de 1974) es un actor, comediante, locutor y presentador de televisión en Brasil. Famoso por sus personajes, con apariciones en el escenario y la presentación humorística en el banco de CQC Brasil, Rede Bandeirantes y por su propio programa llamado O Formigueiro. Se graduó en Artes en la Fundação Armando Alvares Penteado.',
+            'Marcos Luque Martins (São Paulo, SP, 8 de abril de 1974) es un actor, comediante, locutor y presentador de televisión en Brasil. Famoso por sus personajes, con apariciones en el escenario y la presentación humorística en el banco de CQC Brasil, Rede Bandeirantes y por su propio programa llamado O Formigueiro. Se graduó en Artes en la Fundação Armando Alvares Penteado.'
             ]
+categoriasPremioMultimedia = ["major pelicula",
+                              "mejor documental",
+                              "mejor edicion de sonido",
+                              "mejores efectos visuales",
+                              "mejor fotografia",
+                              "mejor guion adaptado",
+                              "mejor guion original",
+                              "mejor maquillaje y peinado",
+                              "mejor montaje",
+                              "mejor pelicula de animacion",
+                              "mejor pelicula de habla no inglesa",
+                              "mejor sonido",
+                              "mejor banda sonora",
+                              "mejor cancion original",
+                              "mejor diseño de vestuario",
+                              "mejor diseño de produccion"
+                              ]
+categoriasPremioActor = ["mejor actor",
+                         "mejor actor de reparto",
+                         "mejor acriz",
+                         "mejor actriz de reparto"
+                         ]
+idMultimedia = 178
+idDirector = 99
 
 
 def directores():
@@ -40,18 +64,61 @@ def multimedias():
     x = stdin.readline().strip()
     cont = 0
     while len(x)!=0:
+        print(x,"#######################################")
         x = x.split("!")
         nombre = x[0]
+        nombre.strip()
         nombre = nombre.replace("'","")
         nombre = nombre.replace('"',"")
         nombre = nombre.replace("&","y")
         duracion = x[1]
-        print("INSERT INTO multimedias VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(5))+","+"\'"+duracion+"\'"+","+str(random.randrange(99))+","+"\'"+sinopsis[random.randrange(20)].replace("'","").replace('"',"").replace(",","").replace("&","")+"\'"+");")
+        print("INSERT INTO multimedias VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(1,5))+","+"\'"+duracion+"\'"+","+str(random.randrange(idDirector))+","+"\'"+sinopsis[random.randrange(len(sinopsis))].replace("\\","").replace("ñ","n").replace("á","a").replace("é","e").replace("í","i").replace("ó","o").replace("ú","").replace("'","").replace('"',"").replace("´","").replace(",","").replace("&","y")+"\'"+");")
         cont+=1
         x = stdin.readline().strip()
 
 
+def categorias():
+    x = stdin.readline().strip()
+    cont = 0
+    while len(x)!=0:
+        x = x.split(":")
+        nombre = x[0].strip().split(".")
+        nombre.strip()
+        nombre = nombre[1]
+        nombre = nombre.replace("&","y")
+        nombre = nombre.replace("'","")
+        nombre = nombre.replace('"',"")
+        nombre = nombre.replace("’","")
+        print("INSERT INTO categorias VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(idMultimedia))+");")
+        cont+=1
+        x = stdin.readline().strip()
+def premiosMultimedia():
+    cont = 0
+    x = stdin.readline().strip()
+    while len(x)!=0:
+        x = x.split(",")
+        nombre = x[0]
+        nombre = nombre.replace("&","y")
+        print("INSERT INTO premiosMultimedia VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+"\'"+categoriasPremioMultimedia[random.randrange(len(categoriasPremioMultimedia))]+"\'"+","+str(random.randrange(idMultimedia))+");")
+        cont+=1
+        x = stdin.readline().strip()
+def series():
+    x = stdin.readline().strip()
+    cont = 0
+    while len(x)!=0:
+        x = x.split("!")
+        nombre = x[0]
+        nombre.strip()
+        nombre = nombre.replace("'","")
+        nombre = nombre.replace('"',"")
+        nombre = nombre.replace("&","y")
+        duracion = x[1]
+        print("INSERT INTO series VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+str(random.randrange(5))+","+"\'"+duracion+"\'"+","+str(random.randrange(idDirector))+","+"\'"+sinopsis[random.randrange(len(sinopsis))].replace("'","").replace('"',"").replace(",","").replace("&","")+"\'"+","+str(random.randrange(20))+");")
+        cont+=1
+        x = stdin.readline().strip()
+
 multimedias()
+
 
 
 
