@@ -11,6 +11,7 @@ DROP TABLE actua;
 DROP TABLE actores;
 DROP TABLE premiosMultimedia;
 DROP TABLE categorias;
+DROP TABLE peliculas;
 DROP TABLE multimedias;
 DROP TABLE directores;
 DROP TABLE capitulosDocumentales;
