@@ -16,9 +16,8 @@ CREATE TABLE categorias(
 );
 
 CREATE TABLE Series(id NUMBER NOT NULL,
-    idMultimedia NUMBER NOT NULL,
-    numeroTemporadas NUMBER(20)
-                    );
+                    idMultimedia NUMBER NOT NULL,
+					numeroTemporadas NUMBER(2) NOT NULL);
 
 CREATE TABLE Documentales(
                     id NUMBER NOT NULL,
@@ -35,14 +34,14 @@ CREATE TABLE capitulosSeries(
     id NUMBER NOT NULL,
     idSerie NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
-    duracion VARCHAR(200) NOT NULL,
+    duracion VARCHAR(20) NOT NULL,
     descripcion VARCHAR(2000) NOT NULL
 );
  CREATE TABLE capitulosDocumentales(
     id NUMBER NOT NULL,
     idDocumental NUMBER NOT NULL,
     nombre VARCHAR(300) NOT NULL,
-    duracion VARCHAR(200) NOT NULL,
+    duracion VARCHAR(20) NOT NULL,
     descripcion VARCHAR(2000) NOT NULL
  );
  
@@ -53,8 +52,8 @@ CREATE TABLE capitulosSeries(
     calificacion NUMBER(5,1) NOT NULL
  );
  CREATE TABLE actua(
-    idActor NUMBER,
-    idMultimedia NUMBER,
+    idActor NUMBER NOT NULL,
+    idMultimedia NUMBER NOT NULL,
     personaje VARCHAR(20)
  );
  CREATE TABLE actores(
@@ -62,7 +61,7 @@ CREATE TABLE capitulosSeries(
     nombre VARCHAR(300) NOT NULL,
     apellido VARCHAR(300) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    sexo VARCHAR(20) NOT NULL
+    sexo VARCHAR(9) NOT NULL
  );
  CREATE TABLE premiosActores(
     id NUMBER NOT NULL,
@@ -71,8 +70,8 @@ CREATE TABLE capitulosSeries(
     categoriaPremio VARCHAR(100) NOT NULL
 );
 CREATE TABLE observa(
-    idMultimedia NUMBER,
-    idPlantilla NUMBER,
+    idMultimedia NUMBER NOT NULL,
+    idPlantilla NUMBER NOT NULL,
     fecha DATE NOT NULL,
     vistaCompleta NUMBER(1) NOT NULL
 );
@@ -102,8 +101,8 @@ CREATE TABLE usuarios(
     fechaNacimiento DATE NOT NULL
 );
 CREATE TABLE solicita(
-    idUsuario NUMBER,
-    idSolicitud NUMBER
+    idUsuario NUMBER NOT NULL,
+    idSolicitud NUMBER NOT NULL
 );
 CREATE TABLE solicitudes(
     id NUMBER NOT NULL,
