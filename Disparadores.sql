@@ -6,6 +6,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM multimedias;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -17,6 +22,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM categorias;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -29,6 +39,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM premiosMultimedia;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -40,6 +55,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM series;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -51,6 +71,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM temporadas;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -62,6 +87,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM capitulosSeries;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -73,6 +103,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM documentales;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -84,6 +119,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM capitulosDocumentales;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -95,6 +135,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM directores;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -106,6 +151,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM actores;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -117,6 +167,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM premiosActores;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -128,6 +183,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM plantillas;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -139,6 +199,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM suscripciones;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -150,6 +215,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM usuarios;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -161,6 +231,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM solicitudes;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -172,6 +247,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM planes;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
@@ -183,6 +263,11 @@ FOR EACH ROW
 DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM peliculas;
+IF :NEW.id IS NULL THEN
+:NEW.id := numero;
+ELSE
+:NEW.id := numero;
+END IF;
 EXCEPTION WHEN NO_DATA_FOUND THEN
 :NEW.id := 1;
 END;
