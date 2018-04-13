@@ -4,7 +4,6 @@ INSERT INTO documentales(id,idMultimedia) VALUES(1,16);
 INSERT INTO documentales(id,idMultimedia) VALUES(1,75);
 INSERT INTO documentales(id,idMultimedia) VALUES(1,34);
 INSERT INTO documentales(id,idMultimedia) VALUES(1,76);
-INSERT INTO series(id,idMultimedia) VALUES(1,5);
 INSERT INTO series(id,idMultimedia) VALUES(1,8);
 INSERT INTO series(id,idMultimedia) VALUES(1,7);
 INSERT INTO series(id,idMultimedia) VALUES(1,1);
