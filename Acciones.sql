@@ -1,6 +1,3 @@
-ALTER TABLE multimedias DROP CONSTRAINT FK_multimedia;
-ALTER TABLE multimedias ADD CONSTRAINT FK_multimedia FOREIGN KEY (idDirector) REFERENCES directores(id) ON DELETE CASCADE;
-
 ALTER TABLE categorias DROP CONSTRAINT FK_categoriasM;
 ALTER TABLE categorias ADD CONSTRAINT FK_categoriasM FOREIGN KEY (idMultimedia) REFERENCES multimedias(id) ON DELETE CASCADE;
 
@@ -36,9 +33,6 @@ ALTER TABLE plantillas ADD CONSTRAINT FK_plantillas FOREIGN KEY (idSuscripcion) 
 
 ALTER TABLE suscripciones DROP CONSTRAINT FK_suscripcionesU;
 ALTER TABLE suscripciones ADD CONSTRAINT FK_suscripcionesU FOREIGN KEY (idUsuario) REFERENCES usuarios(id) ON DELETE CASCADE;
-
-ALTER TABLE suscripciones DROP CONSTRAINT FK_suscripcionesP;
-ALTER TABLE suscripciones ADD CONSTRAINT FK_suscripcionesP FOREIGN KEY (idPlan) REFERENCES planes(id) ON DELETE CASCADE;
 
 ALTER TABLE definicionVistas DROP CONSTRAINT FK_definicionV;
 ALTER TABLE definicionVistas ADD CONSTRAINT FK_definicionV FOREIGN KEY (idSuscripcion) REFERENCES suscripciones(id) ON DELETE CASCADE;

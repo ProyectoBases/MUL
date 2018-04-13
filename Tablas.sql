@@ -2,7 +2,7 @@ CREATE TABLE Multimedias(id NUMBER NOT NULL,
 						nombre VARCHAR(3000) NOT NULL,
 						calificacion NUMBER(2,1) NOT NULL,
 						duracion VARCHAR(200) NOT NULL,
-						idDirector NUMBER NOT NULL,
+						idDirector NUMBER,
 						sinopsis VARCHAR(4000) NOT NULL);
 
 CREATE TABLE PremiosMultimedia(id NUMBER NOT NULL,
@@ -87,7 +87,7 @@ CREATE TABLE plantillas(
 CREATE TABLE suscripciones(
     id NUMBER NOT NULL,
     idUsuario NUMBER NOT NULL,
-    idPlan NUMBER NOT NULL,
+    idPlan NUMBER,
     nombre VARCHAR(300) NOT NULL,
     numeroPlantillas NUMBER(1) NOT NULL
 );
