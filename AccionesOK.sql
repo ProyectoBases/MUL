@@ -7,8 +7,8 @@ DELETE FROM multimedias WHERE id = 109;
 SELECT * FROM premiosMultimedia WHERE idMultimedia = 28;
 DELETE FROM multimedias WHERE id = 28;
 
-/*SELECT * FROM temporadas WHERE idSerie = 75; NO FUNCIONÓ
-DELETE FROM series WHERE id = 75;*/
+SELECT * FROM temporadas WHERE idSerie = 75;
+DELETE FROM series WHERE idMultimedia = 75;
 
 SELECT * FROM capitulosSeries WHERE idSerie = 10;
 DELETE FROM temporadas WHERE idSerie = 10;
