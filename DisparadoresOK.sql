@@ -13,3 +13,16 @@ INSERT INTO series(id,idMultimedia) VALUES(1,12);
 INSERT INTO series(id,idMultimedia) VALUES(1,17);
 INSERT INTO series(id,idMultimedia) VALUES(1,9);
 INSERT INTO series(id,idMultimedia) VALUES(1,10);
+
+
+
+
+
+
+SELECT * FROM multimedias WHERE idDirector = 72;
+DELETE FROM directores WHERE id = 72;
+SELECT * FROM multimedias WHERE idDirector IS NULL;
+
+SELECT * FROM suscripciones WHERE idPlan = 0;
+DELETE FROM planes WHERE id = 0;
+SELECT * FROM suscripciones WHERE idPlan IS NULL;
