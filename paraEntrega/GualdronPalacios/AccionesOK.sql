@@ -1,6 +1,3 @@
-SELECT * FROM multimedias WHERE idDirector = 72; 
-DELETE FROM directores WHERE id = 72;
-
 SELECT * FROM categorias WHERE idMultimedia = 109; 
 DELETE FROM multimedias WHERE id = 109;
 
@@ -36,9 +33,6 @@ DELETE FROM suscripciones WHERE id = 379;
 
 SELECT * FROM suscripciones WHERE idUsuario = 648;
 DELETE FROM usuarios WHERE id = 648;
-
-SELECT * FROM suscripciones WHERE idPlan = 0;
-DELETE FROM planes WHERE id = 0;
 
 SELECT * FROM solicita WHERE idUsuario = 289;
 DELETE FROM usuarios WHERE id = 289;
