@@ -49,7 +49,6 @@ DELETE FROM multimedias WHERE id = 99;
 SELECT * FROM peliculas WHERE idMultimedia = 177;
 DELETE FROM multimedias WHERE id = 177;
 
-SELECT * FROM multimedias WHERE idDirector = 72; 
 SELECT * FROM categorias WHERE idMultimedia = 109;
 SELECT * FROM premiosMultimedia WHERE idMultimedia = 28;
 SELECT * FROM capitulosSeries WHERE idSerie = 10;
@@ -61,7 +60,6 @@ SELECT * FROM observa WHERE idMultimedia = 57;
 SELECT * FROM observa WHERE idPlantilla = 930;
 SELECT * FROM plantillas WHERE idSuscripcion = 379;
 SELECT * FROM suscripciones WHERE idUsuario = 648;
-SELECT * FROM suscripciones WHERE idPlan = 0;
 SELECT * FROM solicita WHERE idUsuario = 289;
 SELECT * FROM solicita WHERE idSolicitud = 144;
 SELECT * FROM series WHERE idMultimedia = 5;
