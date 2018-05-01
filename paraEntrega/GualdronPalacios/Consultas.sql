@@ -13,8 +13,8 @@ ORDER BY multimedias.calificacion DESC;
 
 /*Como productor quiero consultar los actores principales de las peliculas con mejor calificacion de la categoria de comedias para saber que opciones tengo de protagonistas
     en mi proxima super produccion*/
-SELECT multimedias.nombre, sinopsis, calificacion, actores.nombre, apellido, sexo, categorias.nombre
+SELECT multimedias.nombre, sinopsis, calificacion, actores.nombre, actores.apellido, actores.sexo, categorias.nombre
 FROM peliculas, multimedias, actua, actores, categorias
 WHERE peliculas.idMultimedia = multimedias.id AND multimedias.id = actua.idMultimedia AND actores.id = actua.idActor AND categorias.idMultimedia = multimedias.id
-        AND personaje = 'principal' AND calificacion >= 4 AND categorias.nombre = 'Comedies'
+        AND personaje = 'principal' AND calificacion >= 4 AND categorias.nombre = ' Comedies'
 GROUP BY multimedias.nombre, sinopsis, calificacion, actores.nombre, apellido, sexo, categorias.nombre;
