@@ -1,0 +1,1 @@
+ALTER TABLE Planes ADD CONSTRAINT UK_plan UNIQUE (nombre);
