@@ -73,6 +73,6 @@ ALTER TABLE Solicita ADD CONSTRAINT FK_solicita1
 ALTER TABLE Solicita ADD CONSTRAINT FK_solicita2
 	FOREIGN KEY (idUsuario) REFERENCES Usuarios(correo);
 	
-ALTER TABLE Peliculas ADD CONSTRAINT FK_multimedia 
+ALTER TABLE Peliculas ADD CONSTRAINT FK_peliculas 
 	FOREIGN KEY (id) REFERENCES Multimedias(id);
 	
