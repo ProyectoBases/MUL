@@ -1007,11 +1007,8 @@ INSERT INTO directores (id,nombre,apellido,calificacion) VALUES(1000,'pablo','li
 ---MULTIMEDIAS---
 INSERT INTO Multimedias(id,nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno) VALUES ();
 
----INFO_PREMIOS_MULTIMEDIA---
-INSERT INTO InfoPremiosMultimedia(id,nombre,categoriaPremio) VALUES ();
-
 ---PREMIOS_MULTIMEDIA---
-INSERT INTO PremiosMultimedia(idPremio,idMultimedia) VALUES ();
+INSERT INTO PremiosMultimedia(id,nombre,categoriaPremio,idMultimedia) VALUES ();
 
 ---CATEGORIAS---
 INSERT INTO Categorias(id,nombre) VALUES ();
@@ -1026,37 +1023,25 @@ INSERT INTO Peliculas(id) VALUES ();
 INSERT INTO Series(id) VALUES ();
 
 ---TEMPORADAS---
-INSERT INTO Temporadas(id,idSerie) VALUES ();
-
----INFO_TEMPORADAS---
-INSERT INTO InfoTemporadas(idTemporada,fechaEstreno,numeroTemporada) VALUES ();
+INSERT INTO Temporadas(id,idSerie,fechaEstreno,numeroTemporada) VALUES ();
 
 ---CAPITULOS_SERIES---
-INSERT INTO CapitulosSeries(id,idTemporada) VALUES ();
-
----INFO_CAPITULOS_SERIES---
-INSERT INTO InfoCapitulosSeries(idCapitulo,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();
+INSERT INTO CapitulosSeries(id,idTemporada,idSerie,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();
 
 ---DOCUMENTALES---
 INSERT INTO Documentales(id) VALUES ();
 
 ---CAPITULOS_DOCUMENTALES---
-INSERT INTO CapitulosDocumentales(id,idDocumental) VALUES ();
-
----INFO_CAPITULOS_DOCUMENTALES---
-INSERT INTO InfoCapitulosDocumentales(idCapitulo,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();
+INSERT INTO CapitulosDocumentales(id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();
 
 ---ACTORES---
 INSERT INTO Actores(id,nombre,apellido,fechaNacimiento,fechaFallecimiento,sexo) VALUES ();
 
 ---ACTUA---
-INSERT INTO Actua(idMultimedia,idActor,personaje) VALUES ();
-
----INFO_PREMIOS_ACTORES---
-INSERT INTO InfoPremiosActores(id,nombre,categoriaPremio) VALUES ();
+INSERT INTO Actua(idActor,idMultimedia,personaje) VALUES ();
 
 ---PREMIOS_ACTORES---
-INSERT INTO PremiosActores(idPremio,idActor) VALUES ();
+INSERT INTO PremiosActores(id,nombre,categoriaPremio,idActor) VALUES ();
 
 ---USUARIOS---
 INSERT INTO Usuarios(correo,nombre,fechaNacimiento) VALUES ();
