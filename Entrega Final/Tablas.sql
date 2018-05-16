@@ -53,11 +53,8 @@ CREATE TABLE Actua(idActor NUMBER NOT NULL,
 					personaje VARCHAR(20));
 					
 CREATE TABLE Actores(id NUMBER NOT NULL,
-					nombre VARCHAR(300) NOT NULL,
-					apellido VARCHAR(300) NOT NULL,
-					fechaNacimiento DATE NOT NULL,
-					fechaFallecimiento DATE,
-					sexo VARCHAR(9) NOT NULL);
+                    fechaFallecimiento DATE,
+                    detalle XMLTYPE);
 							
 CREATE TABLE PremiosActores(id NUMBER NOT NULL,
 							nombre VARCHAR(300) NOT NULL,

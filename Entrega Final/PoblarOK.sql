@@ -11051,37 +11051,9039 @@ INSERT INTO documentales VALUES(2999);
 
 
 ---CAPITULOS_DOCUMENTALES---
-INSERT INTO CapitulosDocumentales(id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();
+---INSERT INTO CapitulosDocumentales(id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES ();---
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(0,2000,'campesinos peques','2horas 22minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('16-11-1728','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(1,2001,'curtidores pocos','2horas 20minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('20-8-1903','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(2,2002,'galacticos vampiros','0horas 33minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('17-1-1881','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(3,2003,'estudiantes asesinos','4horas 21minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('28-11-1827','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(4,2004,'guardianes curtidores','4horas 55minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-2-1789','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(5,2005,'lobos colegas','3horas 6minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-2-1792','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(6,2006,'galacticos campesinos','1horas 10minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('10-2-1847','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(7,2007,'asesinos corredores','3horas 12minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('22-11-1958','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(8,2008,'flacos conocidos','3horas 50minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('13-6-1869','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(9,2009,'lobos lobos','4horas 13minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('8-8-1740','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(10,2010,'galacticos lobos','1horas 13minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('23-7-1894','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(11,2011,'curtidores lobos','4horas 58minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('5-4-1701','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(12,2012,'pitufos compadres','3horas 57minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('12-2-1894','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(13,2013,'desterrados lobos','1horas 40minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('19-9-1784','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(14,2014,'vampiros asesinos','4horas 48minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('13-9-1767','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(15,2015,'compadres estudiantes','2horas 5minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('22-3-1819','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(16,2016,'compadres pocos','1horas 34minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('18-1-1975','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(17,2017,'amigos flacos','2horas 13minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('22-9-1944','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(18,2018,'desterrados lobos','3horas 10minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-11-1759','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(19,2019,'flacos compadres','1horas 11minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-3-1773','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(20,2020,'estudiantes colegas','0horas 58minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('16-8-1775','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(21,2021,'amigos conocidos','0horas 33minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('8-4-1704','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(22,2022,'asesinos lobos','4horas 57minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('14-5-1801','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(23,2023,'coyotes flacos','2horas 46minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('2-7-1830','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(24,2024,'mejores estudiantes','3horas 7minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('21-3-1712','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(25,2025,'peques desterrados','3horas 1minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('14-5-1798','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(26,2026,'peques pitufos','0horas 5minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('23-8-1883','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(27,2027,'mario peques','4horas 33minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('6-5-1903','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(28,2028,'colegas pocos','1horas 16minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('11-3-1873','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(29,2029,'lobos corredores','2horas 51minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('1-11-1786','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(30,2030,'pocajontas lobos','4horas 42minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('22-8-1831','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(31,2031,'vampiros lobos','4horas 5minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('15-7-1735','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(32,2032,'pocos vampiros','3horas 23minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('14-7-1748','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(33,2033,'perfectos estudiantes','4horas 36minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('20-10-1899','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(34,2034,'asesinos campesinos','0horas 54minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('7-1-1734','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(35,2035,'colegas mario','0horas 14minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('5-10-1785','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(36,2036,'perfectos pocos','0horas 55minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('2-11-1921','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(37,2037,'colegas estudiantes','0horas 52minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-2-1957','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(38,2038,'perfectos asesinos','1horas 38minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('16-1-1776','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(39,2039,'mejores amigos','0horas 57minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('20-8-1840','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(40,2040,'corredores pitufos','2horas 13minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('10-11-1852','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(41,2041,'corredores galacticos','4horas 0minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('8-1-1792','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(42,2042,'asesinos coyotes','4horas 50minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('19-6-1738','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(43,2043,'desterrados pocos','3horas 32minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('4-9-1746','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(44,2044,'vampiros amigos','2horas 28minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('21-3-1853','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(45,2045,'conocidos guardianes','0horas 30minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-5-1982','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(46,2046,'lobos curtidores','0horas 45minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('16-9-1994','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(47,2047,'flacos coyotes','1horas 19minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('27-2-1732','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(48,2048,'perfectos lobos','3horas 7minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('17-4-1746','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(49,2049,'conocidos vampiros','2horas 49minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('19-2-1913','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(50,2050,'corredores perfectos','0horas 28minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('15-6-1967','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(51,2051,'conocidos peques','0horas 38minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('9-7-1931','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(52,2052,'conocidos pitufos','4horas 46minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('1-2-1790','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(53,2053,'vampiros flacos','3horas 49minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('14-7-1934','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(54,2054,'vampiros curtidores','0horas 42minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-10-1785','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(55,2055,'colegas compadres','1horas 41minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('15-9-1720','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(56,2056,'mejores campesinos','3horas 33minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('13-10-1759','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(57,2057,'desterrados vampiros','2horas 51minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('24-2-1719','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(58,2058,'curtidores corredores','3horas 44minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('26-8-1864','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(59,2059,'amigos corredores','3horas 0minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-3-1985','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(60,2060,'conocidos mejores','3horas 30minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-11-1777','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(61,2061,'mejores asesinos','1horas 10minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('14-3-1917','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(62,2062,'amigos amigos','1horas 10minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('21-6-1784','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(63,2063,'flacos guardianes','1horas 30minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('6-1-1989','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(64,2064,'pitufos pocos','0horas 27minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('24-1-1859','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(65,2065,'perfectos vampiros','0horas 54minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('23-6-1888','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(66,2066,'desterrados lobos','2horas 47minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('9-9-1911','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(67,2067,'perfectos mario','0horas 26minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('13-1-1958','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(68,2068,'curtidores pocos','4horas 8minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-6-1883','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(69,2069,'corredores amigos','4horas 16minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('14-11-1737','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(70,2070,'guardianes flacos','4horas 45minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('20-7-1793','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(71,2071,'vampiros asesinos','2horas 8minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('7-11-1906','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(72,2072,'flacos colegas','2horas 56minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('24-11-1932','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(73,2073,'curtidores pitufos','3horas 21minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('27-9-1855','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(74,2074,'estudiantes amigos','3horas 51minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('13-4-1759','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(75,2075,'estudiantes galacticos','4horas 5minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('17-4-1949','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(76,2076,'mejores amigos','1horas 16minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-6-1985','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(77,2077,'desterrados pitufos','3horas 1minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('28-5-1930','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(78,2078,'peques curtidores','0horas 26minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('8-2-1813','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(79,2079,'pocajontas corredores','4horas 40minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('10-7-1809','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(80,2080,'campesinos mario','2horas 22minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-6-1827','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(81,2081,'coyotes pitufos','1horas 54minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('3-2-1818','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(82,2082,'desterrados pocos','4horas 44minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('23-7-1963','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(83,2083,'guardianes flacos','1horas 15minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-7-1853','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(84,2084,'mario campesinos','2horas 36minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('11-5-1789','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(85,2085,'pitufos curtidores','4horas 3minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('7-5-1990','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(86,2086,'pitufos asesinos','3horas 10minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('2-9-1828','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(87,2087,'guardianes desterrados','1horas 58minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('25-9-1980','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(88,2088,'pocajontas conocidos','2horas 58minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('15-6-1768','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(89,2089,'peques flacos','3horas 39minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('15-10-1937','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(90,2090,'amigos perfectos','2horas 51minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('21-6-1753','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(91,2091,'coyotes pocos','0horas 53minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('4-9-1954','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(92,2092,'pocajontas pocos','4horas 52minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('8-1-1764','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(93,2093,'campesinos vampiros','3horas 26minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('7-7-1702','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(94,2094,'vampiros corredores','2horas 43minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('20-9-1890','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(95,2095,'campesinos lobos','1horas 49minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-9-1846','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(96,2096,'corredores vampiros','2horas 15minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('24-1-1953','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(97,2097,'pocajontas mejores','1horas 42minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-10-1768','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(98,2098,'guardianes galacticos','4horas 58minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-3-1900','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(99,2099,'asesinos galacticos','0horas 55minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('19-3-1923','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(100,2100,'peques pitufos','3horas 41minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('14-11-1802','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(101,2101,'coyotes pocos','2horas 26minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('20-3-1760','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(102,2102,'perfectos compadres','0horas 45minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('2-8-1797','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(103,2103,'campesinos peques','2horas 3minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('1-9-1862','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(104,2104,'asesinos pocos','1horas 13minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('14-2-1955','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(105,2105,'pocajontas conocidos','3horas 18minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-6-1789','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(106,2106,'pocajontas lobos','1horas 33minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('10-9-1852','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(107,2107,'mejores estudiantes','4horas 11minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('28-11-1794','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(108,2108,'colegas galacticos','0horas 15minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('10-6-1928','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(109,2109,'galacticos vampiros','3horas 3minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('15-10-1787','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(110,2110,'desterrados lobos','4horas 26minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('27-11-1780','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(111,2111,'mejores lobos','3horas 59minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('12-1-1893','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(112,2112,'corredores curtidores','2horas 19minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('15-11-1727','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(113,2113,'guardianes pitufos','1horas 38minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('23-9-1779','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(114,2114,'pitufos desterrados','3horas 0minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('15-3-1921','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(115,2115,'lobos estudiantes','3horas 43minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('9-8-1929','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(116,2116,'corredores asesinos','4horas 36minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('14-6-1778','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(117,2117,'lobos colegas','0horas 37minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('13-5-1893','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(118,2118,'curtidores perfectos','3horas 8minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('7-8-1896','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(119,2119,'guardianes vampiros','2horas 34minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('27-9-1920','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(120,2120,'galacticos asesinos','0horas 23minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('22-7-1943','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(121,2121,'corredores guardianes','4horas 20minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('28-8-1941','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(122,2122,'galacticos guardianes','4horas 20minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('17-1-1724','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(123,2123,'pocajontas pocajontas','2horas 6minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('7-2-1827','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(124,2124,'pocos amigos','4horas 13minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('4-6-1972','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(125,2125,'lobos colegas','4horas 56minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('25-1-1933','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(126,2126,'coyotes galacticos','3horas 40minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('4-7-1702','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(127,2127,'desterrados mario','3horas 24minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('2-11-1834','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(128,2128,'corredores pocajontas','2horas 23minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('23-7-1769','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(129,2129,'mario peques','4horas 21minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('4-11-1913','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(130,2130,'mario compadres','0horas 20minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('5-3-1969','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(131,2131,'campesinos corredores','3horas 31minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('4-2-1913','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(132,2132,'peques conocidos','0horas 11minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('6-4-1804','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(133,2133,'asesinos lobos','4horas 41minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('18-11-1810','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(134,2134,'pocos campesinos','3horas 28minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('12-7-1840','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(135,2135,'pocajontas lobos','0horas 50minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('1-1-1750','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(136,2136,'asesinos perfectos','2horas 49minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('25-9-1838','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(137,2137,'perfectos desterrados','0horas 18minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('19-2-1769','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(138,2138,'amigos asesinos','3horas 5minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('13-5-1835','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(139,2139,'coyotes galacticos','1horas 10minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('20-5-1858','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(140,2140,'pocajontas campesinos','1horas 19minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('25-6-1951','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(141,2141,'amigos asesinos','4horas 43minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('12-9-1945','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(142,2142,'compadres curtidores','4horas 4minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-1-1859','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(143,2143,'mario corredores','4horas 26minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('3-3-1919','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(144,2144,'campesinos campesinos','3horas 33minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('3-8-1902','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(145,2145,'mario mejores','4horas 21minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('13-11-1856','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(146,2146,'flacos perfectos','1horas 38minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('11-11-1770','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(147,2147,'pocos guardianes','4horas 19minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('20-5-1884','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(148,2148,'asesinos guardianes','4horas 11minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('6-10-1999','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(149,2149,'amigos coyotes','1horas 34minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('4-2-1827','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(150,2150,'desterrados pocajontas','3horas 0minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-9-1940','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(151,2151,'amigos galacticos','4horas 32minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('2-6-1791','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(152,2152,'asesinos curtidores','3horas 7minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-10-1824','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(153,2153,'galacticos amigos','3horas 55minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('25-11-1949','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(154,2154,'amigos mejores','3horas 46minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-5-1891','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(155,2155,'pocos mejores','0horas 30minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('28-7-1965','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(156,2156,'lobos asesinos','4horas 37minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-4-1964','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(157,2157,'curtidores guardianes','4horas 34minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('28-9-1866','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(158,2158,'vampiros curtidores','0horas 50minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('26-2-1723','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(159,2159,'amigos desterrados','0horas 17minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-2-1951','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(160,2160,'galacticos pocajontas','2horas 40minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('22-6-1952','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(161,2161,'galacticos colegas','2horas 29minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('10-1-1795','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(162,2162,'peques galacticos','1horas 19minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('26-10-1827','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(163,2163,'compadres amigos','0horas 27minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('9-1-1992','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(164,2164,'mario colegas','3horas 29minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('21-10-1997','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(165,2165,'conocidos colegas','4horas 2minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('22-6-1868','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(166,2166,'peques lobos','1horas 27minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('8-6-1830','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(167,2167,'perfectos peques','0horas 21minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('21-5-1831','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(168,2168,'pocos compadres','2horas 19minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('26-2-1969','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(169,2169,'estudiantes lobos','0horas 29minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-3-1908','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(170,2170,'colegas desterrados','4horas 3minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('12-2-1712','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(171,2171,'conocidos pocajontas','0horas 4minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('17-3-1731','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(172,2172,'vampiros asesinos','4horas 14minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('23-2-1903','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(173,2173,'vampiros pocajontas','2horas 19minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('20-1-1787','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(174,2174,'amigos desterrados','3horas 21minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('23-6-1953','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(175,2175,'colegas corredores','0horas 53minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('6-6-1987','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(176,2176,'perfectos coyotes','3horas 52minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('19-2-1925','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(177,2177,'vampiros mario','4horas 11minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('12-4-1843','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(178,2178,'campesinos mario','1horas 54minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('26-5-1721','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(179,2179,'conocidos perfectos','0horas 2minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('26-9-1841','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(180,2180,'asesinos pitufos','2horas 36minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('6-2-1841','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(181,2181,'conocidos mario','4horas 15minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('15-1-1814','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(182,2182,'pocajontas peques','0horas 10minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('21-6-1740','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(183,2183,'asesinos estudiantes','2horas 13minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-9-1907','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(184,2184,'vampiros asesinos','4horas 6minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('13-10-1780','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(185,2185,'campesinos perfectos','3horas 2minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-5-1997','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(186,2186,'estudiantes guardianes','1horas 29minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('14-1-1816','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(187,2187,'pocos pocos','4horas 12minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('9-2-1989','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(188,2188,'galacticos mario','0horas 34minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-1-1850','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(189,2189,'campesinos mario','3horas 46minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-6-1771','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(190,2190,'pitufos asesinos','1horas 17minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('9-1-1950','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(191,2191,'colegas curtidores','0horas 1minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('25-10-1826','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(192,2192,'lobos pocos','1horas 8minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('15-5-1888','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(193,2193,'asesinos colegas','0horas 39minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('16-10-1887','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(194,2194,'galacticos corredores','4horas 3minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('1-6-1939','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(195,2195,'asesinos compadres','2horas 19minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-7-1847','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(196,2196,'pocos peques','3horas 51minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('5-4-1714','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(197,2197,'desterrados peques','4horas 16minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-2-1905','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(198,2198,'pocos curtidores','4horas 51minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('13-4-1771','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(199,2199,'campesinos flacos','0horas 52minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('18-5-1983','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(200,2200,'peques peques','0horas 28minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('4-4-1838','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(201,2201,'coyotes peques','3horas 9minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('28-6-1920','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(202,2202,'asesinos conocidos','0horas 15minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('21-9-1709','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(203,2203,'mejores perfectos','1horas 10minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('12-7-1985','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(204,2204,'mejores pocos','4horas 39minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('21-9-1812','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(205,2205,'amigos mejores','2horas 40minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('24-9-1949','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(206,2206,'perfectos perfectos','3horas 59minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('23-4-1981','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(207,2207,'coyotes conocidos','2horas 22minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('20-8-1929','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(208,2208,'pocajontas lobos','1horas 44minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('6-5-1876','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(209,2209,'amigos corredores','1horas 20minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('26-11-1710','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(210,2210,'conocidos guardianes','3horas 28minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('18-3-1915','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(211,2211,'asesinos compadres','1horas 47minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-11-1740','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(212,2212,'peques lobos','0horas 9minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('19-7-1771','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(213,2213,'flacos desterrados','4horas 49minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('21-8-1775','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(214,2214,'galacticos mejores','1horas 49minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('16-3-1997','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(215,2215,'asesinos galacticos','2horas 2minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('3-11-1979','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(216,2216,'curtidores compadres','1horas 10minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('2-3-1778','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(217,2217,'mario compadres','1horas 41minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('21-4-1700','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(218,2218,'conocidos corredores','0horas 23minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('27-4-1759','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(219,2219,'pocos compadres','3horas 14minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('19-2-1881','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(220,2220,'desterrados perfectos','2horas 56minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('6-5-1742','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(221,2221,'asesinos colegas','0horas 49minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('3-11-1944','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(222,2222,'coyotes amigos','3horas 6minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('13-11-1894','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(223,2223,'coyotes conocidos','0horas 54minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('13-8-1964','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(224,2224,'vampiros corredores','3horas 29minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('10-11-1951','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(225,2225,'asesinos corredores','4horas 27minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('9-7-1992','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(226,2226,'pocos amigos','3horas 38minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('2-8-1964','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(227,2227,'lobos pitufos','3horas 48minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('11-3-1742','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(228,2228,'perfectos peques','3horas 47minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('6-5-1708','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(229,2229,'flacos flacos','1horas 41minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('10-1-1921','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(230,2230,'perfectos peques','0horas 1minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('9-11-1919','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(231,2231,'pocajontas conocidos','2horas 50minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('9-8-1867','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(232,2232,'guardianes curtidores','3horas 5minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('23-2-1768','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(233,2233,'perfectos compadres','3horas 18minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('5-4-1819','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(234,2234,'corredores guardianes','0horas 56minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('22-6-1941','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(235,2235,'vampiros peques','2horas 56minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('25-5-1839','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(236,2236,'campesinos desterrados','2horas 39minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('1-1-1771','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(237,2237,'compadres coyotes','1horas 59minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('4-5-1835','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(238,2238,'flacos flacos','4horas 43minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('8-10-1771','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(239,2239,'curtidores pitufos','2horas 15minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('4-1-1842','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(240,2240,'pitufos lobos','0horas 53minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('16-10-1959','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(241,2241,'lobos guardianes','4horas 18minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('14-10-1921','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(242,2242,'mario compadres','0horas 11minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-10-1940','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(243,2243,'lobos corredores','3horas 11minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('23-4-1700','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(244,2244,'curtidores pitufos','2horas 54minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('19-11-1861','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(245,2245,'pocos peques','4horas 17minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('19-4-1837','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(246,2246,'asesinos pocajontas','2horas 0minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-4-1755','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(247,2247,'peques pocos','4horas 20minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('13-2-1812','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(248,2248,'pocos guardianes','2horas 59minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('14-1-1889','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(249,2249,'estudiantes corredores','3horas 52minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('16-11-1703','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(250,2250,'asesinos guardianes','1horas 8minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('14-6-1923','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(251,2251,'galacticos galacticos','2horas 49minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('13-11-1895','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(252,2252,'flacos pocajontas','4horas 50minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('6-4-1909','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(253,2253,'estudiantes campesinos','3horas 16minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('22-2-1866','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(254,2254,'peques pocos','2horas 29minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-4-1742','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(255,2255,'pocajontas curtidores','2horas 46minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('27-10-1953','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(256,2256,'pocajontas conocidos','4horas 10minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('12-9-1743','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(257,2257,'coyotes compadres','2horas 34minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('14-9-1725','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(258,2258,'vampiros peques','0horas 54minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('24-7-1767','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(259,2259,'curtidores coyotes','1horas 9minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('6-4-1745','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(260,2260,'guardianes pocos','1horas 4minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('22-1-1715','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(261,2261,'estudiantes compadres','2horas 7minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('3-4-1882','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(262,2262,'campesinos vampiros','0horas 49minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('23-11-1835','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(263,2263,'mario campesinos','2horas 21minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('26-7-1865','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(264,2264,'mario estudiantes','0horas 10minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('21-5-1896','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(265,2265,'campesinos mejores','0horas 53minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('20-10-1866','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(266,2266,'flacos estudiantes','0horas 4minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('16-3-1827','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(267,2267,'colegas conocidos','1horas 18minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('10-9-1772','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(268,2268,'corredores perfectos','2horas 36minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('8-9-1784','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(269,2269,'conocidos mario','3horas 19minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('17-10-1881','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(270,2270,'flacos coyotes','0horas 20minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-8-1832','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(271,2271,'asesinos curtidores','4horas 24minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('12-4-1999','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(272,2272,'colegas estudiantes','1horas 32minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('14-5-1871','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(273,2273,'lobos pitufos','2horas 42minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('19-4-1980','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(274,2274,'mario conocidos','1horas 5minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('8-8-1998','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(275,2275,'asesinos amigos','1horas 57minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('3-1-1991','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(276,2276,'pocajontas guardianes','1horas 20minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('15-10-1829','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(277,2277,'lobos vampiros','1horas 59minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('19-6-1782','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(278,2278,'galacticos guardianes','4horas 22minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('8-5-1765','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(279,2279,'mario galacticos','2horas 46minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('10-9-1776','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(280,2280,'pocos coyotes','3horas 46minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-1-1969','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(281,2281,'curtidores guardianes','2horas 28minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('7-9-1825','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(282,2282,'desterrados mario','0horas 13minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('10-2-1868','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(283,2283,'estudiantes curtidores','0horas 16minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('3-1-1978','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(284,2284,'desterrados pocos','2horas 48minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('24-9-1774','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(285,2285,'galacticos desterrados','2horas 41minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('20-8-1898','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(286,2286,'estudiantes estudiantes','3horas 42minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('15-11-1724','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(287,2287,'amigos corredores','0horas 23minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('23-8-1822','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(288,2288,'compadres guardianes','4horas 3minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('13-2-1811','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(289,2289,'colegas mario','3horas 5minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('8-3-1923','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(290,2290,'pocos campesinos','0horas 23minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-8-1793','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(291,2291,'lobos corredores','4horas 17minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('25-1-1835','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(292,2292,'conocidos conocidos','1horas 41minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-2-1736','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(293,2293,'pocos flacos','1horas 43minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-11-1731','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(294,2294,'corredores conocidos','1horas 51minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('9-5-1794','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(295,2295,'mario asesinos','4horas 47minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('27-8-1752','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(296,2296,'curtidores flacos','1horas 3minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('3-3-1803','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(297,2297,'pocos galacticos','1horas 34minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-11-1915','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(298,2298,'perfectos desterrados','0horas 41minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('5-7-1965','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(299,2299,'vampiros curtidores','3horas 16minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('24-8-1722','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(300,2300,'curtidores mario','4horas 27minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('7-2-1761','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(301,2301,'perfectos compadres','2horas 44minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('19-2-1772','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(302,2302,'campesinos peques','0horas 47minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('26-7-1887','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(303,2303,'peques galacticos','0horas 27minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('21-5-1973','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(304,2304,'guardianes pitufos','1horas 14minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-5-1784','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(305,2305,'lobos pitufos','0horas 5minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('7-5-1925','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(306,2306,'corredores corredores','4horas 36minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('22-2-1876','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(307,2307,'desterrados coyotes','0horas 41minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('17-1-1984','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(308,2308,'guardianes campesinos','1horas 54minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('14-5-1976','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(309,2309,'pitufos mejores','3horas 57minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('3-11-1774','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(310,2310,'curtidores perfectos','4horas 13minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-6-1772','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(311,2311,'asesinos mario','1horas 39minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('2-4-1890','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(312,2312,'colegas amigos','0horas 33minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-5-1989','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(313,2313,'mejores pitufos','2horas 24minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('4-4-1886','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(314,2314,'lobos mejores','3horas 36minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('1-9-1796','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(315,2315,'corredores vampiros','3horas 34minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('12-1-1783','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(316,2316,'pocos lobos','2horas 22minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('23-8-1956','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(317,2317,'estudiantes mario','2horas 14minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('27-8-1721','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(318,2318,'asesinos mejores','1horas 32minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('11-2-1940','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(319,2319,'coyotes pitufos','3horas 8minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('4-1-1904','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(320,2320,'lobos campesinos','2horas 20minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('17-8-1824','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(321,2321,'curtidores perfectos','2horas 52minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('16-11-1946','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(322,2322,'colegas corredores','1horas 14minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('20-5-1998','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(323,2323,'pocajontas pocajontas','3horas 37minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('14-5-1822','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(324,2324,'flacos pitufos','2horas 55minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('20-2-1770','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(325,2325,'desterrados vampiros','0horas 48minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('12-9-1921','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(326,2326,'pitufos pocajontas','3horas 0minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('27-3-1876','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(327,2327,'curtidores perfectos','3horas 58minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('8-11-1793','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(328,2328,'peques conocidos','4horas 28minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('1-1-1787','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(329,2329,'coyotes asesinos','4horas 7minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('21-9-1912','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(330,2330,'vampiros compadres','3horas 29minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('2-2-1727','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(331,2331,'amigos campesinos','2horas 8minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('12-1-1840','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(332,2332,'pocajontas desterrados','1horas 29minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('1-5-1911','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(333,2333,'perfectos mejores','2horas 45minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('13-1-1833','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(334,2334,'mejores asesinos','4horas 52minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('18-5-1910','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(335,2335,'conocidos pocajontas','3horas 11minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('4-7-1946','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(336,2336,'vampiros asesinos','3horas 55minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('1-2-1820','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(337,2337,'pocos mejores','0horas 55minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('16-8-1746','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(338,2338,'corredores peques','1horas 36minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-9-1936','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(339,2339,'conocidos peques','0horas 24minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('14-5-1805','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(340,2340,'pocos pocos','3horas 20minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('3-2-1831','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(341,2341,'coyotes pocajontas','4horas 49minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('10-11-1950','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(342,2342,'lobos mario','3horas 45minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('20-5-1880','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(343,2343,'corredores vampiros','4horas 57minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('6-2-1924','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(344,2344,'amigos galacticos','4horas 52minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('8-5-1779','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(345,2345,'guardianes campesinos','0horas 10minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('28-10-1844','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(346,2346,'vampiros campesinos','3horas 43minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('28-11-1708','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(347,2347,'colegas pitufos','3horas 34minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('7-9-1940','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(348,2348,'amigos pocajontas','3horas 34minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('27-10-1872','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(349,2349,'curtidores peques','3horas 35minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('18-4-1978','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(350,2350,'asesinos flacos','4horas 57minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('8-5-1947','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(351,2351,'mario desterrados','4horas 20minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('18-10-1968','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(352,2352,'mario estudiantes','4horas 4minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('2-10-1807','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(353,2353,'curtidores desterrados','4horas 42minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('14-3-1992','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(354,2354,'desterrados pocajontas','1horas 6minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('3-1-1770','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(355,2355,'amigos conocidos','0horas 31minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('20-1-1869','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(356,2356,'pocajontas peques','1horas 30minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-3-1791','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(357,2357,'colegas pocajontas','0horas 13minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('21-4-1728','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(358,2358,'guardianes conocidos','3horas 51minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('24-9-1927','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(359,2359,'flacos perfectos','0horas 7minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('15-7-1758','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(360,2360,'coyotes pitufos','3horas 58minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('25-4-1977','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(361,2361,'lobos mario','1horas 59minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-6-1949','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(362,2362,'colegas corredores','0horas 11minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('4-2-1772','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(363,2363,'pocajontas peques','3horas 32minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('17-11-1986','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(364,2364,'estudiantes compadres','1horas 57minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('9-11-1913','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(365,2365,'asesinos pitufos','1horas 52minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('16-7-1897','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(366,2366,'asesinos coyotes','1horas 28minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('11-2-1894','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(367,2367,'flacos flacos','0horas 56minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('14-8-1828','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(368,2368,'peques amigos','3horas 52minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('27-9-1958','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(369,2369,'galacticos coyotes','4horas 46minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('26-9-1739','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(370,2370,'corredores asesinos','4horas 25minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('13-3-1757','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(371,2371,'galacticos coyotes','0horas 32minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('14-5-1722','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(372,2372,'campesinos corredores','4horas 24minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-11-1968','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(373,2373,'peques perfectos','2horas 37minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-2-1915','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(374,2374,'estudiantes vampiros','4horas 45minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('19-8-1760','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(375,2375,'flacos coyotes','2horas 41minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('1-4-1792','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(376,2376,'lobos lobos','4horas 58minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('11-6-1815','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(377,2377,'perfectos amigos','3horas 16minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('27-9-1784','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(378,2378,'pitufos coyotes','4horas 17minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('4-5-1727','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(379,2379,'perfectos colegas','2horas 14minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('10-1-1762','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(380,2380,'pocos curtidores','0horas 59minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('5-5-1878','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(381,2381,'pocos curtidores','4horas 57minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('3-7-1923','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(382,2382,'curtidores mejores','1horas 45minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('14-1-1857','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(383,2383,'guardianes vampiros','4horas 13minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('8-8-1960','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(384,2384,'perfectos galacticos','2horas 41minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('11-4-1960','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(385,2385,'guardianes mejores','1horas 27minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('5-8-1963','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(386,2386,'pitufos peques','2horas 55minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('24-1-1801','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(387,2387,'conocidos curtidores','4horas 20minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-5-1953','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(388,2388,'conocidos mejores','2horas 24minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('8-9-1750','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(389,2389,'peques compadres','1horas 29minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('18-6-1709','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(390,2390,'coyotes curtidores','2horas 50minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('25-10-1913','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(391,2391,'pocos estudiantes','4horas 25minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('16-11-1938','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(392,2392,'peques compadres','2horas 5minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('18-5-1923','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(393,2393,'conocidos vampiros','0horas 45minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('8-9-1757','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(394,2394,'asesinos flacos','1horas 28minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('3-9-1751','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(395,2395,'guardianes pocos','4horas 15minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('4-10-1882','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(396,2396,'amigos conocidos','0horas 25minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('7-7-1825','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(397,2397,'pitufos guardianes','2horas 48minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('26-7-1940','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(398,2398,'mario compadres','4horas 30minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('10-2-1998','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(399,2399,'campesinos pitufos','3horas 11minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('3-6-1963','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(400,2400,'galacticos guardianes','3horas 13minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('26-4-1960','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(401,2401,'asesinos pocajontas','1horas 35minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('19-3-1899','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(402,2402,'asesinos perfectos','4horas 44minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('22-1-1712','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(403,2403,'guardianes lobos','3horas 48minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('24-9-1848','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(404,2404,'curtidores mejores','3horas 13minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('26-8-1794','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(405,2405,'vampiros mejores','4horas 48minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('10-10-1791','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(406,2406,'compadres conocidos','1horas 16minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('21-3-1796','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(407,2407,'amigos campesinos','1horas 55minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('14-1-1994','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(408,2408,'pocajontas amigos','3horas 55minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('26-11-1918','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(409,2409,'pocajontas compadres','0horas 29minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('16-2-1996','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(410,2410,'corredores pocajontas','0horas 55minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('26-3-1728','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(411,2411,'pocajontas peques','2horas 56minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('20-4-1765','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(412,2412,'vampiros estudiantes','4horas 24minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('11-4-1867','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(413,2413,'estudiantes curtidores','3horas 14minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('17-10-1851','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(414,2414,'conocidos amigos','3horas 29minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('10-11-1731','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(415,2415,'asesinos campesinos','1horas 43minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('19-11-1936','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(416,2416,'estudiantes peques','1horas 7minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('13-5-1995','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(417,2417,'guardianes campesinos','1horas 22minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('17-8-1730','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(418,2418,'coyotes perfectos','1horas 38minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('28-8-1712','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(419,2419,'flacos vampiros','0horas 30minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('9-3-1748','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(420,2420,'lobos colegas','2horas 51minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('26-11-1814','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(421,2421,'campesinos estudiantes','0horas 35minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('23-5-1758','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(422,2422,'amigos desterrados','0horas 29minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('2-4-1925','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(423,2423,'flacos perfectos','1horas 52minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('26-1-1976','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(424,2424,'guardianes colegas','1horas 53minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('3-1-1737','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(425,2425,'guardianes amigos','4horas 4minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('10-11-1734','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(426,2426,'desterrados lobos','4horas 18minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('24-6-1957','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(427,2427,'amigos asesinos','4horas 48minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('1-6-1711','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(428,2428,'estudiantes pitufos','3horas 45minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('4-3-1915','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(429,2429,'perfectos amigos','4horas 56minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('4-5-1743','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(430,2430,'coyotes vampiros','3horas 45minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('8-4-1775','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(431,2431,'pocajontas vampiros','3horas 36minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('14-10-1814','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(432,2432,'lobos lobos','4horas 1minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('13-2-1792','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(433,2433,'coyotes mario','0horas 25minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-4-1763','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(434,2434,'estudiantes peques','3horas 51minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('19-2-1983','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(435,2435,'amigos desterrados','2horas 58minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('28-9-1935','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(436,2436,'galacticos conocidos','0horas 26minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('22-3-1834','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(437,2437,'curtidores curtidores','3horas 39minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('3-5-1723','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(438,2438,'estudiantes peques','4horas 41minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('26-7-1805','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(439,2439,'mario vampiros','1horas 36minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('16-8-1973','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(440,2440,'mario conocidos','2horas 40minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('14-3-1812','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(441,2441,'galacticos flacos','2horas 20minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('16-9-1848','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(442,2442,'mejores compadres','4horas 26minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('9-7-1745','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(443,2443,'estudiantes pocos','0horas 53minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('24-9-1753','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(444,2444,'perfectos pocajontas','1horas 38minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('16-6-1802','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(445,2445,'desterrados galacticos','1horas 46minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('15-9-1702','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(446,2446,'vampiros mario','3horas 51minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-3-1888','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(447,2447,'pitufos coyotes','2horas 58minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('23-3-1980','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(448,2448,'estudiantes galacticos','4horas 54minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('2-4-1735','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(449,2449,'vampiros coyotes','4horas 12minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('14-5-1749','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(450,2450,'galacticos conocidos','0horas 53minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('13-5-1727','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(451,2451,'estudiantes pocajontas','2horas 0minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('23-6-1931','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(452,2452,'galacticos pocos','0horas 47minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-2-1971','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(453,2453,'pocos peques','4horas 55minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('27-10-1748','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(454,2454,'lobos corredores','2horas 23minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('18-4-1901','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(455,2455,'mejores vampiros','1horas 47minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('4-2-1768','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(456,2456,'pocajontas guardianes','1horas 45minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('6-11-1857','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(457,2457,'amigos amigos','2horas 28minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('28-3-1837','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(458,2458,'amigos galacticos','0horas 16minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('25-7-1703','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(459,2459,'corredores vampiros','3horas 22minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('22-8-1913','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(460,2460,'peques amigos','4horas 57minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('21-4-1962','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(461,2461,'mejores amigos','2horas 20minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('11-10-1924','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(462,2462,'asesinos conocidos','3horas 23minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('17-11-1832','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(463,2463,'pocos perfectos','2horas 0minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('1-6-1760','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(464,2464,'pitufos corredores','2horas 21minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('18-7-1910','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(465,2465,'amigos peques','2horas 41minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('16-8-1952','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(466,2466,'asesinos conocidos','2horas 34minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('19-10-1781','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(467,2467,'amigos asesinos','1horas 38minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('26-8-1700','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(468,2468,'pitufos guardianes','0horas 23minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('13-3-1939','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(469,2469,'pocos pocos','2horas 41minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-4-1924','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(470,2470,'vampiros galacticos','2horas 24minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-4-1916','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(471,2471,'flacos pitufos','0horas 25minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-6-1826','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(472,2472,'curtidores perfectos','0horas 45minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('8-11-1849','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(473,2473,'lobos peques','3horas 20minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('25-1-1859','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(474,2474,'flacos campesinos','0horas 52minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('1-4-1703','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(475,2475,'pocajontas guardianes','2horas 25minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('16-9-1965','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(476,2476,'conocidos pocajontas','2horas 54minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('5-8-1993','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(477,2477,'mejores curtidores','2horas 57minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('19-2-1983','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(478,2478,'mario coyotes','3horas 29minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('20-10-1915','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(479,2479,'campesinos lobos','1horas 30minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('25-9-1769','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(480,2480,'lobos guardianes','3horas 0minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('17-11-1851','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(481,2481,'estudiantes curtidores','2horas 45minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('13-1-1776','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(482,2482,'estudiantes curtidores','4horas 25minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('3-6-1800','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(483,2483,'compadres desterrados','0horas 52minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('14-11-1844','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(484,2484,'estudiantes pocos','4horas 42minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('27-11-1968','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(485,2485,'pitufos peques','1horas 2minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('26-8-1833','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(486,2486,'pocajontas amigos','3horas 42minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('5-9-1946','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(487,2487,'pocos mario','1horas 36minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('27-6-1920','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(488,2488,'pocajontas amigos','3horas 35minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('15-5-1883','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(489,2489,'guardianes estudiantes','3horas 48minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('4-8-1801','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(490,2490,'coyotes perfectos','0horas 23minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-11-1959','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(491,2491,'campesinos corredores','0horas 57minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('19-8-1922','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(492,2492,'curtidores compadres','1horas 7minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('28-1-1860','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(493,2493,'pocos estudiantes','1horas 3minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('15-7-1819','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(494,2494,'compadres compadres','3horas 43minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('13-11-1857','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(495,2495,'flacos campesinos','3horas 16minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('4-8-1824','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(496,2496,'campesinos pocajontas','4horas 58minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('15-2-1701','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(497,2497,'perfectos peques','3horas 57minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('3-2-1989','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(498,2498,'pitufos pitufos','0horas 12minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-11-1804','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(499,2499,'coyotes mejores','0horas 7minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('10-10-1892','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(500,2500,'guardianes peques','0horas 19minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('24-5-1874','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(501,2501,'curtidores colegas','4horas 41minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('2-1-1841','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(502,2502,'mejores desterrados','0horas 24minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-4-1816','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(503,2503,'desterrados amigos','0horas 14minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('23-10-1843','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(504,2504,'mario vampiros','3horas 13minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('6-2-1946','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(505,2505,'estudiantes guardianes','3horas 34minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('12-1-1957','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(506,2506,'peques corredores','2horas 14minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-2-1931','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(507,2507,'desterrados estudiantes','1horas 52minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('14-8-1876','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(508,2508,'vampiros coyotes','0horas 22minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('17-8-1702','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(509,2509,'amigos compadres','3horas 36minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('26-9-1747','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(510,2510,'guardianes mejores','4horas 6minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('5-1-1992','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(511,2511,'perfectos coyotes','0horas 51minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('21-3-1851','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(512,2512,'pocos peques','0horas 33minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('22-6-1890','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(513,2513,'galacticos perfectos','0horas 20minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('4-11-1981','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(514,2514,'guardianes mario','3horas 54minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('3-3-1885','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(515,2515,'desterrados curtidores','4horas 22minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('6-4-1979','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(516,2516,'desterrados colegas','2horas 5minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('7-10-1974','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(517,2517,'asesinos mejores','1horas 35minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('9-3-1901','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(518,2518,'conocidos guardianes','1horas 59minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('20-4-1879','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(519,2519,'desterrados vampiros','0horas 39minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-6-1806','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(520,2520,'lobos colegas','1horas 56minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('1-8-1733','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(521,2521,'lobos colegas','0horas 56minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('1-6-1872','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(522,2522,'pocos conocidos','1horas 19minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('8-2-1861','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(523,2523,'coyotes pocajontas','1horas 18minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('18-11-1710','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(524,2524,'colegas campesinos','3horas 43minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-11-1913','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(525,2525,'perfectos perfectos','2horas 48minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('12-7-1957','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(526,2526,'galacticos mejores','2horas 26minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-4-1742','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(527,2527,'pocos coyotes','3horas 7minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('18-5-1813','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(528,2528,'asesinos colegas','0horas 7minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('19-7-1832','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(529,2529,'galacticos asesinos','1horas 38minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('1-8-1817','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(530,2530,'conocidos mario','3horas 39minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-8-1891','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(531,2531,'flacos corredores','0horas 9minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('27-7-1794','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(532,2532,'lobos asesinos','2horas 5minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-7-1880','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(533,2533,'pocajontas amigos','1horas 19minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-10-1768','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(534,2534,'peques pitufos','3horas 4minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('14-5-1877','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(535,2535,'guardianes flacos','4horas 23minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-8-1890','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(536,2536,'coyotes vampiros','3horas 30minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('21-5-1732','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(537,2537,'lobos peques','3horas 4minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('7-7-1892','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(538,2538,'mejores pocajontas','1horas 36minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('18-6-1819','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(539,2539,'conocidos estudiantes','3horas 6minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('18-2-1902','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(540,2540,'pocos amigos','4horas 25minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('27-9-1876','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(541,2541,'peques mejores','0horas 43minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('14-5-1754','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(542,2542,'perfectos asesinos','2horas 1minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('28-8-1736','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(543,2543,'pocos flacos','0horas 33minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('4-3-1707','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(544,2544,'curtidores amigos','0horas 1minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('13-9-1809','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(545,2545,'campesinos lobos','4horas 48minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('20-2-1927','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(546,2546,'mario guardianes','4horas 46minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-3-1975','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(547,2547,'amigos desterrados','0horas 10minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('24-10-1984','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(548,2548,'campesinos pocajontas','3horas 3minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('1-6-1872','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(549,2549,'campesinos galacticos','2horas 32minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('13-9-1994','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(550,2550,'asesinos estudiantes','2horas 39minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('10-7-1974','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(551,2551,'mejores coyotes','3horas 11minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('20-6-1726','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(552,2552,'peques asesinos','3horas 44minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('10-7-1840','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(553,2553,'perfectos desterrados','2horas 23minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('5-8-1878','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(554,2554,'lobos curtidores','1horas 50minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('8-2-1855','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(555,2555,'mario desterrados','3horas 51minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('20-10-1931','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(556,2556,'mario estudiantes','1horas 8minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('11-8-1840','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(557,2557,'corredores pocos','0horas 58minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('27-7-1836','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(558,2558,'corredores pocos','2horas 13minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('4-9-1755','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(559,2559,'amigos guardianes','0horas 7minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('28-10-1703','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(560,2560,'curtidores estudiantes','4horas 55minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('24-8-1738','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(561,2561,'pitufos curtidores','1horas 54minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('15-3-1822','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(562,2562,'flacos pocajontas','2horas 30minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('24-4-1990','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(563,2563,'guardianes peques','3horas 5minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('4-8-1966','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(564,2564,'peques peques','0horas 15minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('13-10-1763','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(565,2565,'flacos galacticos','3horas 3minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('12-8-1745','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(566,2566,'compadres coyotes','1horas 56minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('20-5-1800','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(567,2567,'campesinos conocidos','3horas 57minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('4-1-1886','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(568,2568,'galacticos flacos','2horas 48minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('23-1-1763','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(569,2569,'coyotes desterrados','4horas 49minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('24-4-1989','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(570,2570,'coyotes campesinos','4horas 10minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('9-2-1926','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(571,2571,'amigos desterrados','2horas 13minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('10-2-1929','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(572,2572,'vampiros desterrados','4horas 35minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('28-2-1765','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(573,2573,'conocidos coyotes','2horas 0minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('18-3-1934','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(574,2574,'conocidos lobos','0horas 59minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('21-2-1984','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(575,2575,'coyotes corredores','2horas 14minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('17-10-1825','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(576,2576,'lobos mario','2horas 7minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('6-7-1713','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(577,2577,'pitufos mejores','1horas 18minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('13-3-1755','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(578,2578,'mario desterrados','0horas 37minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('12-6-1920','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(579,2579,'flacos pocos','3horas 31minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('6-7-1860','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(580,2580,'guardianes estudiantes','2horas 49minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('17-10-1998','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(581,2581,'flacos coyotes','0horas 42minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-7-1733','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(582,2582,'mejores coyotes','2horas 16minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('3-1-1737','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(583,2583,'estudiantes estudiantes','3horas 26minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-10-1754','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(584,2584,'desterrados perfectos','4horas 28minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('2-11-1735','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(585,2585,'pitufos compadres','2horas 48minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-6-1822','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(586,2586,'pocos estudiantes','3horas 10minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('8-4-1796','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(587,2587,'desterrados compadres','0horas 8minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-7-1838','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(588,2588,'guardianes pitufos','3horas 50minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('10-11-1811','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(589,2589,'corredores peques','2horas 58minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('22-10-1774','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(590,2590,'asesinos colegas','2horas 27minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('19-11-1747','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(591,2591,'mario asesinos','1horas 23minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-9-1813','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(592,2592,'colegas galacticos','1horas 34minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-11-1951','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(593,2593,'pocos pitufos','4horas 31minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('11-9-1819','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(594,2594,'guardianes conocidos','3horas 43minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('24-7-1843','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(595,2595,'galacticos asesinos','3horas 23minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('12-6-1854','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(596,2596,'pocos campesinos','0horas 3minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('16-1-1956','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(597,2597,'perfectos colegas','1horas 51minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('19-11-1794','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(598,2598,'vampiros vampiros','1horas 21minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-4-1718','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(599,2599,'pocajontas colegas','3horas 47minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('7-11-1985','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(600,2600,'guardianes perfectos','1horas 34minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('15-3-1736','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(601,2601,'mejores colegas','3horas 58minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-1-1932','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(602,2602,'peques flacos','4horas 25minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('28-4-1757','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(603,2603,'lobos pitufos','4horas 22minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('16-9-1727','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(604,2604,'compadres mario','4horas 54minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('10-2-1899','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(605,2605,'lobos pocajontas','1horas 10minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('11-7-1850','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(606,2606,'mario vampiros','0horas 53minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-5-1932','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(607,2607,'mario pitufos','1horas 56minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('19-11-1915','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(608,2608,'peques peques','4horas 27minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('12-5-1803','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(609,2609,'pocajontas pocos','3horas 9minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('10-3-1785','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(610,2610,'desterrados pocos','1horas 10minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('4-8-1934','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(611,2611,'mejores pitufos','4horas 10minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('20-2-1737','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(612,2612,'guardianes flacos','1horas 15minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('26-8-1756','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(613,2613,'corredores flacos','0horas 25minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('17-4-1850','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(614,2614,'pocos corredores','3horas 11minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('11-7-1714','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(615,2615,'pocajontas desterrados','3horas 23minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('1-6-1723','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(616,2616,'desterrados pocos','0horas 13minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('1-11-1711','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(617,2617,'corredores galacticos','0horas 21minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('7-3-1817','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(618,2618,'amigos mario','3horas 21minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('6-3-1881','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(619,2619,'coyotes pocajontas','3horas 8minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('15-7-1776','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(620,2620,'peques corredores','4horas 17minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-5-1853','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(621,2621,'curtidores estudiantes','0horas 11minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('7-7-1877','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(622,2622,'desterrados lobos','2horas 1minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('25-11-1847','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(623,2623,'guardianes coyotes','3horas 17minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('25-1-1963','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(624,2624,'coyotes amigos','1horas 21minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('22-11-1735','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(625,2625,'perfectos pocajontas','4horas 6minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('11-11-1823','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(626,2626,'pocos campesinos','0horas 35minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('20-9-1992','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(627,2627,'conocidos pocos','1horas 23minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('2-9-1760','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(628,2628,'lobos coyotes','3horas 54minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-10-1808','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(629,2629,'pocos galacticos','0horas 47minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('28-3-1723','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(630,2630,'corredores pocajontas','3horas 50minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('15-3-1885','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(631,2631,'desterrados perfectos','1horas 36minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('22-9-1761','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(632,2632,'desterrados mario','2horas 19minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('19-6-1845','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(633,2633,'mario asesinos','0horas 57minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('24-9-1767','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(634,2634,'perfectos pitufos','0horas 11minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('12-7-1837','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(635,2635,'perfectos vampiros','1horas 55minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('11-4-1830','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(636,2636,'flacos perfectos','3horas 58minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('25-3-1717','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(637,2637,'pocajontas mario','2horas 20minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('23-4-1863','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(638,2638,'galacticos amigos','4horas 37minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('13-4-1814','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(639,2639,'mejores desterrados','4horas 17minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-2-1895','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(640,2640,'lobos pocajontas','3horas 16minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('23-2-1752','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(641,2641,'coyotes flacos','0horas 35minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('17-2-1956','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(642,2642,'pitufos amigos','3horas 24minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-5-1960','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(643,2643,'pitufos mejores','3horas 55minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('21-6-1739','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(644,2644,'lobos colegas','4horas 41minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('28-10-1848','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(645,2645,'perfectos amigos','0horas 55minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('7-1-1891','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(646,2646,'corredores compadres','2horas 14minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-8-1960','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(647,2647,'campesinos estudiantes','4horas 42minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('23-9-1994','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(648,2648,'amigos corredores','1horas 38minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('8-11-1846','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(649,2649,'asesinos compadres','4horas 35minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-5-1843','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(650,2650,'peques corredores','2horas 48minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('8-7-1748','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(651,2651,'pitufos curtidores','0horas 40minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('13-2-1976','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(652,2652,'galacticos amigos','2horas 8minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('15-4-1831','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(653,2653,'pitufos mejores','3horas 47minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('24-9-1795','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(654,2654,'conocidos asesinos','0horas 43minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('11-1-1913','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(655,2655,'desterrados flacos','4horas 45minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('12-2-1759','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(656,2656,'mejores colegas','4horas 41minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('8-7-1903','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(657,2657,'corredores pocajontas','2horas 7minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('23-4-1741','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(658,2658,'mejores flacos','1horas 34minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-11-1982','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(659,2659,'campesinos corredores','4horas 20minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('1-7-1973','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(660,2660,'curtidores corredores','2horas 15minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('6-4-1769','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(661,2661,'coyotes coyotes','1horas 4minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('4-8-1781','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(662,2662,'desterrados pocajontas','1horas 2minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('9-9-1916','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(663,2663,'galacticos colegas','2horas 46minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('2-3-1993','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(664,2664,'galacticos galacticos','2horas 6minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('8-7-1869','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(665,2665,'conocidos peques','3horas 1minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('4-4-1796','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(666,2666,'mejores conocidos','3horas 22minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('18-8-1846','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(667,2667,'colegas estudiantes','0horas 33minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('6-5-1809','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(668,2668,'estudiantes estudiantes','3horas 44minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('20-3-1974','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(669,2669,'asesinos estudiantes','1horas 51minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('7-10-1734','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(670,2670,'perfectos perfectos','4horas 46minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('27-6-1986','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(671,2671,'pitufos colegas','1horas 14minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('27-8-1708','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(672,2672,'pocos pocajontas','4horas 5minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('24-5-1982','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(673,2673,'mejores vampiros','0horas 26minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('16-5-1905','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(674,2674,'amigos vampiros','0horas 48minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('21-9-1994','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(675,2675,'mejores colegas','4horas 37minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('14-10-1795','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(676,2676,'guardianes pitufos','4horas 32minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('24-4-1966','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(677,2677,'pitufos conocidos','1horas 11minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('15-5-1862','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(678,2678,'coyotes lobos','3horas 36minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('23-1-1773','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(679,2679,'pitufos desterrados','4horas 56minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('25-2-1771','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(680,2680,'vampiros estudiantes','0horas 38minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('6-3-1981','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(681,2681,'corredores amigos','3horas 11minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('16-10-1969','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(682,2682,'pitufos estudiantes','3horas 40minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('26-7-1840','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(683,2683,'coyotes pocos','0horas 41minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-8-1814','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(684,2684,'mejores campesinos','0horas 23minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-9-1972','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(685,2685,'asesinos corredores','0horas 55minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('6-1-1716','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(686,2686,'flacos mejores','2horas 17minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('10-6-1888','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(687,2687,'vampiros desterrados','1horas 37minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('2-11-1789','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(688,2688,'coyotes perfectos','4horas 35minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('18-1-1916','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(689,2689,'peques flacos','4horas 46minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('18-9-1891','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(690,2690,'pitufos galacticos','0horas 10minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('16-6-1963','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(691,2691,'curtidores colegas','4horas 32minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('13-2-1717','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(692,2692,'colegas colegas','0horas 16minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('13-7-1745','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(693,2693,'asesinos colegas','2horas 5minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('25-1-1900','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(694,2694,'compadres desterrados','2horas 14minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('23-6-1880','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(695,2695,'mejores guardianes','3horas 54minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-4-1971','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(696,2696,'estudiantes corredores','0horas 23minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('21-8-1723','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(697,2697,'pocajontas peques','3horas 7minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('28-1-1710','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(698,2698,'colegas pocajontas','2horas 10minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('17-6-1918','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(699,2699,'asesinos curtidores','1horas 12minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('1-7-1853','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(700,2700,'conocidos guardianes','3horas 46minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('22-3-1736','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(701,2701,'corredores estudiantes','3horas 36minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('28-10-1774','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(702,2702,'pocajontas colegas','0horas 3minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('22-4-1906','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(703,2703,'conocidos guardianes','4horas 12minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('23-6-1774','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(704,2704,'coyotes corredores','1horas 50minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('22-2-1811','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(705,2705,'coyotes corredores','1horas 54minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('4-8-1908','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(706,2706,'curtidores pitufos','0horas 0minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('17-4-1796','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(707,2707,'pitufos coyotes','2horas 31minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('14-7-1862','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(708,2708,'compadres mario','1horas 11minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('27-1-1946','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(709,2709,'mario vampiros','2horas 1minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('24-3-1707','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(710,2710,'asesinos perfectos','4horas 59minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('4-8-1881','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(711,2711,'guardianes guardianes','2horas 41minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('10-9-1822','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(712,2712,'pocajontas pitufos','0horas 40minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('1-4-1943','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(713,2713,'guardianes mario','2horas 25minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('25-8-1731','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(714,2714,'estudiantes coyotes','1horas 51minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('1-9-1754','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(715,2715,'mario guardianes','2horas 36minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('15-6-1927','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(716,2716,'galacticos asesinos','4horas 49minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('8-1-1982','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(717,2717,'guardianes compadres','1horas 39minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('12-6-1928','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(718,2718,'pocajontas perfectos','4horas 54minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('5-8-1797','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(719,2719,'flacos galacticos','2horas 1minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('22-3-1868','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(720,2720,'amigos galacticos','4horas 19minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('11-4-1988','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(721,2721,'mejores lobos','3horas 11minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('28-5-1983','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(722,2722,'guardianes curtidores','3horas 34minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('16-1-1784','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(723,2723,'mario coyotes','1horas 46minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('23-4-1936','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(724,2724,'corredores compadres','0horas 43minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('24-8-1750','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(725,2725,'compadres asesinos','4horas 41minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('14-9-1886','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(726,2726,'corredores conocidos','0horas 10minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('19-4-1815','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(727,2727,'campesinos corredores','1horas 1minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('24-7-1985','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(728,2728,'colegas compadres','1horas 35minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('15-7-1824','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(729,2729,'coyotes flacos','2horas 0minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('8-2-1929','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(730,2730,'vampiros peques','2horas 9minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('4-2-1932','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(731,2731,'pocos flacos','2horas 2minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('14-1-1839','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(732,2732,'estudiantes flacos','0horas 10minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('15-2-1905','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(733,2733,'coyotes pitufos','2horas 24minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('27-5-1785','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(734,2734,'amigos pocos','3horas 47minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('24-9-1846','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(735,2735,'galacticos flacos','1horas 9minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-3-1771','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(736,2736,'colegas pocos','4horas 48minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('6-2-1897','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(737,2737,'pitufos conocidos','3horas 14minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('26-2-1737','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(738,2738,'conocidos curtidores','1horas 15minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('25-1-1734','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(739,2739,'pitufos guardianes','4horas 19minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('3-2-1899','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(740,2740,'estudiantes asesinos','0horas 32minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('28-3-1936','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(741,2741,'asesinos vampiros','0horas 1minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-9-1814','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(742,2742,'flacos campesinos','0horas 31minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('2-7-1934','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(743,2743,'asesinos peques','4horas 26minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('13-5-1729','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(744,2744,'conocidos lobos','4horas 0minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('28-4-1709','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(745,2745,'amigos pocos','2horas 14minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('24-8-1756','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(746,2746,'conocidos campesinos','2horas 25minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('24-9-1775','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(747,2747,'compadres flacos','2horas 23minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('20-5-1900','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(748,2748,'guardianes mejores','2horas 45minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('9-4-1763','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(749,2749,'peques campesinos','3horas 37minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('2-9-1890','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(750,2750,'coyotes mejores','3horas 18minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('17-5-1795','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(751,2751,'perfectos lobos','3horas 9minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('4-3-1933','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(752,2752,'campesinos pocos','0horas 24minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('12-2-1970','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(753,2753,'perfectos conocidos','3horas 28minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('5-3-1940','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(754,2754,'coyotes pocajontas','3horas 0minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('6-7-1823','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(755,2755,'peques pocajontas','1horas 14minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('20-5-1951','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(756,2756,'desterrados colegas','1horas 40minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('22-11-1876','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(757,2757,'compadres estudiantes','0horas 50minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('4-9-1774','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(758,2758,'asesinos conocidos','1horas 18minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('4-11-1821','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(759,2759,'campesinos asesinos','4horas 51minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-1-1787','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(760,2760,'asesinos curtidores','4horas 55minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('14-1-1836','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(761,2761,'conocidos lobos','3horas 34minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('26-1-1993','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(762,2762,'amigos galacticos','2horas 23minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('4-9-1909','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(763,2763,'curtidores galacticos','0horas 28minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('8-6-1881','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(764,2764,'campesinos mario','4horas 21minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('6-6-1786','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(765,2765,'asesinos compadres','4horas 0minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('28-8-1912','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(766,2766,'compadres amigos','2horas 7minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-6-1716','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(767,2767,'conocidos mejores','0horas 57minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('19-10-1825','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(768,2768,'pitufos galacticos','0horas 10minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('5-6-1787','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(769,2769,'peques corredores','3horas 53minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('24-4-1710','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(770,2770,'mario vampiros','3horas 58minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('23-2-1983','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(771,2771,'vampiros colegas','2horas 16minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('14-4-1892','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(772,2772,'amigos asesinos','0horas 41minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('9-4-1932','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(773,2773,'pitufos pocajontas','3horas 1minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('9-5-1701','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(774,2774,'vampiros peques','1horas 25minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('22-10-1915','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(775,2775,'amigos vampiros','2horas 52minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-8-1758','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(776,2776,'mejores pocajontas','1horas 49minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('26-8-1743','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(777,2777,'guardianes pocos','3horas 48minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('24-9-1786','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(778,2778,'asesinos peques','2horas 29minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('7-6-1944','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(779,2779,'peques asesinos','3horas 59minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('10-11-1972','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(780,2780,'pitufos mejores','3horas 30minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('20-4-1913','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(781,2781,'guardianes guardianes','2horas 45minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('15-11-1938','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(782,2782,'estudiantes corredores','2horas 39minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('28-7-1867','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(783,2783,'mejores flacos','0horas 48minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('24-4-1753','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(784,2784,'mejores vampiros','0horas 23minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('21-10-1824','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(785,2785,'guardianes amigos','2horas 0minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('28-7-1785','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(786,2786,'peques amigos','1horas 11minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('13-3-1998','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(787,2787,'asesinos coyotes','0horas 45minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-11-1870','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(788,2788,'lobos galacticos','0horas 52minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('11-1-1932','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(789,2789,'curtidores estudiantes','1horas 41minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('8-3-1923','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(790,2790,'pocos curtidores','0horas 50minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('25-3-1824','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(791,2791,'peques campesinos','4horas 35minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('26-9-1769','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(792,2792,'conocidos guardianes','2horas 40minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('9-8-1898','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(793,2793,'peques corredores','4horas 27minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-10-1703','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(794,2794,'estudiantes compadres','4horas 2minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('19-10-1932','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(795,2795,'amigos lobos','4horas 20minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('9-10-1925','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(796,2796,'mario asesinos','4horas 24minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('4-3-1731','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(797,2797,'vampiros mario','0horas 18minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-11-1830','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(798,2798,'mejores galacticos','0horas 45minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('11-10-1810','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(799,2799,'campesinos perfectos','0horas 15minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('27-11-1765','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(800,2800,'pitufos peques','3horas 16minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('18-5-1993','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(801,2801,'amigos compadres','4horas 49minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('6-5-1943','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(802,2802,'desterrados campesinos','0horas 57minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-3-1972','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(803,2803,'galacticos vampiros','2horas 23minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('1-10-1707','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(804,2804,'corredores coyotes','4horas 15minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-11-1752','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(805,2805,'galacticos corredores','1horas 46minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('7-3-1787','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(806,2806,'colegas coyotes','4horas 33minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('8-2-1796','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(807,2807,'compadres campesinos','3horas 9minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('20-4-1845','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(808,2808,'amigos estudiantes','0horas 8minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('8-8-1759','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(809,2809,'flacos curtidores','1horas 54minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('8-5-1790','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(810,2810,'perfectos desterrados','4horas 2minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('18-1-1862','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(811,2811,'mejores asesinos','0horas 58minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('10-2-1937','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(812,2812,'guardianes conocidos','1horas 0minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('1-1-1762','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(813,2813,'curtidores coyotes','2horas 57minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('2-9-1883','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(814,2814,'mario curtidores','1horas 49minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('26-9-1891','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(815,2815,'campesinos desterrados','3horas 1minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('17-7-1868','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(816,2816,'conocidos flacos','0horas 40minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('12-5-1981','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(817,2817,'mario amigos','1horas 13minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('19-10-1744','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(818,2818,'vampiros pocajontas','0horas 13minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('14-7-1748','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(819,2819,'mejores asesinos','1horas 6minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('12-4-1737','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(820,2820,'desterrados conocidos','1horas 7minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('13-3-1703','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(821,2821,'estudiantes flacos','4horas 9minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('28-9-1829','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(822,2822,'galacticos coyotes','4horas 5minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('19-3-1849','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(823,2823,'compadres curtidores','3horas 50minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('9-6-1799','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(824,2824,'vampiros guardianes','3horas 29minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('5-7-1899','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(825,2825,'coyotes amigos','4horas 17minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('12-7-1755','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(826,2826,'mario mario','4horas 49minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('16-10-1951','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(827,2827,'curtidores compadres','3horas 38minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('23-9-1911','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(828,2828,'galacticos flacos','4horas 49minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('24-1-1998','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(829,2829,'flacos vampiros','2horas 9minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('17-6-1777','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(830,2830,'galacticos asesinos','2horas 57minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('8-1-1937','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(831,2831,'flacos pocos','4horas 1minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('27-10-1745','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(832,2832,'desterrados mario','3horas 8minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('2-10-1908','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(833,2833,'perfectos asesinos','3horas 31minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('19-4-1935','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(834,2834,'coyotes mejores','4horas 10minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('24-2-1997','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(835,2835,'pocajontas compadres','1horas 53minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('3-5-1832','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(836,2836,'conocidos lobos','0horas 24minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('26-9-1957','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(837,2837,'perfectos campesinos','2horas 14minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('11-7-1929','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(838,2838,'flacos conocidos','3horas 29minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('2-10-1799','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(839,2839,'colegas compadres','2horas 14minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('25-9-1965','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(840,2840,'campesinos estudiantes','1horas 15minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('13-4-1926','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(841,2841,'galacticos campesinos','2horas 13minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('17-10-1821','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(842,2842,'mejores mario','1horas 27minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('24-10-1802','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(843,2843,'pocos perfectos','3horas 45minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('3-11-1954','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(844,2844,'pocajontas amigos','3horas 35minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('16-10-1751','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(845,2845,'perfectos galacticos','1horas 36minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('1-7-1857','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(846,2846,'galacticos coyotes','1horas 26minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('6-10-1937','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(847,2847,'colegas desterrados','2horas 33minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('21-1-1936','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(848,2848,'perfectos vampiros','1horas 5minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('1-3-1895','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(849,2849,'mejores lobos','4horas 38minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('19-5-1912','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(850,2850,'compadres asesinos','4horas 4minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('24-9-1952','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(851,2851,'corredores desterrados','3horas 16minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('8-4-1836','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(852,2852,'pitufos lobos','0horas 48minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('10-2-1793','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(853,2853,'guardianes vampiros','1horas 52minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('26-7-1830','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(854,2854,'conocidos vampiros','1horas 15minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-1-1771','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(855,2855,'mario campesinos','0horas 24minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('26-11-1906','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(856,2856,'pocos guardianes','0horas 13minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('27-4-1721','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(857,2857,'coyotes galacticos','3horas 49minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('20-4-1855','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(858,2858,'pocajontas mejores','2horas 8minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('26-6-1792','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(859,2859,'mario mejores','2horas 25minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('15-9-1882','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(860,2860,'compadres perfectos','1horas 21minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('23-9-1908','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(861,2861,'mejores asesinos','3horas 0minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('19-5-1793','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(862,2862,'mejores coyotes','2horas 14minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('6-5-1780','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(863,2863,'lobos lobos','3horas 28minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('22-2-1776','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(864,2864,'peques flacos','0horas 57minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('7-1-1879','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(865,2865,'amigos asesinos','0horas 1minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('4-8-1853','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(866,2866,'peques galacticos','3horas 21minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('26-5-1924','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(867,2867,'pitufos corredores','0horas 9minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('9-3-1906','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(868,2868,'desterrados lobos','3horas 14minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('3-9-1855','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(869,2869,'amigos coyotes','0horas 49minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('28-4-1709','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(870,2870,'colegas corredores','3horas 46minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('19-5-1827','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(871,2871,'lobos guardianes','0horas 24minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('28-9-1754','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(872,2872,'perfectos desterrados','1horas 59minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('8-9-1733','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(873,2873,'curtidores conocidos','0horas 32minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('23-7-1932','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(874,2874,'amigos flacos','3horas 59minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('20-8-1811','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(875,2875,'campesinos pocajontas','0horas 14minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('1-3-1702','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(876,2876,'mario curtidores','1horas 36minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('21-8-1871','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(877,2877,'coyotes mejores','2horas 7minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('24-3-1798','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(878,2878,'colegas peques','4horas 49minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('25-11-1701','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(879,2879,'desterrados flacos','3horas 3minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('11-2-1959','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(880,2880,'colegas peques','0horas 47minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('20-3-1709','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(881,2881,'coyotes pocajontas','0horas 50minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-1-1701','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(882,2882,'peques mejores','1horas 24minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('6-2-1740','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(883,2883,'compadres pitufos','2horas 41minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('25-10-1865','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(884,2884,'amigos guardianes','4horas 9minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('14-10-1951','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(885,2885,'amigos guardianes','0horas 1minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('15-8-1938','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(886,2886,'guardianes vampiros','2horas 6minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('28-2-1763','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(887,2887,'conocidos asesinos','4horas 18minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('19-11-1935','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(888,2888,'galacticos flacos','2horas 0minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('2-5-1944','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(889,2889,'desterrados lobos','2horas 58minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('25-7-1883','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(890,2890,'colegas compadres','3horas 1minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('20-6-1964','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(891,2891,'galacticos colegas','1horas 9minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('26-1-1839','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(892,2892,'asesinos coyotes','0horas 8minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('17-5-1831','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(893,2893,'coyotes curtidores','2horas 27minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('9-10-1885','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(894,2894,'guardianes mejores','1horas 35minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('11-9-1988','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(895,2895,'compadres colegas','2horas 51minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('9-2-1800','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(896,2896,'vampiros corredores','3horas 20minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('21-5-1743','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(897,2897,'campesinos estudiantes','2horas 33minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('6-2-1750','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(898,2898,'mario pitufos','3horas 16minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('23-3-1920','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(899,2899,'mario lobos','3horas 56minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-9-1718','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(900,2900,'campesinos conocidos','2horas 8minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('16-7-1971','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(901,2901,'asesinos perfectos','4horas 27minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('4-8-1755','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(902,2902,'mario amigos','1horas 37minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('23-1-1901','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(903,2903,'guardianes perfectos','0horas 31minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('9-11-1962','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(904,2904,'mario estudiantes','4horas 33minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('12-2-1875','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(905,2905,'galacticos coyotes','0horas 53minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('3-4-1707','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(906,2906,'estudiantes estudiantes','0horas 36minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('1-5-1969','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(907,2907,'asesinos corredores','2horas 23minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('21-3-1799','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(908,2908,'estudiantes guardianes','3horas 41minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('8-8-1819','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(909,2909,'asesinos estudiantes','1horas 36minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('15-5-1779','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(910,2910,'corredores asesinos','2horas 29minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('24-10-1965','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(911,2911,'estudiantes colegas','2horas 3minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('20-7-1949','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(912,2912,'vampiros vampiros','2horas 2minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('16-4-1959','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(913,2913,'desterrados peques','0horas 40minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('17-1-1964','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(914,2914,'mario curtidores','0horas 13minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('1-10-1866','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(915,2915,'vampiros asesinos','4horas 22minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('17-11-1977','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(916,2916,'lobos mejores','1horas 7minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('2-8-1726','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(917,2917,'pocajontas amigos','1horas 47minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('27-11-1965','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(918,2918,'pitufos guardianes','4horas 35minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('1-11-1782','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(919,2919,'coyotes perfectos','1horas 50minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('28-8-1882','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(920,2920,'desterrados asesinos','2horas 35minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('9-9-1859','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(921,2921,'pocajontas corredores','0horas 24minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('6-1-1864','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(922,2922,'colegas amigos','1horas 55minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('3-9-1725','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(923,2923,'compadres vampiros','2horas 31minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('15-3-1915','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(924,2924,'pocajontas campesinos','1horas 32minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('19-7-1700','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(925,2925,'galacticos pocos','3horas 58minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('6-3-1719','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(926,2926,'mejores estudiantes','1horas 50minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('23-10-1831','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(927,2927,'compadres vampiros','3horas 51minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('17-9-1789','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(928,2928,'pocajontas lobos','4horas 40minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-7-1773','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(929,2929,'colegas desterrados','3horas 28minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('23-9-1960','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(930,2930,'desterrados amigos','0horas 33minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('13-10-1854','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(931,2931,'campesinos curtidores','3horas 59minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('27-5-1899','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(932,2932,'lobos asesinos','3horas 58minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('17-1-1832','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(933,2933,'lobos perfectos','3horas 29minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('6-9-1790','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(934,2934,'pocajontas flacos','3horas 58minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('22-7-1952','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(935,2935,'coyotes pitufos','4horas 4minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('26-1-1937','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(936,2936,'colegas corredores','4horas 6minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('7-11-1899','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(937,2937,'guardianes colegas','4horas 53minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('25-3-1793','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(938,2938,'asesinos asesinos','3horas 3minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('28-1-1995','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(939,2939,'mario curtidores','0horas 9minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('7-9-1804','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(940,2940,'mario colegas','3horas 55minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-5-1921','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(941,2941,'pocos pitufos','0horas 2minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('26-10-1915','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(942,2942,'pocajontas amigos','3horas 54minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('3-1-1768','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(943,2943,'vampiros mejores','0horas 14minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('5-11-1815','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(944,2944,'galacticos coyotes','3horas 10minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('5-11-1969','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(945,2945,'desterrados colegas','3horas 25minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-1-1796','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(946,2946,'coyotes lobos','1horas 30minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('4-11-1900','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(947,2947,'perfectos guardianes','1horas 3minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('15-9-1841','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(948,2948,'mejores pocos','3horas 23minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('4-2-1856','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(949,2949,'mejores curtidores','4horas 33minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('14-7-1809','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(950,2950,'flacos peques','3horas 9minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('28-3-1867','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(951,2951,'vampiros pitufos','1horas 7minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('7-5-1976','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(952,2952,'corredores peques','1horas 59minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('16-9-1706','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(953,2953,'campesinos pitufos','2horas 2minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('7-7-1838','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(954,2954,'pitufos curtidores','4horas 0minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('3-3-1760','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(955,2955,'colegas pocos','3horas 52minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('27-2-1954','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(956,2956,'pitufos corredores','0horas 2minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('5-4-1822','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(957,2957,'pitufos galacticos','2horas 47minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('8-8-1917','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(958,2958,'perfectos coyotes','0horas 55minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('16-1-1958','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(959,2959,'amigos mario','1horas 28minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('2-8-1760','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(960,2960,'colegas pitufos','4horas 21minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('10-5-1765','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(961,2961,'amigos mario','4horas 23minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('18-5-1779','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(962,2962,'flacos perfectos','3horas 7minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('22-6-1937','DD-MM-YYYY'),4);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(963,2963,'desterrados lobos','3horas 24minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('15-5-1716','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(964,2964,'pocos guardianes','0horas 48minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('22-8-1710','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(965,2965,'guardianes perfectos','2horas 5minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('17-3-1882','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(966,2966,'asesinos pocos','0horas 1minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('25-8-1742','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(967,2967,'vampiros mario','3horas 15minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('21-10-1981','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(968,2968,'compadres flacos','4horas 41minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('16-7-1730','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(969,2969,'campesinos lobos','1horas 3minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('24-3-1922','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(970,2970,'peques mario','0horas 22minutos','Un dí consigue acompañarles y juntos se dirigen al imperio de Kublai Khan. Penurias y privaciones marcan el camino hasta que finalmente, tras varios años, logran llegar a Mongolia y a la corte del Gran Khan. Allí se gana el respeto de Kublai, se hace amigo de Chinkin, el hijo de Kublai Khan, quien sufre de epilepsia',TO_DATE('4-3-1874','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(971,2971,'flacos vampiros','1horas 56minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('15-6-1907','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(972,2972,'flacos flacos','0horas 28minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('28-8-1890','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(973,2973,'lobos compadres','3horas 55minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('9-6-1766','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(974,2974,'mejores pocos','1horas 13minutos','Thirla edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011',TO_DATE('18-7-1785','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(975,2975,'galacticos galacticos','0horas 16minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('11-5-1975','DD-MM-YYYY'),6);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(976,2976,'corredores peques','3horas 51minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('25-7-1941','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(977,2977,'pitufos colegas','4horas 27minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('11-8-1999','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(978,2978,'flacos asesinos','0horas 28minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('1-1-1892','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(979,2979,'coyotes estudiantes','1horas 30minutos','Demetrdiante stand-up y por su programa de televisión en Comedy Central llamado Important Things with Demetri Martin',TO_DATE('10-8-1860','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(980,2980,'mejores coyotes','0horas 22minutos','Ever Aftecreadas previamente por Mattel (inspiradas por su otra franquicia Monster High). La serie trata sobre las historias de los hijos adolescentes de personajes famosos de cuentos de hadas clásicos, canciones de cuna y mitos griegos, que estudian en una escuela-internado, llamada Ever After High. En algunos casos, los libros son escritos por Suzanne Selfors, pero la mayoría de ellos suelen ser escritos por Hale, ya que originalmente es la autora de la serie. Técnicamente no es una serie de televisión en los Estados Unidos, ya que es una serie Web. Sin embargo la serie es transmitida en la televisión de Francia por el canal infantil francés, Gulli. Ever After High es considerada apta para todo el público',TO_DATE('19-3-1960','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(981,2981,'estudiantes compadres','3horas 35minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('21-5-1853','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(982,2982,'guardianes pitufos','1horas 35minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('12-1-1808','DD-MM-YYYY'),2);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(983,2983,'conocidos galacticos','4horas 6minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('10-4-1977','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(984,2984,'mejores campesinos','0horas 7minutos','Willd-up y por conducir Bill Burrs Monday Morning Podcast. Como actor interpretó a Patrick Kuby en la serie Breaking Bad y protagonizó la sitcom animada F Is for Family. En 2017 la Rolling Stone lo colocó en el número diecisiete de los cincuenta mejores comediantes en vivo de todos los tiempos',TO_DATE('21-7-1960','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(985,2985,'guardianes perfectos','4horas 28minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('4-1-1927','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(986,2986,'asesinos pocos','4horas 35minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('24-11-1987','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(987,2987,'conocidos coyotes','1horas 47minutos','Su particular estilo divertido y animado, lo ha convertido en uno de los comediantes más exitosos, con eventos con boletos agotados en todo el mundo, inclusive agotando boletos en Madison Square Garden y el Microsoft Theater. Además, es unos de los comediantes más vistos en YouTube con más de 300 millones de vistas',TO_DATE('28-5-1795','DD-MM-YYYY'),7);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(988,2988,'pitufos peques','1horas 28minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('9-3-1842','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(989,2989,'flacos campesinos','2horas 38minutos','Mida de Open Season), pero fue reemplazado por Matthew J. Munn en Open Season 3',TO_DATE('10-1-1758','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(990,2990,'corredores curtidores','0horas 48minutos','Ha gAllen. Martin volvió a The Daily Show el 22 de marzo de 2006, como el nuevo Corresponsal Juvenil, llamando a su segmento de Noticias Importantes Profesionales con Demetri Martin. En 2007, protagonizó el video musical de Fountains of Wayne, Someone to Love como Seth Shapiro, un personaje de la canción junto a Faryl Millet',TO_DATE('18-4-1909','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(991,2991,'flacos conocidos','3horas 33minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('27-7-1897','DD-MM-YYYY'),3);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(992,2992,'pitufos pitufos','1horas 59minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('11-5-1873','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(993,2993,'asesinos estudiantes','2horas 45minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('17-8-1853','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(994,2994,'campesinos corredores','2horas 27minutos','Antes de meterse en el mundo de la comedia estuvo trabajando en una compañía telefónica de Los Ángeles. Su familia le pidió que siguiera en su puesto para poder mantenerse económicamente, sin embargo decidió dar un paso adelante a pesar de los riesgos que acarrearía su mala situación económica, puesto que acabó perdiendo su casa y el coche',TO_DATE('28-7-1703','DD-MM-YYYY'),5);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(995,2995,'flacos corredores','2horas 45minutos','BoJack Horsemg para la plataforma digital Netflix. Trata la historia de BoJack, un caballo antropomorfo que triunfó en los años 1990 con una telecomedia y que actualmente es incapaz de reconducir su vida profesional y personal. A través de un marco ambientado en el mundo del espectáculo de Hollywood, los episodios abordan complejos conflictos personales y tienen un hilo narrativo serializado',TO_DATE('11-9-1834','DD-MM-YYYY'),9);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(996,2996,'asesinos mejores','0horas 18minutos','El Sunnyv rivalidades y la delincuencia están al orden del día pero en la que también es posible formar una familia, tener amigos y encontrar el amor... siempre y cuando tenga uno claro que la familia le va a hacer la vida imposible, el amor le va a amargar la existencia y los amigos acabarán por llevarle a la tumba.',TO_DATE('5-11-1841','DD-MM-YYYY'),0);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(997,2997,'mario pocajontas','0horas 4minutos','Peterstralia, Nueva Zelanda, Irlanda, Afganistán, Suecia, Sudáfrica, India, el Caribe, Filipinas, Vietnam, China, Hong Kong, Sri Lanka, Singapur, los Emiratos Árabes Unidos, Baréin, Jordania, Noruega, Líbano, Omán y Malasia, entre otros',TO_DATE('11-9-1898','DD-MM-YYYY'),8);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(998,2998,'pocos peques','3horas 43minutos','Desste segmento para hablar de las llamadas tendencias de moda entre los jóvenes, tales como pipas de agua, el vino, el marketing de guerrilla y los videojuegos. El 22 de marzo de 2007, Demetri hizo otra aparición en The Daily Show, hablando acerca de la demanda de Viacom contra Google y YouTube',TO_DATE('17-10-1711','DD-MM-YYYY'),1);
+INSERT INTO capitulosDocumentales (id,idDocumental,nombre,duracion,descripcion,fechaEstreno,numeroCapitulo) VALUES(999,2999,'amigos amigos','4horas 52minutos','En  convirtió en un especial de televisión británica en 2004. Desde 2003 hasta 2004, Martin escribió para Late Night with Conan O Brien. En 2004, Martin tenía su propio Comedy Central Presents Stand-up especial. Su especial se divide en tres partes. En la primera, se realiza en forma tradicional stand-up',TO_DATE('27-11-1760','DD-MM-YYYY'),3);
 
 ---ACTORES---
-INSERT INTO Actores(id,nombre,apellido,fechaNacimiento,fechaFallecimiento,sexo) VALUES ();
+---INSERT INTO Actores(id,nombre,apellido,fechaNacimiento,fechaFallecimiento,sexo) VALUES ();---
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(0,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(1,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(2,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(3,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(4,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(5,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(6,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(7,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(8,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(9,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(10,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(11,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(12,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(13,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(14,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(15,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(16,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(17,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(18,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(19,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(20,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(21,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(22,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(23,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(24,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(25,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(26,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(27,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(28,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(29,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(30,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(31,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(32,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(33,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(34,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(35,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(36,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(37,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(38,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(39,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(40,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(41,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(42,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(43,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(44,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(45,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(46,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(47,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(48,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(49,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(50,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(51,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(52,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(53,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(54,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(55,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(56,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(57,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(58,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(59,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(60,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(61,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(62,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(63,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(64,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(65,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(66,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(67,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(68,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(69,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(70,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(71,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(72,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(73,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(74,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(75,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(76,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(77,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(78,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(79,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(80,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(81,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(82,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(83,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(84,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(85,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(86,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(87,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(88,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(89,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(90,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(91,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(92,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(93,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(94,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(95,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(96,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(97,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(98,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(99,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(100,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(101,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(102,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(103,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(104,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(105,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(106,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(107,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(108,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(109,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(110,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(111,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(112,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(113,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(114,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(115,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(116,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(117,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(118,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(119,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(120,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(121,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(122,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(123,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(124,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(125,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(126,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(127,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(128,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(129,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(130,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(131,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(132,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(133,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(134,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(135,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(136,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(137,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(138,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(139,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(140,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(141,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(142,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(143,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(144,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(145,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(146,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(147,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(148,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(149,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(150,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(151,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(152,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(153,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(154,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(155,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(156,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(157,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(158,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(159,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(160,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(161,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(162,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(163,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(164,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(165,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(166,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(167,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(168,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(169,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(170,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(171,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(172,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(173,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(174,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(175,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(176,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(177,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(178,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(179,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(180,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(181,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(182,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(183,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(184,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(185,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(186,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(187,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(188,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(189,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(190,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(191,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(192,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(193,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(194,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(195,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(196,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(197,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(198,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(199,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(200,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(201,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(202,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(203,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(204,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(205,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(206,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(207,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(208,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(209,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(210,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(211,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(212,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(213,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(214,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(215,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(216,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(217,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(218,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(219,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(220,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(221,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(222,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(223,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(224,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(225,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(226,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(227,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(228,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(229,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(230,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(231,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(232,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(233,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(234,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(235,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(236,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(237,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(238,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(239,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(240,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(241,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(242,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(243,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(244,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(245,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(246,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(247,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(248,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(249,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(250,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(251,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(252,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(253,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(254,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(255,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(256,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(257,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(258,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(259,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(260,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(261,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(262,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(263,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(264,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(265,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(266,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(267,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(268,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(269,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(270,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(271,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(272,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(273,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(274,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(275,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(276,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(277,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(278,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(279,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(280,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(281,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(282,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(283,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(284,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(285,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(286,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(287,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(288,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(289,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(290,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(291,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(292,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(293,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(294,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(295,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(296,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(297,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(298,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(299,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(300,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(301,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(302,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(303,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(304,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(305,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(306,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(307,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(308,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(309,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(310,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(311,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(312,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(313,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(314,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(315,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(316,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(317,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(318,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(319,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(320,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(321,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(322,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(323,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(324,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(325,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(326,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(327,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(328,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(329,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(330,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(331,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(332,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(333,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(334,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(335,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(336,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(337,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(338,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(339,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(340,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(341,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(342,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(343,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(344,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(345,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(346,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(347,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(348,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(349,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(350,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(351,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(352,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(353,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(354,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(355,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(356,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(357,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(358,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(359,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(360,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(361,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(362,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(363,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(364,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(365,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(366,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(367,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(368,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(369,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(370,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(371,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(372,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(373,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(374,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(375,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(376,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(377,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(378,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(379,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(380,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(381,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(382,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(383,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(384,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(385,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(386,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(387,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(388,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(389,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(390,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(391,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(392,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(393,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(394,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(395,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(396,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(397,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(398,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(399,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(400,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(401,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(402,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(403,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(404,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(405,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(406,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(407,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(408,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(409,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(410,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(411,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(412,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(413,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(414,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(415,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(416,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(417,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(418,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(419,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(420,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(421,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(422,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(423,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(424,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(425,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(426,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(427,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(428,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(429,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(430,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(431,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(432,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(433,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(434,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(435,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(436,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(437,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(438,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(439,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(440,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(441,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(442,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(443,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(444,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(445,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(446,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(447,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(448,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(449,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(450,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(451,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(452,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(453,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(454,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(455,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(456,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(457,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(458,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(459,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(460,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(461,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(462,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(463,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(464,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(465,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(466,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(467,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(468,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(469,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(470,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(471,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(472,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(473,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(474,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(475,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(476,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(477,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(478,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(479,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(480,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(481,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(482,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(483,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(484,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(485,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(486,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(487,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(488,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(489,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(490,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(491,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(492,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(493,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(494,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(495,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(496,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(497,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(498,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(499,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(500,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(501,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(502,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(503,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(504,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(505,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(506,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(507,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(508,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(509,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(510,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(511,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(512,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(513,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(514,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(515,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(516,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(517,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(518,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(519,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(520,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(521,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(522,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(523,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(524,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(525,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(526,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(527,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(528,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(529,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(530,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(531,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(532,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(533,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(534,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(535,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(536,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(537,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(538,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(539,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(540,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(541,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(542,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(543,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(544,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(545,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(546,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(547,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(548,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(549,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(550,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(551,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(552,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(553,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(554,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(555,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(556,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(557,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(558,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(559,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(560,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(561,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(562,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(563,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(564,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(565,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(566,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(567,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(568,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(569,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(570,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(571,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(572,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(573,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(574,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(575,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(576,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(577,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(578,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(579,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(580,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(581,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(582,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(583,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(584,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(585,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(586,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(587,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(588,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(589,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(590,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(591,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(592,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(593,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(594,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(595,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(596,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(597,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(598,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(599,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(600,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(601,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(602,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(603,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(604,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(605,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(606,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(607,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(608,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(609,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(610,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(611,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(612,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(613,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(614,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(615,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(616,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(617,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(618,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(619,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(620,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(621,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(622,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(623,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(624,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(625,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(626,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(627,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(628,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(629,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(630,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(631,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(632,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(633,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(634,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(635,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(636,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(637,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(638,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(639,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(640,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(641,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(642,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(643,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(644,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(645,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(646,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(647,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(648,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(649,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(650,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(651,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(652,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(653,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(654,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(655,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(656,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(657,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(658,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(659,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(660,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(661,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(662,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(663,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(664,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(665,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(666,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(667,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(668,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(669,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(670,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(671,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(672,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(673,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(674,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(675,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(676,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(677,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(678,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(679,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(680,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(681,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(682,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(683,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(684,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(685,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(686,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(687,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(688,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(689,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(690,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(691,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(692,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(693,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(694,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(695,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(696,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(697,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(698,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(699,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(700,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(701,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(702,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(703,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(704,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(705,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(706,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(707,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(708,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(709,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(710,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(711,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(712,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(713,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(714,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(715,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(716,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(717,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(718,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(719,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(720,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(721,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(722,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(723,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(724,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(725,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(726,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(727,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(728,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(729,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(730,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(731,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(732,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(733,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(734,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(735,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(736,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(737,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(738,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(739,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(740,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(741,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(742,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(743,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(744,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(745,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(746,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(747,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(748,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(749,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(750,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(751,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(752,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(753,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(754,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(755,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(756,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(757,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(758,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(759,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(760,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(761,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(762,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(763,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(764,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(765,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(766,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(767,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(768,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(769,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(770,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(771,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(772,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(773,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(774,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(775,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(776,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(777,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(778,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(779,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(780,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(781,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(782,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(783,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(784,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(785,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(786,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(787,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(788,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(789,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(790,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(791,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(792,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(793,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(794,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(795,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(796,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(797,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(798,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(799,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(800,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(801,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(802,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(803,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(804,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(805,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(806,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(807,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(808,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(809,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(810,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(811,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(812,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(813,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(814,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(815,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(816,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(817,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(818,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(819,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(820,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(821,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(822,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(823,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(824,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(825,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(826,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(827,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(828,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(829,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(830,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(831,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(832,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(833,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(834,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(835,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(836,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(837,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(838,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(839,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(840,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(841,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(842,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(843,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(844,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(845,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(846,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(847,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(848,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(849,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(850,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(851,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(852,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(853,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(854,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(855,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(856,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(857,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(858,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>gualdron</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(859,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(860,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(861,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(862,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(863,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(864,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(865,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(866,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(867,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(868,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(869,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(870,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(871,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(872,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(873,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(874,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(875,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(876,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(877,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>13</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(878,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(879,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(880,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(881,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(882,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(883,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(884,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(885,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(886,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(887,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(888,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(889,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(890,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(891,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(892,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(893,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(894,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(895,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(896,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(897,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(898,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(899,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(900,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(901,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(902,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(903,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(904,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(905,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(906,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(907,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(908,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(909,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(910,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(911,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(912,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(913,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(914,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(915,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(916,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(917,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(918,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(919,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(920,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>28</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(921,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(922,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(923,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(924,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(925,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>29</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(926,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(927,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(928,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(929,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>7</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(930,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(931,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>2</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(932,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(933,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(934,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(935,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(936,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(937,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(938,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(939,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(940,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>felipe</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(941,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(942,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(943,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(944,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(945,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>26</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(946,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(947,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(948,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(949,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>9</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(950,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(951,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>michael</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(952,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(953,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(954,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>12</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(955,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(956,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(957,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(958,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(959,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(960,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniel</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(961,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(962,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(963,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(964,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>carlos</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(965,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>23</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(966,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(967,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>1</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(968,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(969,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(970,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(971,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>rozo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(972,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(973,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>6</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(974,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(975,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>22</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(976,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>16</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(977,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>21</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(978,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>sebastian</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>24</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(979,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>daniela</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>3</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(980,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>angelica</nombre>
+<apellido>vivas</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(981,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(982,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>14</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(983,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>15</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(984,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>cesar</nombre>
+<apellido>lewandowsky</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(985,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>flores</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(986,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>andres</nombre>
+<apellido>gualdron</apellido>
+<fechaNacimiento>20</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(987,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>palacios</apellido>
+<fechaNacimiento>4</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(988,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>pablo</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(989,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>richard</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>19</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(990,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>josefina</nombre>
+<apellido>molano</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(991,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>10</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(992,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>diana</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>17</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(993,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>8</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(994,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>ernesto</nombre>
+<apellido>diaz</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(995,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>maldonado</apellido>
+<fechaNacimiento>11</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(996,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>fabiola</nombre>
+<apellido>rodriguez</apellido>
+<fechaNacimiento>27</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(997,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>yeisson</nombre>
+<apellido>cuadrado</apellido>
+<fechaNacimiento>5</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(998,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>jairo</nombre>
+<apellido>pereira</apellido>
+<fechaNacimiento>18</fechaNacimiento>
+<sexo>femenino</sexo>
+</detalle>');
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES(999,null,
+'<?xml version="1.0"?>
+<detalle>
+<nombre>robert</nombre>
+<apellido>lindo</apellido>
+<fechaNacimiento>25</fechaNacimiento>
+<sexo>masculino</sexo>
+</detalle>');
+
+
 
 ---ACTUA---
-INSERT INTO Actua(idActor,idMultimedia,personaje) VALUES ();
+---INSERT INTO Actua(idActor,idMultimedia,personaje) VALUES ();---
 
 ---PREMIOS_ACTORES---
-INSERT INTO PremiosActores(id,nombre,categoriaPremio,idActor) VALUES ();
+---INSERT INTO PremiosActores(id,nombre,categoriaPremio,idActor) VALUES ();---
 
 ---USUARIOS---
-INSERT INTO Usuarios(correo,nombre,fechaNacimiento) VALUES ();
+---INSERT INTO Usuarios(correo,nombre,fechaNacimiento) VALUES ();---
 
 ---SOLICITUDES---
-INSERT INTO Solicitudes(id,titulo) VALUES ();
+---INSERT INTO Solicitudes(id,titulo) VALUES ();---
 
 ---SOLICITA---
-INSERT INTO Solicita(idSolicitud,idUsuario) VALUES ();
+---INSERT INTO Solicita(idSolicitud,idUsuario) VALUES ();---
 
 ---PLANES---
-INSERT INTO Planes(id,nombre) VALUES ();
+---INSERT INTO Planes(id,nombre) VALUES ();---
 
 ---SUSCRIPCIONES---
-INSERT INTO Suscripciones(id,nombre,numeroPlantillas,idUsuario,idPlan,activa) VALUES ();
+---INSERT INTO Suscripciones(id,nombre,numeroPlantillas,idUsuario,idPlan,activa) VALUES ();---
 
 ---DEFINICION_VISTAS---
-INSERT INTO DefinicionVistas(nombre,idSuscripcion) VALUES ();
+---INSERT INTO DefinicionVistas(nombre,idSuscripcion) VALUES ();---
 
 ---PLANTILLAS---
-INSERT INTO Plantillas(id,fechaNacimiento,nombre,idSuscripcion) VALUES ();
+---INSERT INTO Plantillas(id,fechaNacimiento,nombre,idSuscripcion) VALUES ();---
 
 ---OBSERVA---
-INSERT INTO Observa(idMultimedia,idPlantilla,fecha,vistaCompleta) VALUES ();
+---INSERT INTO Observa(idMultimedia,idPlantilla,fecha,vistaCompleta) VALUES ();---
