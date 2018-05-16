@@ -4,36 +4,26 @@ ALTER TABLE Categorias
 	ADD CONSTRAINT PK_categorias PRIMARY KEY (id);
 ALTER TABLE CategoriasMultimedias 
 	ADD CONSTRAINT PK_categoriasM PRIMARY KEY (idCategoria,idMultimedia);
-ALTER TABLE InfoPremiosMultimedia 
-	ADD CONSTRAINT PK_inf_premiosM PRIMARY KEY (id);
 ALTER TABLE PremiosMultimedia 
-	ADD CONSTRAINT PK_premiosM PRIMARY KEY (idPremio,idMultimedia);
+	ADD CONSTRAINT PK_premiosM PRIMARY KEY (id,idMultimedia);
 ALTER TABLE Series 
 	ADD CONSTRAINT PK_series PRIMARY KEY (id);
 ALTER TABLE Temporadas 
 	ADD CONSTRAINT PK_temporadas PRIMARY KEY (id,idSerie);
-ALTER TABLE InfoTemporadas 
-	ADD CONSTRAINT PK_inf_temporadas PRIMARY KEY (idTemporada);
 ALTER TABLE CapitulosSeries 
-	ADD CONSTRAINT PK_capSeries PRIMARY KEY (id,idTemporada);
-ALTER TABLE InfoCapitulosSeries 
-	ADD CONSTRAINT PK_inf_capSeries PRIMARY KEY (idCapitulo);
+	ADD CONSTRAINT PK_capSeries PRIMARY KEY (id,idTemporada,idSerie);
 ALTER TABLE Documentales 
 	ADD CONSTRAINT PK_documentales PRIMARY KEY (id);
 ALTER TABLE CapitulosDocumentales 
 	ADD CONSTRAINT PK_capDoc PRIMARY KEY (id,idDocumental);
-ALTER TABLE InfoCapitulosDocumentales 
-	ADD CONSTRAINT PK_inf_capDoc PRIMARY KEY (idCapitulo);
 ALTER TABLE Directores 
 	ADD CONSTRAINT PK_directores PRIMARY KEY(id);
 ALTER TABLE Actua 
-	ADD CONSTRAINT PK_actua PRIMARY KEY(idMultimedia,idActor);
+	ADD CONSTRAINT PK_actua PRIMARY KEY(idActor,idMultimedia);
 ALTER TABLE Actores 
 	ADD CONSTRAINT PK_actores PRIMARY KEY (id);
-ALTER TABLE InfoPremiosActores 
-	ADD CONSTRAINT PK_inf_premiosA PRIMARY KEY (id);
 ALTER TABLE PremiosActores 
-	ADD CONSTRAINT PK_premiosA PRIMARY KEY (idPremio,idActor);
+	ADD CONSTRAINT PK_premiosA PRIMARY KEY (id,idActor);
 ALTER TABLE Observa 
 	ADD CONSTRAINT PK_observa PRIMARY KEY (idMultimedia,idPlantilla);
 ALTER TABLE Plantillas 
