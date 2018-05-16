@@ -1,7 +1,7 @@
 CREATE TABLE Multimedias(id NUMBER NOT NULL,
 						nombre VARCHAR(3000) NOT NULL,
 						calificacion NUMBER(2,1) NOT NULL,
-						duracion NUMBER(6,2) NOT NULL,
+						duracion VARCHAR(20) NOT NULL,
 						idDirector NUMBER NOT NULL,
 						sinopsis VARCHAR(4000) NOT NULL,
 						fechaEstreno DATE NOT NULL);
