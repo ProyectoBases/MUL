@@ -265,9 +265,9 @@ def capitulosDocumentales():
 
 def actores():
     for i in range(1000):
-        detalle = "\n\'<?xml version=\"1.0\"?>\n<detalle>\n<nombre>"+nombres[random.randrange(len(nombres))]+"</nombre>\n<apellido>"+apellidos[random.randrange(len(apellidos))]+"</apellido>\n<fechaNacimiento>"+str(random.randrange(1,30))+"</fechaNacimiento>\n<sexo>"+generos[random.randrange(len(generos))]+"</sexo>\n</detalle>"
+        detalle = "\n\'<?xml version=\"1.0\"?>\n<detalle>\n<nombre>"+nombres[random.randrange(len(nombres))]+"</nombre>\n<apellido>"+apellidos[random.randrange(len(apellidos))]+"</apellido>\n<fechaNacimiento>"+str(random.randrange(1,30))+"/"+str(random.randrange(1,13))+"/"+str(random.randrange(1700,2000))+"</fechaNacimiento>\n<sexo>"+generos[random.randrange(len(generos))]+"</sexo>\n</detalle>"
         print("INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES("+str(i)+","+"null"+","+detalle+"\');")
-
+actores()
 
 def actua():
     for i in range(1000):
@@ -369,7 +369,7 @@ def observa():
     for i in range(1000):
         print("INSERT INTO observa (idMultimedia,idPlantilla,fecha,vistaCompleta) VALUES("+str(random.randrange(idMultimedia))+","+str(random.randrange(idPlantilla))+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+","+str(random.randrange(0,1))+");")
 
-observa()
+
 
 
         
