@@ -7,10 +7,7 @@ ALTER TABLE CategoriasMultimedias ADD CONSTRAINT FK_categoriasM2
 ALTER TABLE CategoriasMultimedias ADD CONSTRAINT FK_categoriasM1 
 	FOREIGN KEY (idCategoria) REFERENCES Categorias(id);
 	
-ALTER TABLE PremiosMultimedia ADD CONSTRAINT FK_premiosM1
-	FOREIGN KEY (idPremio) REFERENCES InfoPremiosMultimedia(id);
-	
-ALTER TABLE PremiosMultimedia ADD CONSTRAINT FK_premiosM2 
+ALTER TABLE PremiosMultimedia ADD CONSTRAINT FK_premiosM
 	FOREIGN KEY (idMultimedia) REFERENCES Multimedias(id);
 
 ALTER TABLE Series ADD CONSTRAINT FK_series 
@@ -18,24 +15,15 @@ ALTER TABLE Series ADD CONSTRAINT FK_series
 
 ALTER TABLE Temporadas ADD CONSTRAINT FK_temporada 
 	FOREIGN KEY (idSerie) REFERENCES Series(id);
-	
-ALTER TABLE InfoTemporadas ADD CONSTRAINT FK_infTemp 
-	FOREIGN KEY (idTemporada) REFERENCES Temporadas(id);
 
 ALTER TABLE CapitulosSeries ADD CONSTRAINT FK_capSeries
-	FOREIGN KEY (idTemporada) REFERENCES Temporadas(id);
-
-ALTER TABLE InfoCapitulosSeries ADD CONSTRAINT FK_inf_capSeries 
-	FOREIGN KEY (idCapitulo) REFERENCES CapitulosSeries(id);
+	FOREIGN KEY (idTemporada,idSerie) REFERENCES Temporadas(id,idSerie);
 	
 ALTER TABLE Documentales ADD CONSTRAINT FK_documentales 
 	FOREIGN KEY (id) REFERENCES Multimedias(id);
 
 ALTER TABLE CapitulosDocumentales ADD CONSTRAINT FK_capDoc
 	FOREIGN KEY (idDocumental) REFERENCES Documentales(id);
-
-ALTER TABLE InfoCapitulosDocumentales ADD CONSTRAINT FK_inf_capDoc 
-	FOREIGN KEY (idCapitulo) REFERENCES CapitulosDocumentales(id);
 	
 ALTER TABLE Actua ADD CONSTRAINT FK_actua1
 	FOREIGN KEY (idMultimedia) REFERENCES Multimedias(id);
@@ -43,10 +31,7 @@ ALTER TABLE Actua ADD CONSTRAINT FK_actua1
 ALTER TABLE Actua ADD CONSTRAINT FK_actua2
 	FOREIGN KEY (idActor) REFERENCES Actores(id);
 	
-ALTER TABLE PremiosActores ADD CONSTRAINT FK_premA1
-	FOREIGN KEY (idPremio) REFERENCES InfoPremiosActores(id);
-	
-ALTER TABLE PremiosActores ADD CONSTRAINT FK_premA2
+ALTER TABLE PremiosActores ADD CONSTRAINT FK_premA
 	FOREIGN KEY (idActor) REFERENCES Actores(id);
 	
 ALTER TABLE Observa ADD CONSTRAINT FK_observa1 
