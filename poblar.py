@@ -1,3 +1,5 @@
+
+
 from sys import stdin
 import random
 
@@ -84,7 +86,7 @@ personajes = ["principal","secundario","reparto"]
 generos = ["masculino","femenino"]
 
 idMultimedia = 178
-idDirector = 99
+idDirector = 1000
 idSeries = 999
 idDocumentales = 999
 idActor = 999
@@ -94,15 +96,16 @@ idSuscripcion = 495
 idPlantilla=990
 
 def directores():
-    x = stdin.readline().strip().split()
+    # x = stdin.readline().strip().split()
     cont = 0
-    while len(x)!=0:
-        stdin.readline().strip()
-        nombre = x[1]
-        apellido = x[2]
-        print("INSERT INTO directores VALUES("+str(cont)+","+"\'"+nombre+"\'"+","+"\'"+apellido+"\'"+","+str(random.randrange(5))+");")
+    for i in range(1001):
+        # stdin.readline().strip()
+        # nombre = x[1]
+        # apellido = x[2]
+        print("INSERT INTO directores (id,nombre,apellido,calificacion) VALUES("+str(cont)+","+"\'"+nombres[random.randrange(len(nombres))]+"\'"+","+"\'"+apellidos[random.randrange(len(apellidos))]+"\'"+","+str(random.randrange(5))+");")
         cont +=1        
-        x = stdin.readline().strip().split()
+        # x = stdin.readline().strip().split()
+directores()
 
 def multimedias():
     x = stdin.readline().strip()
@@ -286,7 +289,7 @@ def plantillas():
 def observa():
     for i in range(1000):
         print("INSERT INTO observa VALUES("+str(random.randrange(idMultimedia))+","+str(random.randrange(idPlantilla))+","+"TO_DATE("+"\'"+str(random.randrange(1,29))+"-"+str(random.randrange(1,12))+"-"+str(random.randrange(1700,2000))+"\'"+","+"\'DD-MM-YYYY\')"+","+str(random.randrange(0,1))+");")
-observa()
+
 
 
 
