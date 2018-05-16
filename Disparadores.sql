@@ -269,28 +269,7 @@ SELECT SYSDATE INTO fech FROM DUAL;
 :NEW.fecha := fech;
 END;
 /
-/*AUTOMATIZAR NUMERO CAPITULOS DOCUMENTALES*/
-
-/*AUTOMATIZAR NUMERO TEMPORADAS SERIES*/
-
-
-
-/*SETS NULL*/
-
-/*CREATE OR REPLACE TRIGGER MultimediasSetNull
-AFTER DELETE ON directores
-FOR EACH ROW
-BEGIN
-UPDATE multimedias SET idDirector = null WHERE idDirector = :OLD.id;
-END;
-/
-CREATE OR REPLACE TRIGGER suscripcionesSetNull
-BEFORE DELETE ON planes
-FOR EACH ROW
-BEGIN
-UPDATE suscripciones SET idPlan = null WHERE idPlan = :OLD.id;
-END;
-/*/
+/**/
 
 
 

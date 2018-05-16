@@ -5036,998 +5036,998 @@ INSERT INTO categorias (id,nombre) VALUES(14,'música');
 ---CATEGORIAS_MULTIMEDIAS---
 ---INSERT INTO CategoriasMultimedias(idCategoria,idMultimedia) VALUES ();---
 
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2267)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,163)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,837)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1909)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,898)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2743)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1603)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,211)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1472)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2931)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1137)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,836)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1647)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2769)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2588)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,532)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2767)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2332)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2523)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1673)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2330)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,331)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1792)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,286)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2571)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2139)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,439)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,130)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2628)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2163)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2856)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,854)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,32)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,205)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,500)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2383)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1035)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2817)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1638)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1387)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1967)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,641)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,597)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,955)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,74)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2686)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,160)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2072)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,973)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2755)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1833)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,67)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,158)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1165)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2988)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1640)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2079)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2088)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1578)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,939)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2090)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2419)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2207)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1863)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,953)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2187)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2121)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2458)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,356)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1831)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,151)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,5)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,843)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1431)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1282)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,579)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1706)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1430)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1828)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1020)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1553)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2575)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,514)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,455)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1526)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1233)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,965)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1346)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2268)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1862)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1000)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,398)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,519)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,338)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2213)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1259)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,948)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2982)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,729)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,86)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,92)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1487)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,195)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1525)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2923)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1450)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2842)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1741)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2455)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1185)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2850)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2810)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,168)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,244)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2233)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1605)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1594)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1848)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,587)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2287)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2711)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,817)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,982)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,851)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1959)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,915)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2282)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,689)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2714)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2995)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2669)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,678)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,588)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2065)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2061)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1185)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1544)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1616)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2759)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1440)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2692)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1160)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2134)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2110)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2343)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,236)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,472)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,941)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2338)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1470)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,242)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1561)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2126)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1992)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1333)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1653)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,981)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1192)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,130)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,174)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1929)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,73)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2633)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2340)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1691)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1919)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2852)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2274)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2278)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,298)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,139)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,262)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,534)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,593)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,116)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1178)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1704)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2904)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2594)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1634)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,401)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2997)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,795)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,886)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1868)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1486)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1211)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2727)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1615)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1022)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2671)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,513)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1703)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,207)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,267)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,519)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,611)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2686)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2997)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2750)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,150)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1713)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1248)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,764)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,390)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1454)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2964)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,779)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,907)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,979)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,570)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,639)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2138)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1010)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,277)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,285)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,959)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1484)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1317)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2084)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2414)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,190)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1272)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1442)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1031)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1199)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,860)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2745)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2948)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,395)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,328)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,468)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1940)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2862)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1836)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2949)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2092)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,70)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,895)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,799)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,631)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,38)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1779)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,861)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,372)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2479)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,846)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1410)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2649)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2912)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2706)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2294)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2718)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1219)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,889)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1780)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1345)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2237)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,223)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2339)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2779)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1347)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,959)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,44)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,168)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1863)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2361)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,798)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,61)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1179)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2677)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,442)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1957)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2973)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,584)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2956)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1864)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2410)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1145)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1874)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2608)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1154)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2140)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,91)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2209)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1341)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,341)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,583)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1701)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,777)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2879)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2313)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2820)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,237)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2874)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,833)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1814)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1783)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,941)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2366)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1665)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2498)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1607)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1724)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1845)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1340)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2356)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2078)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,399)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1047)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1742)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2733)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1614)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2713)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,369)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1771)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,726)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,760)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1874)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1922)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,513)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,738)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1239)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2295)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1240)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,40)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2084)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2102)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1883)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,638)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1478)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,373)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2334)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,94)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,976)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2851)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,189)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,741)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2904)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1280)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1965)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,179)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2580)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,148)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1606)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1563)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1888)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,89)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1077)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,186)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1189)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,837)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1817)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,514)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2993)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1945)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,804)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1032)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1313)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2902)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2388)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,446)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,665)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,465)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,76)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,451)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1096)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1270)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2459)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2797)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1247)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,944)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1484)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1607)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,831)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2915)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1737)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,396)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,0)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1688)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1682)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1876)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,954)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,537)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2228)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2856)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2801)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1249)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2486)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1157)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,532)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2184)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1310)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1479)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,150)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1959)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1053)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,343)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2075)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1476)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,422)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1639)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1583)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,114)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1434)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1913)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2210)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2489)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2175)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1866)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2068)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1371)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,748)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1017)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1493)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,85)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,635)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1952)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,591)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2969)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,362)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,544)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,906)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2635)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,911)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,508)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2707)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,265)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2224)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,660)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2920)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,663)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,602)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2216)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,826)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1245)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,385)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1915)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1307)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2718)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2671)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,735)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2592)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,635)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1971)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,404)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,870)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1695)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1516)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,913)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,607)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1627)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2479)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2807)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,221)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1034)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1386)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,595)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1165)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2681)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,79)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2543)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,636)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1858)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,222)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2481)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2598)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2749)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1412)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,226)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1843)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2333)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1389)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1766)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2135)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2992)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2502)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1166)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,413)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,723)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1837)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1405)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2843)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2523)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2585)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,668)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,839)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,908)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1842)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,679)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2277)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,301)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,797)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2384)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,905)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2917)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2282)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1846)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,120)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2985)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1741)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,197)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1012)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1235)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1432)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2733)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1715)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1833)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1199)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,231)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2017)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,381)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2518)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1362)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2319)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2013)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,418)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2870)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2051)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1953)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2552)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1744)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1016)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1126)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2930)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,989)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1864)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,335)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,113)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,877)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2156)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1221)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2290)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,10)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2836)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1360)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2330)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2690)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1239)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2255)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1287)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1719)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2219)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,164)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1351)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2378)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2175)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2804)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1421)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,601)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,30)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,23)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1838)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2200)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2598)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1351)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,918)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2899)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2305)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,568)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,899)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2895)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1395)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1473)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,90)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1943)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1262)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,910)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,682)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2895)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1234)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2397)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,695)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,195)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1424)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1498)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,796)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,282)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2104)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,425)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2201)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,832)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1558)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1289)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2709)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,947)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,38)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,852)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,642)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,719)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2917)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,75)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1092)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2389)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1256)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,971)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1739)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,714)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1298)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,8)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,679)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1651)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1882)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1814)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,630)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1966)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2420)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1386)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1214)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,606)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2490)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1013)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2032)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,675)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,439)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1768)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,985)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,4)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2694)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1586)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,544)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1298)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2348)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,832)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2212)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1769)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,215)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,241)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1737)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,890)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2013)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,381)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,398)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2993)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2989)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2494)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,81)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1612)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2347)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,669)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1055)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2685)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2535)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1432)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,882)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2080)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1053)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,752)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2511)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2623)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,839)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1039)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,549)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1452)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2211)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,818)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2018)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1486)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1626)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,387)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,558)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2557)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2701)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,112)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,388)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1270)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1801)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1587)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2146)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2057)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,888)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1467)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1219)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2016)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2808)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2196)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,985)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2673)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2980)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,432)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,7)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1263)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1741)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1901)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,497)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1568)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2373)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,57)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2728)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2541)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2534)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1967)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,36)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1480)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2082)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2024)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2344)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2189)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1670)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,628)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,522)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2900)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1283)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1652)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2084)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1037)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2432)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1837)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,293)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1984)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,910)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2169)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2392)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2715)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2654)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,151)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2348)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1617)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,916)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,35)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1111)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,796)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,459)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1073)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1727)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,543)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1080)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,187)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2357)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1416)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2369)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,798)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2724)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,999)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,247)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,555)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1186)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2336)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2975)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2193)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,794)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,228)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1472)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2449)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,520)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2790)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,20)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2771)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2696)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1089)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1687)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,954)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2736)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1090)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,823)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2882)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2617)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1884)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,891)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1126)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2931)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1356)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,734)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,313)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1266)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1350)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1398)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,600)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1114)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,673)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1278)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2994)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2517)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,604)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2083)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,196)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1831)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,434)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2309)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2752)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2072)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1876)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1210)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2831)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,569)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,765)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,304)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1839)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2382)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,523)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,550)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,664)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,644)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1912)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2719)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1309)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,180)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1009)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,491)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2114)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1137)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,426)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2084)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2180)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2805)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,539)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2272)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,937)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1198)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,915)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2203)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1439)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,35)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2752)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2299)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2148)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2995)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1199)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2995)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2107)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2484)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2175)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1178)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,547)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2642)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1930)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2465)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,525)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1943)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2139)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,2137)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2967)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,194)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,122)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,340)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,280)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2015)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2393)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2094)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2518)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1185)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,21)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2847)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1611)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1443)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1389)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1632)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,740)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1177)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1372)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1185)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1156)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1363)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1173)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2668)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,704)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1893)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1273)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,499)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2813)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2842)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,2419)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,156)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1325)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,2981)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1384)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1203)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2371)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2453)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2968)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1908)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1216)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2221)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,2938)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2645)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,613)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1184)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,26)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1445)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,836)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1191)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,29)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,508)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,703)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,106)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,916)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2866)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,162)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2611)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1095)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,333)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,283)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2998)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1427)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2973)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,1456)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,934)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,895)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,331)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1211)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2603)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1182)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,1763)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1596)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,323)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2404)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2514)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1503)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2437)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,209)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2734)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2021)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,1815)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,578)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,1430)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,485)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,2797)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1143)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,363)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,859)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,87)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1857)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2436)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1574)
-INSERT INTO (idCategoria,idMultimedia) VALUES (13,984)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1345)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2589)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2502)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2504)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,231)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,1654)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,317)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2064)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,2871)
-INSERT INTO (idCategoria,idMultimedia) VALUES (6,453)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,2310)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1509)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,942)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,873)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,140)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,2285)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,598)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,418)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1764)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,2597)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,1768)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,468)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,518)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2533)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,469)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1960)
-INSERT INTO (idCategoria,idMultimedia) VALUES (5,3)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2513)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,1077)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1424)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,795)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2791)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2631)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,660)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2630)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,2992)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,634)
-INSERT INTO (idCategoria,idMultimedia) VALUES (10,647)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,1973)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,2701)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,1660)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1621)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,642)
-INSERT INTO (idCategoria,idMultimedia) VALUES (11,80)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,1972)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1683)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,2732)
-INSERT INTO (idCategoria,idMultimedia) VALUES (2,234)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,2733)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2171)
-INSERT INTO (idCategoria,idMultimedia) VALUES (9,2547)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,356)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1123)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,604)
-INSERT INTO (idCategoria,idMultimedia) VALUES (0,226)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,948)
-INSERT INTO (idCategoria,idMultimedia) VALUES (1,305)
-INSERT INTO (idCategoria,idMultimedia) VALUES (3,1215)
-INSERT INTO (idCategoria,idMultimedia) VALUES (4,1093)
-INSERT INTO (idCategoria,idMultimedia) VALUES (8,168)
-INSERT INTO (idCategoria,idMultimedia) VALUES (7,1440)
-INSERT INTO (idCategoria,idMultimedia) VALUES (12,1053)
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1002);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,517);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1422);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2459);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2433);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,269);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1054);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,563);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2759);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1044);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,246);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2013);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,965);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,60);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,335);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2023);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2501);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1726);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1455);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2109);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,297);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,981);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1650);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,162);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,801);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,281);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2124);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1629);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1740);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2915);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2307);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2520);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,815);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,994);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1601);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,419);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,882);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,716);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,280);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1820);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2091);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,965);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,838);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2223);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1395);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,500);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,642);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2188);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1417);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1790);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,798);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1091);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1019);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1440);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,277);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1489);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1519);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1092);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1375);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,614);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2481);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,595);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2477);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2245);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1485);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,519);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,102);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1936);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1115);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1499);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,685);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1307);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,719);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,479);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1384);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1126);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2333);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2103);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1266);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1650);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,245);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1757);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2996);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2474);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2719);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2558);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,910);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1912);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,546);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2255);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2254);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,730);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,678);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2511);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,589);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,725);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,872);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1516);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1389);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,289);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1775);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1482);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,246);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1779);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2088);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2177);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,392);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,755);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2863);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,335);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2070);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,490);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1373);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,640);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2135);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2711);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1568);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,303);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,31);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,592);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,777);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,728);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,295);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,673);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,365);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,739);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2269);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,808);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,282);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1964);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1052);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,707);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,615);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2401);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1600);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1951);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1328);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,480);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,756);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,652);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2155);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,297);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1195);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2314);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2250);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,135);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1099);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1395);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2378);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2953);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,395);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1189);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1312);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2522);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1556);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2029);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,67);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,753);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1857);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1795);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2331);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2980);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1207);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2419);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,348);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2400);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,524);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,408);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2203);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2734);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2036);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2711);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1189);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1124);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2545);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,241);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2596);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2681);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,744);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,871);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,635);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2560);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1896);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,745);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2988);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,519);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1883);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,431);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,614);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1346);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2855);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2915);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,133);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1250);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,947);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1581);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2062);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,80);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,822);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1067);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2702);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2995);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1663);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,157);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2655);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2413);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2082);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1699);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,939);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1720);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2082);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1387);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1714);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1286);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,664);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2341);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1207);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,560);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1169);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,732);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1911);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,143);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1348);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,295);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,339);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1201);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2414);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2024);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2539);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1260);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1091);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,274);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1682);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1516);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,841);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1093);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,788);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,120);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1377);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,136);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2621);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,955);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,726);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,922);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2739);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2725);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2239);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,503);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1565);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2282);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,798);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2059);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,118);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,969);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1668);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2941);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,334);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1064);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1814);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,455);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,38);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2764);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,337);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2093);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1524);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,259);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1225);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,19);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2274);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1039);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1174);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1042);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2338);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2510);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1564);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,331);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1317);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,532);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,350);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2759);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,28);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1108);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2777);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2915);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1291);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1500);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2769);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1310);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,855);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2769);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,720);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2835);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1476);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,370);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1946);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2866);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2595);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1742);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2694);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,977);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2858);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1164);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1111);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1917);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1042);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2148);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1428);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1160);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2445);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,314);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,384);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2242);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1073);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1649);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1874);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2825);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,171);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,766);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,257);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,137);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,742);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1760);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1507);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,701);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1875);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2950);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2374);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1650);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,627);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,319);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,162);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,144);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,846);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2864);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,19);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,996);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,650);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,813);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2400);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1821);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,111);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1433);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2251);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2242);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,299);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1986);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1881);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2986);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,960);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2053);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,68);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2601);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,46);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2850);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2946);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,611);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,753);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,875);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2847);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1016);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,596);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,186);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,399);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2986);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2495);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,910);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1316);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2955);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,949);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2521);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1677);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2872);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1351);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,37);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2789);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1548);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1494);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1227);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2000);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1770);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1825);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,784);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1402);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,405);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2059);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2411);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2327);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1799);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1139);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,879);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2547);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2406);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,178);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1437);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,171);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1396);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2568);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2044);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2448);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2077);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1833);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1819);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,919);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,528);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,489);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2773);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,387);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2295);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1309);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,961);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,329);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2044);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2001);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,521);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,757);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2076);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,609);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2022);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1261);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,459);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1375);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1028);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1293);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2446);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2951);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2458);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2187);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1156);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,103);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2590);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,148);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2484);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2312);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2843);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,516);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,530);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1181);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2861);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,425);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1734);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2743);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1369);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,850);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1521);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1767);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1094);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2150);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,584);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1095);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,996);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2750);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2065);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2357);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,469);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,138);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1894);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2972);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1810);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,36);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1203);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2369);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2787);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1694);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,747);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2005);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1024);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,508);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2164);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1873);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2767);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1485);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1156);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2568);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2771);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1760);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,27);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2000);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2006);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,201);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,479);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,970);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2188);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1982);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2528);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1529);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1582);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,595);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1243);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2352);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1047);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2984);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1479);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2145);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2012);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,988);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2691);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,790);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1271);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1461);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1895);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2698);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2939);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1519);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1623);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2406);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,208);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1762);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1196);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,212);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,645);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,900);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1687);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2142);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,302);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2220);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2522);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1186);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2435);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,801);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1232);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1405);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2992);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1854);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2097);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,352);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1760);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2691);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,271);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,452);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,951);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1341);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,896);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1077);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,799);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,61);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2373);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1796);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,614);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2353);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2983);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,943);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1842);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,393);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,161);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1071);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,322);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1084);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2015);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1979);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1367);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1979);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,411);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,315);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,778);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1542);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,543);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2419);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2927);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,360);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2162);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1463);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,126);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1443);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,341);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,748);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1101);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1001);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2182);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2354);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1061);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2528);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1747);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1206);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1819);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1281);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,920);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2411);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1552);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2839);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1483);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2195);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1322);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1505);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,478);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2866);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,536);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2947);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,471);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2063);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2423);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,196);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,75);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2458);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2598);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2348);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1829);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2508);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2024);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2456);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,729);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1067);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1385);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,255);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2617);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,222);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1599);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,254);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2260);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1349);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,664);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,271);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2164);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1126);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,525);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1514);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1907);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,994);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1513);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,43);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,588);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,78);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2118);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1608);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1209);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,49);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2998);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2213);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,504);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,192);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1492);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1607);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2371);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2625);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,188);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1523);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2411);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2046);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2722);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1070);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2955);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,429);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1129);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2183);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2436);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,47);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2559);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,623);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1907);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1460);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,825);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2055);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,279);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,690);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2535);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,964);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2621);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1269);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,536);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,22);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1688);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2770);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,869);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,133);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,305);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1096);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1737);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2903);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2597);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1847);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,371);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2002);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2211);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1173);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2055);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2671);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,162);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1965);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,818);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1961);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,749);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2094);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1660);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2271);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,530);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1190);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,985);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2850);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2075);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1414);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,863);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,973);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1357);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2294);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1257);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2471);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2315);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2029);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2418);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1011);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,643);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2762);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2800);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,789);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2204);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1638);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,586);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2016);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2576);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2735);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1625);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1212);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,240);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1115);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1149);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1950);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1457);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1446);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,29);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1029);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2822);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,59);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,490);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1900);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,906);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1291);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1334);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,290);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,645);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1578);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,25);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2896);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2126);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1540);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,91);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2265);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,731);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2899);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2494);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2521);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2845);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1675);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1694);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,52);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2129);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1829);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2878);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2394);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,851);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1791);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1343);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2019);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,360);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2924);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,299);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,196);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1172);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2687);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1977);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,8);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2155);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,311);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2375);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2341);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1662);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2791);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,977);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2019);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1788);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1204);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,300);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,533);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,519);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,371);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2993);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,971);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,843);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,2879);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2296);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,724);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,67);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2062);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1296);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2435);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1532);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2700);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1156);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,350);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,481);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2051);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1915);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,829);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,445);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1482);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1058);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2244);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2815);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,632);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,924);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,854);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,16);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2111);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1258);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2835);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,665);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1383);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,115);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2932);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,669);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1433);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2080);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,516);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1213);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,547);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,955);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1043);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2083);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2110);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1795);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,203);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,309);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2275);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1475);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2072);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,861);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2896);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1533);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,732);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2611);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1694);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2544);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2776);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2840);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1366);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2028);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2745);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2061);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,703);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2829);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1480);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,937);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1655);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,325);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2636);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,447);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1718);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,970);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1203);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,392);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,847);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,928);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2358);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2161);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,158);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2825);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,579);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,823);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,326);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2461);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,816);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1243);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2060);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,302);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,553);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2821);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2163);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,755);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1542);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2791);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,901);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2895);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2767);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,854);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1451);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1893);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2839);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1959);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,594);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,899);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1401);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1905);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2625);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1068);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1131);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1132);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1701);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2228);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,957);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2921);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2716);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,67);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2323);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2448);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,442);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1474);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1097);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2827);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2646);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,2059);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2885);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1439);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1444);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,731);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1167);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1552);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,758);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2361);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1637);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2254);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1247);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,476);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1302);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1764);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1103);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,641);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,1275);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,348);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,59);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,700);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,813);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,1235);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,135);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2975);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,137);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1147);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,2145);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2716);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1291);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,681);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,1362);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,1785);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1201);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,149);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2237);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2805);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,680);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,471);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1513);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,962);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,2866);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2712);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,219);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,1221);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,712);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2439);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,2779);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,1996);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,2299);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,764);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,629);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2586);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,2525);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (3,1083);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1223);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,827);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,1689);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,3);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,946);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,947);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,830);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,2924);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,1543);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,100);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,2416);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,1951);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1019);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1069);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1476);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,866);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,842);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (7,717);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,626);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (1,2404);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,1896);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2381);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (5,2231);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (13,1371);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (6,2405);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (0,131);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,534);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (8,1951);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (9,606);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,746);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (12,441);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,2969);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (10,2813);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (4,38);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (2,589);
+INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES (11,1182);
+
+
 
 
 ---PELICULAS---
