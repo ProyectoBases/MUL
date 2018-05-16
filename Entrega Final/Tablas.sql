@@ -3,7 +3,7 @@ CREATE TABLE Multimedias(id NUMBER NOT NULL,
 						calificacion NUMBER(2,1) NOT NULL,
 						duracion NUMBER(6,2) NOT NULL,
 						idDirector NUMBER NOT NULL,
-						sinopsis VARCHAR(10000) NOT NULL,
+						sinopsis VARCHAR(4000) NOT NULL,
 						fechaEstreno DATE NOT NULL);
 
 CREATE TABLE Categorias(id NUMBER NOT NULL,
