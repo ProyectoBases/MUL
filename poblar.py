@@ -211,7 +211,8 @@ def categoriasMultimedias():
     dos = random.randrange(idMultimedia)
     if (uno,dos) not in repetidos:
       repetidos.add((uno,dos))
-      print("INSERT INTO (idCategoria,idMultimedia) VALUES ("+str(uno)+","+str(dos)+")")
+      print("INSERT INTO categoriasMultimedias (idCategoria,idMultimedia) VALUES ("+str(uno)+","+str(dos)+");")
+categoriasMultimedias()
 
 def premiosMultimedia():
     cont = 0
@@ -267,7 +268,6 @@ def actores():
     for i in range(1000):
         detalle = "\n\'<?xml version=\"1.0\"?>\n<detalle>\n<nombre>"+nombres[random.randrange(len(nombres))]+"</nombre>\n<apellido>"+apellidos[random.randrange(len(apellidos))]+"</apellido>\n<fechaNacimiento>"+str(random.randrange(1,30))+"/"+str(random.randrange(1,13))+"/"+str(random.randrange(1700,2000))+"</fechaNacimiento>\n<sexo>"+generos[random.randrange(len(generos))]+"</sexo>\n</detalle>"
         print("INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES("+str(i)+","+"null"+","+detalle+"\');")
-actores()
 
 def actua():
     for i in range(1000):
