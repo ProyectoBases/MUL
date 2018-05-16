@@ -46,7 +46,7 @@ CREATE TABLE CapitulosDocumentales(id NUMBER NOT NULL,
 CREATE TABLE Directores(id NUMBER NOT NULL,
 						nombre VARCHAR(300) NOT NULL,
 						apellido VARCHAR(300) NOT NULL,
-						calificacion NUMBER(5,1) NOT NULL);
+						calificacion NUMBER(2,1) NOT NULL);
 						
 CREATE TABLE Actua(idActor NUMBER NOT NULL,
 					idMultimedia NUMBER NOT NULL,
