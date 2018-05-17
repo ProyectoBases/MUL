@@ -136,7 +136,6 @@ DECLARE numero NUMBER;
 BEGIN
 SELECT MAX(id)+1 INTO numero FROM directores;
 IF numero IS NULL THEN
-/*RAISE_APPLICATION_ERROR(-20000, 'paila');*/
 :NEW.id := 0;
 ELSE
 :NEW.id := numero;
@@ -269,29 +268,55 @@ SELECT SYSDATE INTO fech FROM DUAL;
 :NEW.fecha := fech;
 END;
 /
-/*AUTOMATIZAR NUMERO CAPITULOS DOCUMENTALES*/
-
-/*AUTOMATIZAR NUMERO TEMPORADAS SERIES*/
 
 
-
-/*SETS NULL*/
-
-/*CREATE OR REPLACE TRIGGER MultimediasSetNull
-AFTER DELETE ON directores
+CREATE OR REPLACE TRIGGER fechaTem
+BEFORE INSERT ON temporadas
 FOR EACH ROW
+DECLARE
+num NUMBER;
+fecha DATE;
 BEGIN
-UPDATE multimedias SET idDirector = null WHERE idDirector = :OLD.id;
+SELECT fechaEstreno INTO fecha FROM multimedias WHERE id = :NEW.idSerie;
+SELECT COUNT(*) INTO num FROM temporadas WHERE idSerie = :NEW.idSerie;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fecha;
+END IF;
+:NEW.numeroTemporada := num+1;
 END;
 /
-CREATE OR REPLACE TRIGGER suscripcionesSetNull
-BEFORE DELETE ON planes
-FOR EACH ROW
-BEGIN
-UPDATE suscripciones SET idPlan = null WHERE idPlan = :OLD.id;
-END;
-/*/
 
+CREATE OR REPLACE TRIGGER fechaCapSe
+BEFORE INSERT ON capitulosSeries
+FOR EACH ROW
+DECLARE
+num NUMBER;
+fecha DATE;
+BEGIN
+SELECT fechaEstreno INTO fecha FROM temporadas WHERE idSerie = :NEW.idSerie AND id = :NEW.idTemporada;
+SELECT COUNT(*) INTO num FROM capitulosSeries WHERE idSerie = :NEW.idSerie AND idTemporada = :NEW.idTemporada;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fecha;
+END IF;
+:NEW.numeroCapitulo := num+1;
+END;
+/
+
+CREATE OR REPLACE TRIGGER fechaCapDo
+BEFORE INSERT ON capitulosDocumentales
+FOR EACH ROW
+DECLARE
+num NUMBER;
+fecha DATE;
+BEGIN
+SELECT fechaEstreno INTO fecha FROM multimedias WHERE id = :NEW.idDocumental;
+SELECT COUNT(*) INTO num FROM capitulosDocumentales WHERE idDocumental = :NEW.idDocumental;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fecha;
+END IF;
+:NEW.numeroCapitulo := num+1;
+END;
+/
 
 
 
