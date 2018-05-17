@@ -1,8 +1,0 @@
-<!DOCTYPE detalle[
-    <!ELEMENT detalle (nombre,apellido,fechaNacimiento,sexo)>
-    <!ELEMENT nombre (#PCDATA)>
-    <!ELEMENT apellido (#PCDATA)>
-    <!ELEMENT fechaNacimiento (#PCDATA)>
-    <!ELEMENT sexo (#PCDATA)>
-	
-    ]>
