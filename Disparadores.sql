@@ -269,8 +269,55 @@ SELECT SYSDATE INTO fech FROM DUAL;
 :NEW.fecha := fech;
 END;
 /
-/**/
+/*automatizar fecha estreno temporadas*/
 
+CREATE OR REPLACE TRIGGER fechaTemporadas
+BEFORE INSERT ON temporadas
+FOR EACH ROW
+DECLARE 
+fech DATE;
+num NUMBER;
+BEGIN
+SELECT fechaEstreno INTO fech FROM multimedias WHERE :NEW.idSerie = id;
+SELECT COUNT(*) INTO num FROM temporadas WHERE idSerie = :NEW.idSerie;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fech;
+:NEW.numeroTemporada := 1;
+END IF;
+END;
+/
+
+/*automatizar capitulosSeries*/
+CREATE OR REPLACE TRIGGER fechaCapitulosSe
+BEFORE INSERT ON capitulosSeries
+FOR EACH ROW
+DECLARE 
+fech DATE;
+num NUMBER;
+BEGIN
+SELECT fechaEstreno INTO fech FROM multimedias WHERE :NEW.idSerie = id;
+SELECT COUNT(*) INTO num FROM capitulosSeries WHERE idSerie = :NEW.idSerie AND idTemporada = :NEW.idTemporada;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fech;
+END IF;
+END;
+/
+/*automatizar fechaEstreno capitulosDocumentales*/
+CREATE OR REPLACE TRIGGER fechaCapitulosDO
+BEFORE INSERT ON capitulosDocumentales
+FOR EACH ROW
+DECLARE 
+fech DATE;
+num NUMBER;
+BEGIN
+SELECT fechaEstreno INTO fech FROM multimedias WHERE :NEW.idDocumental = id;
+SELECT COUNT(*) INTO num FROM capitulosDocumentales WHERE idDocumental = :NEW.idDocumental;
+IF (num = 0) THEN
+:NEW.fechaEstreno := fech;
+:NEW.numeroCapitulo := 1;
+END IF;
+END;
+/
 
 
 
