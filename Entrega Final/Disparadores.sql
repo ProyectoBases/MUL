@@ -49,21 +49,6 @@ EXCEPTION WHEN NO_DATA_FOUND THEN
 END;
 /
 
-/*CREATE OR REPLACE TRIGGER idSeries
-BEFORE INSERT ON series
-FOR EACH ROW
-DECLARE numero NUMBER;
-BEGIN
-SELECT MAX(id)+1 INTO numero FROM series;
-IF numero IS NULL THEN
-:NEW.id := 0;
-ELSE
-:NEW.id := numero;
-END IF;
-EXCEPTION WHEN NO_DATA_FOUND THEN
-:NEW.id := 0;
-END;
-/*/
 
 CREATE OR REPLACE TRIGGER idTemporadas
 BEFORE INSERT ON temporadas
@@ -97,21 +82,7 @@ EXCEPTION WHEN NO_DATA_FOUND THEN
 END;
 /
 
-/*CREATE OR REPLACE TRIGGER idDocumentales
-BEFORE INSERT ON documentales
-FOR EACH ROW
-DECLARE numero NUMBER;
-BEGIN
-SELECT MAX(id)+1 INTO numero FROM documentales;
-IF numero IS NULL THEN
-:NEW.id := 0;
-ELSE
-:NEW.id := numero;
-END IF;
-EXCEPTION WHEN NO_DATA_FOUND THEN
-:NEW.id := 0;
-END;
-/*/
+
 
 CREATE OR REPLACE TRIGGER idCapitulosDoc
 BEFORE INSERT ON capitulosDocumentales
@@ -242,21 +213,7 @@ EXCEPTION WHEN NO_DATA_FOUND THEN
 END;
 /
 
-/*CREATE OR REPLACE TRIGGER idPeliculas
-BEFORE INSERT ON peliculas
-FOR EACH ROW
-DECLARE numero NUMBER;
-BEGIN
-SELECT MAX(id)+1 INTO numero FROM peliculas;
-IF numero IS NULL THEN
-:NEW.id := 0;
-ELSE
-:NEW.id := numero;
-END IF;
-EXCEPTION WHEN NO_DATA_FOUND THEN
-:NEW.id := 0;
-END;
-/*/
+
 
 /*AUTOMATIZAR FECHAS*/
 CREATE OR REPLACE TRIGGER fechaObserva
@@ -317,10 +274,51 @@ END IF;
 :NEW.numeroCapitulo := num+1;
 END;
 /
+/*VERIFICAR NO REPETICION DE PELICULAR EN SERIES O DOCUMENTALES*/
 
+CREATE OR REPLACE TRIGGER verPelicula
+BEFORE INSERT ON peliculas
+FOR EACH ROW
+DECLARE
+series NUMBER;
+documentales NUMBER;
+BEGIN
+SELECT COUNT(*) INTO series FROM series WHERE :NEW.id = id;
+SELECT COUNT(*) INTO documentales FROM documentales WHERE :NEW.id = id;
+IF (series > 0 OR documentales > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'El contenido ya existe como serie o documental');
+END IF;
+END;
+/
+CREATE OR REPLACE TRIGGER verSerie
+BEFORE INSERT ON series
+FOR EACH ROW
+DECLARE
+peliculas NUMBER;
+documentales NUMBER;
+BEGIN
+SELECT COUNT(*) INTO peliculas FROM peliculas WHERE :NEW.id = id;
+SELECT COUNT(*) INTO documentales FROM documentales WHERE :NEW.id = id;
+IF (peliculas > 0 OR documentales > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'El contenido ya existe como pelicula o documental');
+END IF;
+END;
+/
 
-
-
+CREATE OR REPLACE TRIGGER verDocumental
+BEFORE INSERT ON documentales
+FOR EACH ROW
+DECLARE
+series NUMBER;
+peliculas NUMBER;
+BEGIN
+SELECT COUNT(*) INTO series FROM series WHERE :NEW.id = id;
+SELECT COUNT(*) INTO peliculas FROM peliculas WHERE :NEW.id = id;
+IF (series > 0 OR peliculas > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'El contenido ya existe como serie o pelicula');
+END IF;
+END;
+/
 
 
 
