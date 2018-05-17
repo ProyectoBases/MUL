@@ -319,7 +319,54 @@ END IF;
 END;
 /
 
+/*no se permite a un contenido multimedia que sea pelicula, serie o documental al tiempo*/
 
+CREATE OR REPLACE TRIGGER serieControl
+BEFORE INSERT ON series
+FOR EACH ROW
+DECLARE
+peliculas NUMBER;
+documentales NUMBER;
+BEGIN
+SELECT COUNT(*) INTO peliculas FROM peliculas WHERE id = :NEW.id;
+SELECT COUNT(*) INTO documentales FROM documentales WHERE id = :NEW.id;
+IF (peliculas > 0 OR documentales > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'el contenido ya existe como pelicula o documental');
+END IF;
+END;
+/
+
+
+CREATE OR REPLACE TRIGGER peliculaControl
+BEFORE INSERT ON peliculas
+FOR EACH ROW
+DECLARE
+series NUMBER;
+documentales NUMBER;
+BEGIN
+SELECT COUNT(*) INTO series FROM series WHERE id = :NEW.id;
+SELECT COUNT(*) INTO documentales FROM documentales WHERE id = :NEW.id;
+IF (series > 0 OR documentales > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'el contenido ya existe como serie o documental');
+END IF;
+END;
+/
+
+
+CREATE OR REPLACE TRIGGER documentalControl
+BEFORE INSERT ON documentales
+FOR EACH ROW
+DECLARE
+peliculas NUMBER;
+series NUMBER;
+BEGIN
+SELECT COUNT(*) INTO peliculas FROM peliculas WHERE id = :NEW.id;
+SELECT COUNT(*) INTO series FROM series WHERE id = :NEW.id;
+IF (peliculas > 0 OR series > 0) THEN
+RAISE_APPLICATION_ERROR(-20000, 'el contenido ya existe como pelicula o serie');
+END IF;
+END;
+/
 
 
 
