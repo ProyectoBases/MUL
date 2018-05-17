@@ -319,6 +319,24 @@ RAISE_APPLICATION_ERROR(-20000, 'El contenido ya existe como serie o pelicula');
 END IF;
 END;
 /
+/*NO SE PERMITE ELIMINAR DIRECTORES*/
+CREATE OR REPLACE TRIGGER eliminarDirector
+BEFORE DELETE ON directores
+FOR EACH ROW
+BEGIN
+RAISE_APPLICATION_ERROR(-20000,'No se permite eliminar directores');
+END;
+/
+/*no se eliminan las suscripciones*/
+
+CREATE OR REPLACE TRIGGER eliminarSuscripciones
+BEFORE DELETE ON suscripciones
+FOR EACH ROW
+BEGIN
+UPDATE suscripciones SET activa = 0 WHERE :NEW.id = id;
+RAISE_APPLICATION_ERROR(-20000, 'la suscripcion quedo inactiva');
+END;
+/
 
 
 

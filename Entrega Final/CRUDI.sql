@@ -89,6 +89,16 @@ ROLLBACK;
 RAISE_APPLICATION_ERROR(-20000, 'no se pudo actualizar el capitulo del documental');
 END Modificar_capDoc;
 
+PROCEDURE Eliminar_multimedia (id NUMBER) AS
+BEGIN
+DELETE FROM multimedias WHERE id=id;
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo eliminar la multimedia');
+END Eliminar_multimedia;
+
 FUNCTION Consultar_multimedia RETURN SYS_REFCURSOR IS mult SYS_REFCURSOR;
 BEGIN
 OPEN mult FOR
@@ -139,6 +149,26 @@ ROLLBACK;
 RAISE_APPLICATION_ERROR(-20000, 'no se pudo insertar el director');
 END Adicionar_director;
 
+PROCEDURE Modificar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER) AS
+BEGIN
+UPDATE directores SET nombre = nombre, apellido = apellido, calificacion = calificacion WHERE id = id;
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo actualizar el director');
+END Modificar_director;
+
+PROCEDURE Eliminar_director (id NUMBER) AS
+BEGIN
+DELETE FROM directores WHERE id = id;
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo eliminar el director');
+END Eliminar_director;
+
 FUNCTION Consultar_director RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
 BEGIN
 OPEN direc FOR
@@ -147,9 +177,42 @@ RETURN(direc);
 END Consultar_director;
 
 END PC_DIRECTOR;
+/
+
+CREATE OR REPLACE PACKAGE BODY PC_ACTOR AS
+PROCEDURE Adicionar_actor (id NUMBER,fechaFallecimiento DATE, detalle XMLTYPE) AS
+BEGIN
+INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES (id,fechaFallecimiento,detalle);
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo adicionar el actor');
+END Adicionar_actor;
+
+PROCEDURE Adicionar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCHAR) AS
+BEGIN
+INSERT INTO actua (idActor,idMultimedia,personaje) VALUES (idActor,idMultimedia,personaje);
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo adicionar actua');
+END Adicionar_actua;
+
+PROCEDURE Actualizar_actor(id NUMBER,fechaFallecimiento DATE,detalle XMLTYPE) AS
+BEGIN
+UPDATE actores SET fechaFallecimiento = fechaFallecimiento, detalle = detalle WHERE id = id;
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+ROLLBACK;
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo actualizar actor');
+END Actualizar_actor;
 
 
 
+END PC_ACTOR;
 
 
 
