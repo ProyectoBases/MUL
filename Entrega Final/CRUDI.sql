@@ -26,8 +26,17 @@ COMMIT;
 EXCEPTION
 WHEN OTHERS THEN
 ROLLBACK;
-RAISE_APPLICATION_ERROR(-20000, 'no se pudo adicionar la serie');
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo adicionar la temporada');
 END Adicionar_temporada;
+
+PROCEDURE Adicionar_pelicula (id NUMBER) AS
+BEGIN
+INSERT INTO peliculas (id) VALUES (id);
+COMMIT;
+EXCEPTION
+WHEN OTHERS THEN
+RAISE_APPLICATION_ERROR(-20000, 'no se pudo agregar la pelicula.');
+END Adicionar_pelicula;
 
 PROCEDURE Adicionar_documental (id NUMBER) AS
 BEGIN
@@ -250,6 +259,7 @@ FUNCTION Mostrar_actua RETURN SYS_REFCURSOR IS actu SYS_REFCURSOR;
 BEGIN
 OPEN actu FOR
 SELECT personaje FROM actua;
+RETURN(actu);
 END Mostrar_actua;
 
 END PC_ACTOR;

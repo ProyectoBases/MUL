@@ -5,6 +5,7 @@
 CREATE OR REPLACE PACKAGE PC_MULTIMEDIA AS
 PROCEDURE Adicionar_multimedia (id NUMBER,nombre VARCHAR,calificacion NUMBER,duracion VARCHAR,idDirector NUMBER, sinopsis VARCHAR, fechaEstreno DATE);
 PROCEDURE Adicionar_serie (id NUMBER);
+PROCEDURE Adicionar_pelicula(id NUMBER);
 PROCEDURE Adicionar_temporada (id NUMBER,idSerie NUMBER ,fechaEstreno DATE,numeroTemporada NUMBER);
 PROCEDURE Adicionar_capSeri (id NUMBER,idTemporada NUMBER,idSerie NUMBER,nombre VARCHAR,duracion VARCHAR,descripcion VARCHAR,fechaEstreno DATE,numeroCapitulo NUMBER);
 PROCEDURE Adicionar_documental (id NUMBER);
