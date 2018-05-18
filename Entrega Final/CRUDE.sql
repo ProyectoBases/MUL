@@ -19,10 +19,10 @@ PROCEDURE Modificar_capDoc (id NUMBER,idDocumental NUMBER, nombre VARCHAR, durac
 PROCEDURE Eliminar_multimedia (id NUMBER);
 
 
-FUNCTION Consultar_multimedia RETURN SYS_REFCURSOR;
-FUNCTION Consultar_series RETURN SYS_REFCURSOR;
-FUNCTION Consultar_peliculas RETURN SYS_REFCURSOR;
-FUNCTION Consultar_documental RETURN SYS_REFCURSOR;
+FUNCTION Consultar_multimedia (id NUMBER) RETURN SYS_REFCURSOR;
+FUNCTION Consultar_series (numero NUMBER) RETURN SYS_REFCURSOR;
+FUNCTION Consultar_peliculas (numero NUMBER) RETURN SYS_REFCURSOR;
+FUNCTION Consultar_documental (numero NUMBER) RETURN SYS_REFCURSOR;
 END PC_multimedia;
 /
 
@@ -31,7 +31,8 @@ CREATE OR REPLACE PACKAGE PC_DIRECTOR AS
 PROCEDURE Adicionar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER);
 PROCEDURE Modificar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER);
 
-FUNCTION Consultar_director RETURN SYS_REFCURSOR;
+FUNCTION Consultar_director (numero NUMBER) RETURN SYS_REFCURSOR;
+FUNCTION Consultar_multimedia_director (numeroDirector NUMBER) RETURN SYS_REFCURSOR;
 END PC_DIRECTOR;
 /
 
@@ -48,8 +49,8 @@ PROCEDURE Actualizar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCH
 PROCEDURE Eliminar_actor (id NUMBER,fechaFallecimiento DATE,detalle XMLTYPE);
 PROCEDURE Eliminar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCHAR);
 
-FUNCTION Mostrar_actor RETURN XMLTYPE;
-FUNCTION Mostrar_actua RETURN SYS_REFCURSOR;
+FUNCTION Mostrar_actor (numero NUMBER) RETURN XMLTYPE;
+FUNCTION Mostrar_actua (numero NUMBER) RETURN SYS_REFCURSOR;
 
 END PC_ACTOR;
 /

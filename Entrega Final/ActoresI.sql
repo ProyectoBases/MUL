@@ -108,37 +108,67 @@ ROLLBACK;
 RAISE_APPLICATION_ERROR(-20000, 'no se pudo eliminar la multimedia');
 END Eliminar_multimedia;
 
-FUNCTION Consultar_multimedia RETURN SYS_REFCURSOR IS mult SYS_REFCURSOR;
+FUNCTION Consultar_multimedia (id NUMBER) RETURN SYS_REFCURSOR IS mult SYS_REFCURSOR;
 BEGIN
+IF id IS NULL THEN
 OPEN mult FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno FROM multimedias;
+ELSE
+OPEN mult FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno FROM multimedias WHERE id = id;
+END IF;
 RETURN(mult);
 END Consultar_multimedia;
 
-FUNCTION Consultar_series RETURN SYS_REFCURSOR IS ser SYS_REFCURSOR;
+FUNCTION Consultar_series (numero NUMBER) RETURN SYS_REFCURSOR IS ser SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN ser FOR
-SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno 
-FROM multimedias,series
-WHERE multimedias.id = series.id;
+SELECT multimedias.nombre, COUNT(observa.idMultimedia),observa.idMultimedia
+FROM multimedias,observa,series 
+WHERE multimedias.id = series.id AND multimedias.id = observa.idMultimedia
+GROUP BY multimedias.nombre,observa.idMultimedia
+ORDER BY COUNT(observa.idMultimedia) DESC;
+ELSE
+OPEN ser FOR
+SELECT multimedias.nombre, COUNT(observa.idMultimedia),observa.idMultimedia
+FROM multimedias,observa,series 
+WHERE multimedias.id = series.id AND multimedias.id = observa.idMultimedia AND series.id = numero
+GROUP BY multimedias.nombre,observa.idMultimedia
+ORDER BY COUNT(observa.idMultimedia) DESC;
+END IF;
 RETURN(ser);
 END Consultar_series;
 
-FUNCTION Consultar_peliculas RETURN SYS_REFCURSOR IS pel SYS_REFCURSOR;
+FUNCTION Consultar_peliculas (numero NUMBER) RETURN SYS_REFCURSOR IS pel SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN pel FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
 FROM multimedias,peliculas
 WHERE multimedias.id = peliculas.id;
+ELSE
+OPEN pel FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
+FROM multimedias,peliculas
+WHERE multimedias.id = peliculas.id AND peliculas.id = numero;
+END IF;
 RETURN(pel);
 END Consultar_peliculas;
 
-FUNCTION Consultar_documental RETURN SYS_REFCURSOR IS doc SYS_REFCURSOR;
+FUNCTION Consultar_documental (numero NUMBER) RETURN SYS_REFCURSOR IS doc SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN doc FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
 FROM multimedias,documentales
 WHERE multimedias.id = documentales.id;
+ELSE
+OPEN doc FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
+FROM multimedias,documentales
+WHERE multimedias.id = documentales.id AND documentales.id = numero;
+END IF;
 RETURN(doc);
 END Consultar_documental;
 
@@ -164,12 +194,32 @@ RAISE_APPLICATION_ERROR(-20000, 'no se pudo actualizar el director');
 END Modificar_director;
 
 
-FUNCTION Consultar_director RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
+FUNCTION Consultar_director (numero NUMBER) RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN direc FOR
 SELECT nombre,apellido,calificacion FROM directores;
+ELSE
+OPEN direc FOR
+SELECT nombre,apellido,calificacion FROM directores WHERE id = numero;
+END IF;
 RETURN(direc);
 END Consultar_director;
+
+FUNCTION Consultar_multimedia_director (numeroDirector NUMBER) RETURN SYS_REFCURSOR IS dir sys_refcursor;
+BEGIN
+IF numeroDirector IS NULL THEN
+OPEN dir FOR
+SELECT multimedias.nombre, multimedias.calificacion, multimedias.duracion, directores.nombre
+FROM multimedias,directores
+WHERE multimedias.idDirector = directores.id;
+ELSE
+OPEN dir FOR
+SELECT multimedias.nombre, multimedias.calificacion, multimedias.duracion, directores.nombre
+FROM multimedias,directores
+WHERE multimedias.idDirector = directores.id AND numeroDirector = directores.id;
+END IF;
+END Consultar_multimedia_director;
 
 
 PROCEDURE Adicionar_actor (id NUMBER,fechaFallecimiento DATE, detalle XMLTYPE) AS
@@ -232,16 +282,29 @@ ROLLBACK;
 RAISE_APPLICATION_ERROR(-20000, 'no se puede eliminar actua');
 END Eliminar_actua;
 
-FUNCTION Mostrar_actor RETURN XMLTYPE IS act XMLTYPE;
+FUNCTION Mostrar_actor (numero NUMBER) RETURN XMLTYPE IS act XMLTYPE;
 BEGIN
+IF numero IS NULL THEN
 act := dbms_xmlgen.getxmltype('SELECT * FROM actores');
+ELSE
+act := dbms_xmlgen.getxmltype(CONCAT(CONCAT('SELECT * FROM actores WHERE ',numero),'=id'));
+END IF;
 RETURN act;
 END Mostrar_actor;
 
-FUNCTION Mostrar_actua RETURN SYS_REFCURSOR IS actu SYS_REFCURSOR;
+FUNCTION Mostrar_actua (numero NUMBER) RETURN SYS_REFCURSOR IS actu SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN actu FOR
-SELECT personaje FROM actua;
+SELECT multimedias.nombre,actua.personaje 
+FROM multimedias,actua
+WHERE multimedias.id = actua.idMultimedia;
+ELSE
+OPEN actu FOR
+SELECT multimedias.nombre,actua.personaje 
+FROM multimedias,actua
+WHERE multimedias.id = actua.idMultimedia AND numero = actua.idActor;
+END IF;
 RETURN(actu);
 END Mostrar_actua;
 
@@ -446,61 +509,122 @@ END PA_ADMINISTRADOR;
 
 CREATE OR REPLACE PACKAGE BODY PA_USUARIO AS
 
-FUNCTION Consultar_multimedia RETURN SYS_REFCURSOR IS mult SYS_REFCURSOR;
+FUNCTION Consultar_multimedia (id NUMBER) RETURN SYS_REFCURSOR IS mult SYS_REFCURSOR;
 BEGIN
+IF id IS NULL THEN
 OPEN mult FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno FROM multimedias;
+ELSE
+OPEN mult FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno FROM multimedias WHERE id = id;
+END IF;
 RETURN(mult);
 END Consultar_multimedia;
 
-
-
-FUNCTION Consultar_series RETURN SYS_REFCURSOR IS ser SYS_REFCURSOR;
+FUNCTION Consultar_series (numero NUMBER) RETURN SYS_REFCURSOR IS ser SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN ser FOR
-SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno 
-FROM multimedias,series
-WHERE multimedias.id = series.id;
+SELECT multimedias.nombre, COUNT(observa.idMultimedia),observa.idMultimedia
+FROM multimedias,observa,series 
+WHERE multimedias.id = series.id AND multimedias.id = observa.idMultimedia
+GROUP BY multimedias.nombre,observa.idMultimedia
+ORDER BY COUNT(observa.idMultimedia) DESC;
+ELSE
+OPEN ser FOR
+SELECT multimedias.nombre, COUNT(observa.idMultimedia),observa.idMultimedia
+FROM multimedias,observa,series 
+WHERE multimedias.id = series.id AND multimedias.id = observa.idMultimedia AND series.id = numero
+GROUP BY multimedias.nombre,observa.idMultimedia
+ORDER BY COUNT(observa.idMultimedia) DESC;
+END IF;
 RETURN(ser);
 END Consultar_series;
 
-FUNCTION Consultar_peliculas RETURN SYS_REFCURSOR IS pel SYS_REFCURSOR;
+FUNCTION Consultar_peliculas (numero NUMBER) RETURN SYS_REFCURSOR IS pel SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN pel FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
 FROM multimedias,peliculas
 WHERE multimedias.id = peliculas.id;
+ELSE
+OPEN pel FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
+FROM multimedias,peliculas
+WHERE multimedias.id = peliculas.id AND peliculas.id = numero;
+END IF;
 RETURN(pel);
 END Consultar_peliculas;
 
-FUNCTION Consultar_documental RETURN SYS_REFCURSOR IS doc SYS_REFCURSOR;
+FUNCTION Consultar_documental (numero NUMBER) RETURN SYS_REFCURSOR IS doc SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN doc FOR
 SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
 FROM multimedias,documentales
 WHERE multimedias.id = documentales.id;
+ELSE
+OPEN doc FOR
+SELECT nombre,calificacion,duracion,idDirector,sinopsis,fechaEstreno
+FROM multimedias,documentales
+WHERE multimedias.id = documentales.id AND documentales.id = numero;
+END IF;
 RETURN(doc);
 END Consultar_documental;
 
 
-FUNCTION Consultar_director RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
+FUNCTION Consultar_director (numero NUMBER) RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN direc FOR
 SELECT nombre,apellido,calificacion FROM directores;
+ELSE
+OPEN direc FOR
+SELECT nombre,apellido,calificacion FROM directores WHERE id = numero;
+END IF;
 RETURN(direc);
 END Consultar_director;
 
-
-FUNCTION Mostrar_actor RETURN XMLTYPE IS act XMLTYPE;
+FUNCTION Consultar_multimedia_director (numeroDirector NUMBER) RETURN SYS_REFCURSOR IS dir sys_refcursor;
 BEGIN
+IF numeroDirector IS NULL THEN
+OPEN dir FOR
+SELECT multimedias.nombre, multimedias.calificacion, multimedias.duracion, directores.nombre
+FROM multimedias,directores
+WHERE multimedias.idDirector = directores.id;
+ELSE
+OPEN dir FOR
+SELECT multimedias.nombre, multimedias.calificacion, multimedias.duracion, directores.nombre
+FROM multimedias,directores
+WHERE multimedias.idDirector = directores.id AND numeroDirector = directores.id;
+END IF;
+END Consultar_multimedia_director;
+
+
+FUNCTION Mostrar_actor (numero NUMBER) RETURN XMLTYPE IS act XMLTYPE;
+BEGIN
+IF numero IS NULL THEN
 act := dbms_xmlgen.getxmltype('SELECT * FROM actores');
+ELSE
+act := dbms_xmlgen.getxmltype(CONCAT(CONCAT('SELECT * FROM actores WHERE ',numero),'=id'));
+END IF;
 RETURN act;
 END Mostrar_actor;
 
-FUNCTION Mostrar_actua RETURN SYS_REFCURSOR IS actu SYS_REFCURSOR;
+FUNCTION Mostrar_actua (numero NUMBER) RETURN SYS_REFCURSOR IS actu SYS_REFCURSOR;
 BEGIN
+IF numero IS NULL THEN
 OPEN actu FOR
-SELECT personaje FROM actua;
+SELECT multimedias.nombre,actua.personaje 
+FROM multimedias,actua
+WHERE multimedias.id = actua.idMultimedia;
+ELSE
+OPEN actu FOR
+SELECT multimedias.nombre,actua.personaje 
+FROM multimedias,actua
+WHERE multimedias.id = actua.idMultimedia AND numero = actua.idActor;
+END IF;
 RETURN(actu);
 END Mostrar_actua;
 
