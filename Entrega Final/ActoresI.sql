@@ -173,6 +173,29 @@ RETURN(doc);
 END Consultar_documental;
 
 
+FUNCTION Consultar_observa (multimedia NUMBER, plantilla NUMBER) RETURN SYS_REFCURSOR IS ob SYS_REFCURSOR;
+BEGIN
+IF multimedia IS NULL AND plantilla IS NULL THEN
+OPEN ob FOR
+SELECT * FROM observa;
+ELSIF multimedia IS NULL AND plantilla IS NOT NULL THEN
+OPEN ob FOR
+SELECT multimedias.nombre FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idPlantilla = plantilla;
+ELSIF multimedia IS NOT NULL AND plantilla IS NULL THEN
+OPEN ob FOR
+SELECT plantillas.id,plantillas.nombre
+FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idMultimedia = multimedia;
+ELSE
+OPEN ob FOR
+SELECT multimedias.nombre, plantillas.nombre
+FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idMultimedia = multimedia AND observa.idPlantilla = plantilla;
+END IF;
+RETURN(ob);
+END Consultar_observa;
+
 PROCEDURE Adicionar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER) AS
 BEGIN
 INSERT INTO directores (id,nombre,apellido,calificacion) VALUES (id,nombre,apellido,calificacion);
@@ -627,6 +650,30 @@ WHERE multimedias.id = actua.idMultimedia AND numero = actua.idActor;
 END IF;
 RETURN(actu);
 END Mostrar_actua;
+
+
+FUNCTION Consultar_observa (multimedia NUMBER, plantilla NUMBER) RETURN SYS_REFCURSOR IS ob SYS_REFCURSOR;
+BEGIN
+IF multimedia IS NULL AND plantilla IS NULL THEN
+OPEN ob FOR
+SELECT * FROM observa;
+ELSIF multimedia IS NULL AND plantilla IS NOT NULL THEN
+OPEN ob FOR
+SELECT multimedias.nombre FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idPlantilla = plantilla;
+ELSIF multimedia IS NOT NULL AND plantilla IS NULL THEN
+OPEN ob FOR
+SELECT plantillas.id,plantillas.nombre
+FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idMultimedia = multimedia;
+ELSE
+OPEN ob FOR
+SELECT multimedias.nombre, plantillas.nombre
+FROM multimedias,observa,plantillas
+WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND observa.idMultimedia = multimedia AND observa.idPlantilla = plantilla;
+END IF;
+RETURN(ob);
+END Consultar_observa;
 
 
 

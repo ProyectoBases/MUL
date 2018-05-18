@@ -23,6 +23,7 @@ FUNCTION Consultar_multimedia (id NUMBER) RETURN SYS_REFCURSOR;
 FUNCTION Consultar_series (numero NUMBER) RETURN SYS_REFCURSOR;
 FUNCTION Consultar_peliculas (numero NUMBER) RETURN SYS_REFCURSOR;
 FUNCTION Consultar_documental (numero NUMBER) RETURN SYS_REFCURSOR;
+FUNCTION Consultar_observa (multimedia NUMBER, plantilla NUMBER) RETURN SYS_REFCURSOR;
 END PC_multimedia;
 /
 

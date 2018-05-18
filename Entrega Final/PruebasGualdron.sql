@@ -8,27 +8,24 @@ SELECT PA_USUARIO.Consultar_multimedia(null) FROM DUAL;
 
 /*LUEGO ESCOJO VER LA PRIMERA PELICULA QUE ENCUENTRO*/
 
-CALL PA_ADMINISTRADOR.Adicionar_observa(0,0,null,1);
+CALL PA_ADMINISTRADOR.Adicionar_observa(0,6,null,1);
 
 
 /*LUEGO QUIERO VER MI HISTORIAL DE VISTAS YA QUE TENGO GANAS DE VOLVER A VER UNA PELICULA LA CUAL NO RECUERDO EL NOMBRE*/
 
-SELECT multimedias.nombre 
-FROM multimedias, observa,plantillas 
-WHERE multimedias.id = observa.idMultimedia AND observa.idPlantilla = plantillas.id AND plantillas.id = 0;
+SELECT PA_USUARIO.CONSULTAR_OBSERVA(NULL,6) FROM DUAL;
+
 
 
 /*LUEGO QUIERO CONSULTAR LAS SERIES MAS VISTAS */
 
-SELECT multimedias.nombre, COUNT(observa.idMultimedia),observa.idMultimedia
-FROM multimedias,observa,series 
-WHERE multimedias.id = series.id AND multimedias.id = observa.idMultimedia
-GROUP BY multimedias.nombre,observa.idMultimedia
-ORDER BY COUNT(observa.idMultimedia) DESC;
+SELECT PA_USUARIO.CONSULTAR_SERIES(null) FROM DUAL;
+
 
 /*HE DECIDIDO VER LA PRIMERA QUE HE ENCONTRADO*/
 
-INSERT INTO observa (idMultimedia,idPlantilla,vistaCompleta) VALUES (1587,0,1);
+CALL PA_ADMINISTRADOR.Adicionar_observa(1587,6,null,1);
+
 
 /*ANTES DE TERMINAR QUIERO VER UN DOCUMENTAL, YA QUE HE ESCUCHADO QUE SE APRENDE MUCHO VIENDOLOS*/
 
@@ -36,12 +33,12 @@ INSERT INTO observa (idMultimedia,idPlantilla,vistaCompleta) VALUES (1587,0,1);
 
 /*ASÍ QUE PRIMERO LOS CONSULTARE PARA ESCOGER UNO*/
 
-SELECT multimedias.nombre,multimedias.id
-FROM multimedias,documentales
-WHERE multimedias.id = documentales.id;
+SELECT PA_USUARIO.CONSULTAR_DOCUMENTAL(null)FROM DUAL;
+
 
 /*HE DECIDIDO OBSERVAR EL DOCUMENTAL CON EL NOMBRE FLACOS COLEGAS*/
 
-INSERT INTO OBSERVA (idMultimedia,idPlantilla,vistaCompleta) VALUES (2020,0,1);
+CALL PA_ADMINISTRADOR.Adicionar_observa(2020,6,null,1);
+
 
 /*FIN*/
