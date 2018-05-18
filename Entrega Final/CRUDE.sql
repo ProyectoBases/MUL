@@ -43,9 +43,49 @@ PROCEDURE Adicionar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCHA
 
 
 PROCEDURE Actualizar_actor (id NUMBER,fechaFallecimiento DATE,detalle XMLTYPE);
+PROCEDURE Actualizar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCHAR);
 
+PROCEDURE Eliminar_actor (id NUMBER,fechaFallecimiento DATE,detalle XMLTYPE);
+PROCEDURE Eliminar_actua (idActor NUMBER, idMultimedia NUMBER, personaje VARCHAR);
+
+FUNCTION Mostrar_actor RETURN XMLTYPE;
+FUNCTION Mostrar_actua RETURN SYS_REFCURSOR;
 
 END PC_ACTOR;
+/
+
+---MANTENER SUSCRIPCION---
+CREATE OR REPLACE PACKAGE PC_SUSCRIPCION AS
+PROCEDURE Adicionar_observa (idMultimedia NUMBER, idPlantilla NUMBER, fecha DATE,vistaCompleta NUMBER);
+PROCEDURE Adicionar_plantilla (id NUMBER,fechaNacimiento DATE,nombre VARCHAR,idSuscripcion NUMBER);
+PROCEDURE Adicionar_suscripcion (id NUMBER,nombre VARCHAR,numeroPlantillas NUMBER, idUsuario VARCHAR, idPlan NUMBER,activa NUMBER);
+PROCEDURE Adicionar_usuario (correo VARCHAR,nombre VARCHAR,fechaNacimiento DATE);
+PROCEDURE Adicionar_solicitud (id NUMBER,titulo VARCHAR);
+PROCEDURE Adicionar_solicita (idSolicitud NUMBER,idUsuario VARCHAR);
+PROCEDURE Adicionar_plan (id NUMBER, nombre VARCHAR);
 
 
---MANTENER SUSCRIPCION--
+PROCEDURE Modificar_observa (idMultimedia NUMBER, idPlantilla NUMBER, fecha DATE,vistaCompleta NUMBER);
+PROCEDURE Modificar_plantilla (id NUMBER,fechaNacimiento DATE,nombre VARCHAR,idSuscripcion NUMBER);
+PROCEDURE Modificar_suscripcion (id NUMBER,nombre VARCHAR,numeroPlantillas NUMBER, idUsuario VARCHAR, idPlan NUMBER,activa NUMBER);
+PROCEDURE Modificar_usuario (correo VARCHAR,nombre VARCHAR,fechaNacimiento DATE);
+PROCEDURE Modificar_solicitud (id NUMBER,titulo VARCHAR);
+PROCEDURE Modificar_solicita (idSolicitud NUMBER,idUsuario VARCHAR);
+PROCEDURE Modificar_plan (id NUMBER, nombre VARCHAR);
+
+
+PROCEDURE Eliminar_observa (idMultimedia NUMBER, idPlantilla NUMBER);
+PROCEDURE Eliminar_plantilla (id NUMBER);
+PROCEDURE Eliminar_suscripcion (id NUMBER);
+PROCEDURE Eliminar_usuario (correo VARCHAR);
+PROCEDURE Eliminar_solicitud (id NUMBER);
+PROCEDURE Eliminar_solicita (idSolicitud NUMBER,idUsuario VARCHAR);
+PROCEDURE Eliminar_plan (id NUMBER);
+
+
+
+
+
+
+END PC_SUSCRIPCION;
+/
