@@ -168,15 +168,6 @@ ROLLBACK;
 RAISE_APPLICATION_ERROR(-20000, 'no se pudo actualizar el director');
 END Modificar_director;
 
-PROCEDURE Eliminar_director (id NUMBER) AS
-BEGIN
-DELETE FROM directores WHERE id = id;
-COMMIT;
-EXCEPTION
-WHEN OTHERS THEN
-ROLLBACK;
-RAISE_APPLICATION_ERROR(-20000, 'no se pudo eliminar el director');
-END Eliminar_director;
 
 FUNCTION Consultar_director RETURN SYS_REFCURSOR IS direc SYS_REFCURSOR;
 BEGIN

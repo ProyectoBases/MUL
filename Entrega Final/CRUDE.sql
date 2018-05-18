@@ -30,7 +30,6 @@ END PC_multimedia;
 CREATE OR REPLACE PACKAGE PC_DIRECTOR AS
 PROCEDURE Adicionar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER);
 PROCEDURE Modificar_director (id NUMBER, nombre VARCHAR, apellido VARCHAR, calificacion NUMBER);
-PROCEDURE Eliminar_director (id NUMBER);
 
 FUNCTION Consultar_director RETURN SYS_REFCURSOR;
 END PC_DIRECTOR;
