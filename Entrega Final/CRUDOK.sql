@@ -4,11 +4,11 @@ END;
 /
 
 
-SELECT PC_MULTIMEDIA.Consultar_multimedia FROM DUAL;
+SELECT PC_MULTIMEDIA.Consultar_multimedia(null) FROM DUAL;
 
-SELECT PC_ACTOR.Mostrar_actua FROM DUAL;
+SELECT PC_ACTOR.Mostrar_actua(null) FROM DUAL;
 
-SELECT PC_MULTIMEDIA.Consultar_series FROM DUAL;
+SELECT PC_MULTIMEDIA.Consultar_series(null) FROM DUAL;
 
 
 
