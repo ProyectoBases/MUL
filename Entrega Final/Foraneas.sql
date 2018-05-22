@@ -50,7 +50,7 @@ ALTER TABLE Suscripciones ADD CONSTRAINT FK_suscrip2
 	FOREIGN KEY (idPlan) REFERENCES Planes(id);
 	
 ALTER TABLE DefinicionVistas ADD CONSTRAINT FK_defVistas
-	FOREIGN KEY (idSuscripcion) REFERENCES Suscripciones(id);
+	FOREIGN KEY (idPlan) REFERENCES Planes(id);
 	
 ALTER TABLE Solicita ADD CONSTRAINT FK_solicita1
 	FOREIGN KEY (idSolicitud) REFERENCES Solicitudes(id);
