@@ -31,7 +31,7 @@ ALTER TABLE Plantillas
 ALTER TABLE Suscripciones 
 	ADD CONSTRAINT PK_suscripc PRIMARY KEY (id);
 ALTER TABLE DefinicionVistas 
-	ADD CONSTRAINT PK_defV PRIMARY KEY (nombre,idSuscripcion);
+	ADD CONSTRAINT PK_defV PRIMARY KEY (nombre,idPlan);
 ALTER TABLE Usuarios 
 	ADD CONSTRAINT PK_usuarios PRIMARY KEY (correo);
 ALTER TABLE Solicitudes 
