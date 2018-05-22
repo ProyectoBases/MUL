@@ -73,13 +73,12 @@ CREATE TABLE Plantillas(id NUMBER NOT NULL,
 
 CREATE TABLE Suscripciones(id NUMBER NOT NULL,
 						nombre VARCHAR(300) NOT NULL,
-						numeroPlantillas NUMBER(1) NOT NULL,
 						idUsuario VARCHAR(100) NOT NULL,
 						idPlan NUMBER NOT NULL,
 						activa NUMBER(1) NOT NULL);
 						
 CREATE TABLE DefinicionVistas(nombre VARCHAR(50) NOT NULL,
-							idSuscripcion NUMBER NOT NULL);
+							idPlan NUMBER NOT NULL);
 							
 CREATE TABLE Usuarios(correo VARCHAR(100) NOT NULL,
 					nombre VARCHAR(300) NOT NULL,
@@ -92,6 +91,8 @@ CREATE TABLE Solicita(idSolicitud NUMBER NOT NULL,
 					idUsuario VARCHAR(100) NOT NULL);
 
 CREATE TABLE Planes(id NUMBER NOT NULL,
-					nombre VARCHAR(300) NOT NULL);
+					nombre VARCHAR(300) NOT NULL,
+					numeroPlantillas NUMBER(1) NOT NULL,
+					costo );
 
 CREATE TABLE Peliculas(id NUMBER NOT NULL);
