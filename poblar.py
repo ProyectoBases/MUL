@@ -1,4 +1,4 @@
-
+ 
 
 from sys import stdin
 import random
@@ -267,7 +267,7 @@ def actores():
     for i in range(1000):
         detalle = "\n\'<?xml version=\"1.0\"?>\n<!DOCTYPE detalle[<!ELEMENT detalle (nombre,apellido,fechaNacimiento,sexo)>\n<!ELEMENT nombre (#PCDATA)>\n<!ELEMENT apellido (#PCDATA)>\n<!ELEMENT fechaNacimiento (#PCDATA)>\n<!ELEMENT sexo (#PCDATA)>\n]>\n<detalle>\n<nombre>"+nombres[random.randrange(len(nombres))]+"</nombre>\n<apellido>"+apellidos[random.randrange(len(apellidos))]+"</apellido>\n<fechaNacimiento>"+str(random.randrange(1,30))+"/"+str(random.randrange(1,13))+"/"+str(random.randrange(1700,2000))+"</fechaNacimiento>\n<sexo>"+generos[random.randrange(len(generos))]+"</sexo>\n</detalle>"
         print("INSERT INTO actores (id,fechaFallecimiento,detalle) VALUES("+str(i)+","+"null"+","+detalle+"\');")
-actores()
+
 
 def actua():
     for i in range(1000):
@@ -343,7 +343,7 @@ def suscripciones():
         usuario = usuario.replace("INSERT INTO usuarios (correo,nombre,fechaNacimiento) VALUES(","")
         usuario = usuario.split(",")
         usuario = usuario[0]
-        print("INSERT INTO suscripciones (id,nombre,numeroPlantillas,idUsuario,idPlan,activa) VALUES("+str(i)+","+"\'"+nombre+"\'"+","+str(random.randrange(1,6))+","+usuario+","+str(random.randrange(0,3))+","+str(random.randrange(0,2))+");")
+        print("INSERT INTO suscripciones (id,nombre,idUsuario,idPlan,activa) VALUES("+str(i)+","+"\'"+nombre+"\'"+","+usuario+","+str(random.randrange(0,3))+","+str(random.randrange(0,2))+");")
         i+=1
         x = stdin.readline().strip()
 
@@ -352,12 +352,13 @@ def definicionVistas():
     vistas = ["normal","HD","ultra HD"]
     for i in range(1000):
         nombre = vistas[random.randrange(len(vistas))]
-        suscripcion = str(random.randrange(idSuscripcion))
-        while (nombre,suscripcion) in p:
+        plan = str(random.randrange(4))
+        while (nombre,plan) in p:
             nombre = vistas[random.randrange(len(vistas))]
-            suscripcion = str(random.randrange(idSuscripcion))
-        p.add((nombre,suscripcion))
-        print("INSERT INTO definicionVistas (nombre,idSuscripcion) VALUES("+"\'"+nombre+"\'"+","+suscripcion+");")
+            plan = str(random.randrange(4))
+        p.add((nombre,plan))
+        print("INSERT INTO definicionVistas (nombre,idPlan) VALUES("+"\'"+nombre+"\'"+","+plan+");")
+definicionVistas()
 
 
 def plantillas():

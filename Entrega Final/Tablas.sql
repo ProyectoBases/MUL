@@ -93,6 +93,6 @@ CREATE TABLE Solicita(idSolicitud NUMBER NOT NULL,
 CREATE TABLE Planes(id NUMBER NOT NULL,
 					nombre VARCHAR(300) NOT NULL,
 					numeroPlantillas NUMBER(1) NOT NULL,
-					costo );
+					costo NUMBER);
 
 CREATE TABLE Peliculas(id NUMBER NOT NULL);
