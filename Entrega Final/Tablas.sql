@@ -44,8 +44,8 @@ CREATE TABLE CapitulosDocumentales(id NUMBER NOT NULL,
 									numeroCapitulo NUMBER NOT NULL);
  
 CREATE TABLE Directores(id NUMBER NOT NULL,
-						nombre VARCHAR(300) NOT NULL,
-						apellido VARCHAR(300) NOT NULL,
+						nombre VARCHAR(100) NOT NULL,
+						apellido VARCHAR(100) NOT NULL,
 						calificacion NUMBER(2,1) NOT NULL);
 						
 CREATE TABLE Actua(idActor NUMBER NOT NULL,
@@ -81,7 +81,7 @@ CREATE TABLE DefinicionVistas(nombre VARCHAR(50) NOT NULL,
 							idPlan NUMBER NOT NULL);
 							
 CREATE TABLE Usuarios(correo VARCHAR(100) NOT NULL,
-					nombre VARCHAR(300) NOT NULL,
+					nombre VARCHAR(100) NOT NULL,
 					fechaNacimiento DATE NOT NULL);
 
 CREATE TABLE Solicitudes(id NUMBER NOT NULL,
